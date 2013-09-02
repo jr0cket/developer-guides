@@ -1,0 +1,2989 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="heroku-developer-team-workflow-with-github.svg"
+   inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7481">
+      <stop
+         style="stop-color:#9491c1;stop-opacity:1;"
+         offset="0"
+         id="stop7483" />
+      <stop
+         style="stop-color:#9491c1;stop-opacity:0;"
+         offset="1"
+         id="stop7485" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481"
+       id="linearGradient7487"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481-8"
+       id="linearGradient7500-5"
+       gradientUnits="userSpaceOnUse"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7481-8">
+      <stop
+         style="stop-color:#9491c1;stop-opacity:1;"
+         offset="0"
+         id="stop7483-4" />
+      <stop
+         style="stop-color:#9491c1;stop-opacity:0;"
+         offset="1"
+         id="stop7485-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481"
+       id="linearGradient7556"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,308.2677)"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481"
+       id="linearGradient7558"
+       gradientUnits="userSpaceOnUse"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481"
+       id="linearGradient7560"
+       gradientUnits="userSpaceOnUse"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481"
+       id="linearGradient7562"
+       gradientUnits="userSpaceOnUse"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481"
+       id="linearGradient7564"
+       gradientUnits="userSpaceOnUse"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481-8"
+       id="linearGradient7566"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(70.255034,52.354164)"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481-8-7"
+       id="linearGradient7566-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(70.255034,52.354164)"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7481-8-7">
+      <stop
+         style="stop-color:#9491c1;stop-opacity:1;"
+         offset="0"
+         id="stop7483-4-5" />
+      <stop
+         style="stop-color:#9491c1;stop-opacity:0;"
+         offset="1"
+         id="stop7485-9-0" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8177-1"
+       id="radialGradient8595-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0513351,783.69053,-345.99547)"
+       spreadMethod="repeat"
+       cx="-21.776644"
+       cy="825.87622"
+       fx="-21.776644"
+       fy="825.87622"
+       r="19.677668" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8177-1">
+      <stop
+         style="stop-color:#a09dc8;stop-opacity:1;"
+         offset="0"
+         id="stop8179-5" />
+      <stop
+         style="stop-color:#a09dc8;stop-opacity:0;"
+         offset="1"
+         id="stop8181-3" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="523.44524"
+     inkscape:cy="458.85642"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1551"
+     inkscape:window-height="876"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     borderlayer="false"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5472"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layout"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)"
+     style="display:inline;opacity:0.24">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#9491c1;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 416.90625,439.79895 c -3.03873,0 -5.5,1.55293 -5.5,3.5 l 0,19.21875 c 0,0.50057 0.17687,0.97604 0.46875,1.40625 l -28,0 c -9.18177,0 -16.59375,4.99408 -16.59375,11.1875 l 0,114.03125 c 0,6.19342 7.41198,11.1875 16.59375,11.1875 l 227.6875,0 c 9.18177,0 16.59375,-4.99408 16.59375,-11.1875 l 0,-114.03125 c 0,-6.19342 -7.41198,-11.1875 -16.59375,-11.1875 l -32.9375,0 c 0.29188,-0.43021 0.4375,-0.90568 0.4375,-1.40625 l 0,-19.21875 c 0,-1.94707 -2.43002,-3.5 -5.46875,-3.5 l -156.6875,0 z"
+       id="rect4343"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#9491c1;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect5145-1"
+       width="272.12814"
+       height="115.53522"
+       x="41.435913"
+       y="335.09454"
+       rx="6.8314457"
+       ry="5.0818644" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="65"
+       y="339.09448"
+       id="text6057"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.2677)"><tspan
+         sodipodi:role="line"
+         id="tspan6059"
+         x="65"
+         y="339.09448"></tspan><tspan
+         sodipodi:role="line"
+         id="tspan6061"
+         x="65"
+         y="354.09448" /></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.08194971;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect6146"
+       width="288.41763"
+       height="280.63943"
+       x="432.20099"
+       y="705.21375"
+       rx="6.7587557"
+       ry="8.0597744"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect6146-4"
+       width="119.83246"
+       height="28.615658"
+       x="600.28571"
+       y="955.67645"
+       rx="7.3081665"
+       ry="6.3218384"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="rect6146-8"
+       width="264.69986"
+       height="114.92168"
+       x="722.65002"
+       y="871.90131"
+       rx="6.2029557"
+       ry="8.3004761"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#9491c1;stroke-width:3.88887763;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 903.65625 137.34375 C 899.56462 137.34375 896.25 140.10108 896.25 143.5 L 896.25 155.6875 C 896.25 157.38696 897.0713 158.92231 898.40625 160.03125 L 892.09375 160.03125 C 886.47416 160.03125 881.9375 165.12977 881.9375 171.4375 L 881.9375 537.75 C 881.9375 544.05773 886.47416 549.15625 892.09375 549.15625 L 1008.9062 549.15625 C 1014.5258 549.15625 1019.0625 544.05773 1019.0625 537.75 L 1019.0625 171.4375 C 1019.0625 165.12977 1014.5258 160.03125 1008.9062 160.03125 L 1000.5938 160.03125 C 1001.9287 158.92231 1002.75 157.38696 1002.75 155.6875 L 1002.75 143.5 C 1002.75 140.10108 999.43538 137.34375 995.34375 137.34375 L 903.65625 137.34375 z "
+       transform="translate(0,308.2677)"
+       id="rect6514"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 105.25 427.53125 C 102.29436 427.53125 99.9375 430.91195 99.9375 435.125 L 99.9375 445.0625 C 99.9375 447.36651 100.65293 449.42016 101.78125 450.8125 L 61.1875 450.8125 C 56.506891 450.8125 52.71875 455.40677 52.71875 461.09375 L 52.71875 573.09375 C 52.71875 578.78073 56.506891 583.375 61.1875 583.375 L 305.8125 583.375 C 310.49311 583.375 314.28125 578.78073 314.28125 573.09375 L 314.28125 461.09375 C 314.28125 455.40677 310.49311 450.8125 305.8125 450.8125 L 263.21875 450.8125 C 264.34707 449.42016 265.0625 447.36651 265.0625 445.0625 L 265.0625 435.125 C 265.0625 430.91195 262.70564 427.53125 259.75 427.53125 L 105.25 427.53125 z "
+       transform="translate(0,308.2677)"
+       id="rect6551"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text"
+     style="display:inline;opacity:1">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6762a6;fill-opacity:1;stroke:#6762a6;font-family:Sans"
+       x="820.3551"
+       y="23.018158"
+       id="text2987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="820.3551"
+         y="23.018158"
+         id="tspan4106"
+         style="font-size:64px;font-weight:bold;text-align:center;text-anchor:middle;fill:#6762a6;stroke:#6762a6;-inkscape-font-specification:Sans Bold" /><tspan
+         sodipodi:role="line"
+         x="820.3551"
+         y="71.122185"
+         style="font-size:32px;font-weight:normal;text-align:center;text-anchor:middle;fill:#6762a6;stroke:#6762a6;-inkscape-font-specification:Sans Bold"
+         id="tspan4344"> Project teams &amp; Github</tspan></text>
+    <image
+       y="21.079079"
+       x="406.56799"
+       id="image5787"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAABkCAYAAAA8AQ3AAAAABHNCSVQICAgIfAhkiAAADD5JREFU eJztnU2WnDgWha/71LxiB6ZW4OgVmFqB01MmjZkwdHgFxiuoqCETTE2YVnoFplbQUStovIIOr6B7 oEcGjoxAAiR+73dOHjtBKYkfXZ6kpyeAEEIIIYQQQgghhBBCCCGEELItXnRJHEfFKwA+gJ2T2syH M4AyzYK/p64IIeSCkWDFUfEaQAIlVluiAnBIs+DL1BUhhBgIVhwVH6HEasvkaRa8m7oShGydVsGK o+I9gOPV4TOAEsDJUZ2mZo/b3d5jmgUfxq8OIaTmrmDJeNW1KCVQDfe7y0rNgTti7adZ8NcU9SGE AP9oOZdc/R6mWfBpC2IFAGkW/A5lbTVJJqgKIUS4KVhxVPwM4KFx6JhmwR/jVGk+yCxh0jjkx1Hx cqLqELJ57llY15bFdddoSzzrFk5RCUJIe5ew5pRmwTfnNZkp0gUuG4e8aWpCCDERrLPzWhBCiAEm gkUIIbOAgkUIWQw/ucpYPOS1pFnwaYpyhXzL43OELA1nggVznyVrgtVY82hCZVssCSFuWVuXMOmQ dsuuGoQsktUIllhXvmHyM4DcWWUIIU5YjWChm3V12MoSI0LWxCoEq6N1VW1xmREha8DloPuYdBmP Cl1VwpQ4Kr6iXWAZFWLDyAe4bElSplnw60jVmRWLt7DiqPgXnq99vMcjhYCQ5bJowZKoEqbW1Rkz sK4IIf1ZtGBBDbSbbogRcqCdkGWzWMGSfv7BMPkjN5IgZPksUrCkK5gbJq/AriAhq2CRggU1buUZ pn1gV5CQdbBUt4YcZhbWmZuhErIeFilYdE0gZJsstUtICNkgFCxCyGKgYBFCFsOsx7Bk9+k91Iyg L4f9G0nPULtUn6DWWdHnipAVMivBEoHyGz+mXuy7xt8c4qg4Q7k+HOnSQMh6mFywRKRCqJ2mPUvZ 7qCW7YRxVDysybVBPPx3uCz4rv9fyu+1lWldqKVsSHnXH5P6WNk4VkLta7noj4a8ox7u33NAOSif 1vSuzZHJBQuqgbnCA1DGUeEv9UWKo+INLtZjW1QK/+rvcgBJ3002GjHG6nJNrV3/+kAcFScoa9dZ HDJZ/bCX8j1cBGYHAGkWvOiY32tcPqT3rt2/8XcA8Ai1HGw2cdfiqPgT+mcY3npf4qj4DS3vXt9Q N/IhaAtecEqz4EPzwBwEyzU7KCfTf05cjy74cVQcoBpLX0IAD3FUHEwbThwVL6Es07ZG2oc9gDyO igSqUVjxo+sg5l3yrBuRPyCbB6h7n0B9NCYVLrlPunepbPm41R8C29RDOcZsZZZwL3GzlkKCYWJV s4MSitfalIpQfmyKVRMPyuLt/SziqHgTR8XnOCr+C2XJHGBPrD5CWfy+jfygrjePo+KrWIBTYRIk IHRdCRtsRbCAbjHf10Zu2GB81xURcvnqGxFHxc9xVLyPo+I/UCIVwrKoxlHxGe7eER9KqEcXLcPw 4YvZn3NLguVJl2eLeDCz2Hy31fgBrYiKUH2EGtDusuC9EzJGE7rIu8EeSmzHJtGcP8M8TNPkLEWw zlAzMiXUA0igxqW6Dtj71mq0PMK2kzJ2MyY76KPF7tEtSGNnxNIbq8H6HXcmH4R0vX1NsmRJs7hz HXQv5ecENVNw11wVq+kRZuMYnoW6TcUJ6p5U8v+nReDS6BJ0mEW8gac5X0F9JGon3ad6NV94eR57 KIsu1ORZTwq4ajCl/FvdOtkxxHYJ9Z7V7+T3xszkDjLQDr24HuKocO4fKHVLNMlOaRb87rIetpmL YFVQL0OJjj5EaRZ8i6MihFv3iKl4xGWK/O49SbPgSxwVJdQ98O6li6PiVYt7h07wDyYrCOTj8g3A lzgqjlDP9F4jrhv60Fm0pgX+JCgGf3eAXqjPUDHVns1sShn18S8ys5ujvfu9k3I/GdRvCAn01xY6 roN1phSsCqox5kv1kXLIER1NdfniV2h/Sdu+/jrBqkzrUpNmwd8ytd9mxfjoL1gVDIX0DqHm/Blq yzWj91Oe11vxeWoTrRAOBUu697pubrLEdje2YFVwI1LOxjgmotWickTrPRzwvHLoBasvVV+xkm60 p0nWd5VECPWu37unnsba7Y1h+PAyzQLXFp4Txhh0P0PdwH2aBb+kWfBhicq+AZyIvghv2ZLEc1Gu Ab7mfN7XwVWuOdcks+Fnd4sj2q3ls8OynePSwprd8gTSSttLXg7Mu9UZ05W1ocHXnB/qglA7tbaV b9XKkVnBUJNs0XscOBOsNAveusqbLI6z5vwUXfpWK2RoiKI0C/6SdYX38Ibkf42MW+WaZIelhxdf ih8WIdYwWKpka8a5LR/PUhm1WJWaZPnSXBhuMRe3BjIhBisA/Dgq/jdKZeZBaSmfVssyjoqXPZfE 7OOo+Nr8He1Wap5mwbse5cwOChYBlu1Q2wd/pHJ0C6k9KJ+1rnSJcnDCgpbe6GCXkJDnlJby0Y3d jcHiAyg2oWARsm7COCreT10JW1CwCFk/xwkWtzuBY1jEhOsFzy7yJ+ZcP48d9EurcgkVvujuIQWL mHDqG7d743iO8v3hechynBLtolWH6vnQkmb2sEtIyHO8kfKpbBQiVpNvkN+hQ7jsWULBIoC+u2cl ZvqM0F2vZ6mc1nxshiUW0TJZI2gaLnuWOBOsOCp+W/KN2RIG4xpri4ahGzPzhhYg735bPtXQMq6R 9Zg6nysPC97fwKWFtcdEgfeJfdYyyySMYVH6A+vQC1l+U2qSLbZr6LpLSNFaDpvpFopFWbUk2VvY sCTUnC8H5q8rW2dFmoaGnhVjjGFRtJZBpTnvj1CHMdEJdNg3Y7FGtRuX9s1fh4yNJZpk+zE3xLDF WIPuFK35o2vAD7aeXxwVL2ewsa0u3tVhwPXmmvOV6/hf0jXUPdMh1/jEmO16zFlCita8KTXnd9A3 xLuISL2Po+LfkB14Jn4XdIK1Q8f3VfZR/AwDJ07TPAeiG4A32WrNhE7DBXFUvJK9IDsHSRzbrYGi NVMksJtu3OMhjoo/TcZ3RKDeyGxxLVLX4XsnGxczDGO8B3AysQYlzQlmG1uMMn4kz7TUJAsNJlQq zfmkrU3XFnUcFZ9l9+46gkTn2ecpPN1r0Vr8MoEVcoR+7OMBSrhOUC9e1ThXx2XSxWeq8XHZJmsK Euj3EvSgrMEcl30hKzlXX6vp9QLjb1yaQC9aRwBtKxl0XUsfStgfcfno+Vf/WmEqx1FaWvPkCPN1 fXsoayJp/DxAvaCmjdc3r5p9ZHC6i7Xj48drPqDb9ZZjR/00tLJ8jZuDSdfNg7ofifz4GP58q+sD U3q6U7Rmhnz5kxGLnNxVQra7ykco6oTpdqsxEeW7aUTYS2u10VNC7Qf5LErq1EtzPKzPi3rRiAWQ j1TcXKI0HDB8l5w2TlANcJIhENlQo9Ik22vG6hJrFbrPI9R9+vXeZhlTCtYZqnLW1lMRO8iXLXFY RA717H9xWIYxaRZ8l12eEgfZHzGhWF3VQ0dy74QISGirMg0qKddLs+CtblefqQSrFituqDpTpKvk w15X4BHqhd+lWfBujttNyTV7sGNh1tbChxmIFWB2TV6blSV7jIYYbhmfIDPGsrnyJ1PDZYpZQoqV fkq37zozq/mKqPwqbgwP8mMyI1bJTwk10NxXnHSbOFjvUkrDeRdHxQGXSYR6JrCNM+R6oTYQHtJz sH7daRZ8j6PC9Nm15fOHzAbW90d3Xypc3oUTVCyv3vfmxa2DMmNQyq9ln+Btsg2Rf3XYiVhd1beN RL6iXfNvXkuvPNaG+O5cv/zVmrv4MkF03UDPG//43tzn0ZUFPaaFRctqRWzxOUrXbnZd2akZs3s/ 1hgWxYoQMpgxBItiRQixgmvBolgRQqzhUrAoVoQQqzgbdBdHvLHQTQPXVG6rQQhxySr2JeTsDSHb YOq1hIQQYgwFixCyGEwEy3NdiQXAiBKEzIB7gtVcq+QtdQ8zG8g6uuZyjHKiqhCyeW4KlrgiNEUr GaU28+Q6LIeTDTAJIXrauoTNhurLbiCbQq65GSUyn0moEEI2yc1oDcDTyvQKP47fnKCiFXxxXK9J iaPiDS7xumvOUPF7VhuNgJC5c1ewgKcQIiU46AwAD2sXakLmTussoYxl+di2h3i9xIhiRcjEaN0a RLT2UF2kynWFZkSFS6xpetETMgNau4S3uBN1cW2cOLhOCCGEEEIIIYQQQgghhBBCVsv/AU3QS7lU RNQcAAAAAElFTkSuQmCC "
+       height="67.675117"
+       width="203.02536"
+       style="fill:#6762a6;fill-opacity:1;stroke:#6762a6;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1107.1428"
+       y="251.23734"
+       id="text4164"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4166"
+         x="1107.1428"
+         y="251.23734" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="937.14288"
+       y="364.09448"
+       id="text4172"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4174"
+         x="937.14288"
+         y="364.09448" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3850-2-23-9-8-2-1-0-9"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6762a6;fill-opacity:1;font-family:Sans"
+       transform="matrix(0.94153338,0,0,0.94153338,149.30449,329.34447)"><flowRegion
+         id="flowRegion3852-2-5-2-27-6-0-3-2"><rect
+           id="rect3854-6-1-5-0-3-1-1-5"
+           width="348.50266"
+           height="25.253834"
+           x="69.700523"
+           y="388.52078"
+           style="fill:#6762a6" /></flowRegion><flowPara
+         id="flowPara3856-6-1-7-7-2-5-8-9"
+         style="font-size:16px">https://devcenter.heroku.com/</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3850-2-23-9-7"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.94153338,0,0,0.94153338,10.39876,329.34447)"><flowRegion
+         id="flowRegion3852-2-5-2-8"><rect
+           id="rect3854-6-1-5-7"
+           width="348.50266"
+           height="25.253834"
+           x="69.700523"
+           y="388.52078" /></flowRegion><flowPara
+         id="flowPara3856-6-1-7-86"
+         style="font-size:16px">Developer Guides</flowPara></flowRoot>    <path
+       style="fill:#6762a7;fill-opacity:0.70196078;stroke:#000000;stroke-width:3.25677776;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 952.47247,219.14865 c -20.6676,0 -37.4275,4.78128 -37.4275,10.68629 0,0.20229 0.038,0.3857 0.076,0.5852 -0.465,1.22163 -0.7633,2.81357 -0.7633,4.57984 l 0,29.10745 c 0,3.84049 1.3233,6.9461 2.9769,6.9461 0.1886,0 0.381,-0.0503 0.5597,-0.12715 5.627,3.87173 18.9906,6.58989 34.5778,6.58989 16.6538,0 30.7421,-3.10729 35.59563,-7.4041 0.1718,0.071 0.3535,0.10177 0.5343,0.10177 1.6535,0 2.9769,-3.08017 2.9769,-6.92065 l 0,-29.10745 c 0,-3.69977 -1.2299,-6.70544 -2.7988,-6.92065 -4.03313,-4.66142 -18.74693,-8.1165 -36.30803,-8.1165 z m 33.1529,15.64779 0,27.07197 c -6.2569,-3.40709 -18.752,-5.72482 -33.1529,-5.72482 -13.6732,0 -25.6313,2.08797 -32.1607,5.21594 l 0,-26.05421 c 6.5294,3.12797 18.4875,5.21592 32.1607,5.21592 14.4009,0 26.896,-2.31771 33.1529,-5.7248 z"
+       id="path5296-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="952.72437"
+       y="185.22467"
+       id="text5344-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5346-4"
+         x="952.72437"
+         y="185.22467"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold;font-size:16px">Heroku</tspan><tspan
+         sodipodi:role="line"
+         x="952.72437"
+         y="207.72467"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold;font-size:16px"
+         id="tspan9886">repo</tspan></text>
+    <path
+       sodipodi:type="spiral"
+       style="fill:#a09dc8;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path5369"
+       sodipodi:cx="408.10162"
+       sodipodi:cy="204.67302"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="22.154375"
+       sodipodi:argument="-18.096405"
+       sodipodi:t0="0"
+       d="m 408.10162,204.67302 c 0.81036,0.75971 -0.62427,1.46716 -1.26269,1.34687 -1.73007,-0.32599 -2.07719,-2.51732 -1.43105,-3.87225 1.15579,-2.42365 4.34782,-2.80618 6.48181,-1.51523 3.13173,1.89451 3.55582,6.20279 1.59942,9.09137 -2.60758,3.85003 -8.06642,4.31419 -11.70094,1.68359 -4.57367,-3.31033 -5.07707,-9.93414 -1.76777,-14.31049 4.008,-5.30035 11.80419,-5.84256 16.92005,-1.85195 6.02888,4.70279 6.6097,13.67567 1.93614,19.52961 -5.39581,6.75861 -15.54812,7.37792 -22.13918,2.02031 -7.48917,-6.08764 -8.1469,-17.42124 -2.10449,-24.74873 6.77866,-8.22034 19.29486,-8.91644 27.3583,-2.18868 8.95194,7.4691 9.68639,21.16885 2.27285,29.96786"
+       transform="matrix(0.97902552,0,0,0.97902552,553.25405,121.34976)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="635.11346"
+       y="176.67557"
+       id="text5678-5-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2"
+         x="635.11346"
+         y="176.67557"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">git push heroku master</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3850-2-23-9-7-9"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       transform="matrix(0.94153338,0,0,0.94153338,587.63237,329.34447)"><flowRegion
+         id="flowRegion3852-2-5-2-8-0"><rect
+           id="rect3854-6-1-5-7-4"
+           width="348.50266"
+           height="25.253834"
+           x="69.700523"
+           y="388.52078" /></flowRegion><flowPara
+         id="flowPara3856-6-1-7-86-1"
+         style="font-size:16px">Building Scalable apps</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3850-2-23-9-8-2-1-0-9-6"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6762a6;fill-opacity:1;display:inline;font-family:Sans"
+       transform="matrix(0.94153338,0,0,0.94153338,771.99496,329.34447)"><flowRegion
+         id="flowRegion3852-2-5-2-27-6-0-3-2-1"><rect
+           id="rect3854-6-1-5-0-3-1-1-5-6"
+           width="348.50266"
+           height="25.253834"
+           x="69.700523"
+           y="388.52078"
+           style="fill:#6762a6" /></flowRegion><flowPara
+         id="flowPara3856-6-1-7-7-2-5-8-9-2"
+         style="font-size:16px">http://12factor.net/</flowPara></flowRoot>    <g
+       style="display:inline"
+       id="g7548"
+       transform="matrix(0.58802433,0,0,0.64930168,972.30369,-325.75097)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0"
+         rx="0"
+         y="1106.9104"
+         x="-74.751289"
+         height="90.913727"
+         width="110.10663"
+         id="rect5914"
+         style="fill:url(#linearGradient7556);fill-opacity:1;stroke:#9491c1;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="0"
+         rx="0"
+         y="1136.4028"
+         x="-112.22591"
+         height="90.913727"
+         width="110.10663"
+         id="rect5914-0"
+         style="fill:url(#linearGradient7558);fill-opacity:1;stroke:#9491c1;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <rect
+         transform="matrix(0.58674821,0.80976944,-0.78940013,0.61387901,0,0)"
+         ry="0"
+         rx="0"
+         y="675.0575"
+         x="967.61285"
+         height="45.114525"
+         width="0.42472386"
+         id="rect5914-0-5"
+         style="fill:url(#linearGradient7560);fill-opacity:1;stroke:#9491c1;stroke-width:4.00115156;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <rect
+         transform="matrix(0.58674821,0.80976944,-0.78940013,0.61387901,0,0)"
+         ry="0"
+         rx="0"
+         y="623.02069"
+         x="895.91785"
+         height="45.114525"
+         width="0.42472386"
+         id="rect5914-0-5-7"
+         style="fill:url(#linearGradient7562);fill-opacity:1;stroke:#9491c1;stroke-width:4.00115156;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <rect
+         transform="matrix(0.58674821,0.80976944,-0.78940013,0.61387901,0,0)"
+         ry="0"
+         rx="0"
+         y="710.76959"
+         x="828.2196"
+         height="45.114525"
+         width="0.42472386"
+         id="rect5914-0-5-7-2"
+         style="fill:url(#linearGradient7564);fill-opacity:1;stroke:#9491c1;stroke-width:4.00115156;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <rect
+         transform="matrix(0.58674821,0.80976944,-0.78940013,0.61387901,0,0)"
+         ry="0"
+         rx="0"
+         y="763.12482"
+         x="898.47479"
+         height="45.114525"
+         width="0.42472386"
+         id="rect5914-0-5-7-2-3"
+         style="fill:url(#linearGradient7566);fill-opacity:1;stroke:#9491c1;stroke-width:4.00115156;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="89.658691"
+       y="241.0603"
+       id="text5678-5-4-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="89.658691"
+         y="241.0603"
+         id="tspan9028" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="411"
+       y="105.09448"
+       id="text9590"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9592"
+         x="411"
+         y="105.09448">A simplified view of team collaboration with Github.com &amp; Heroku</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="956.20801"
+       y="355.39114"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="959.07324"
+         y="355.39114"
+         id="tspan7768"
+         style="font-size:16px">deploy </tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.90617776;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect6144-3-7-3-2-4-3-6-6-3"
+       width="2.4224472"
+       height="72.306274"
+       x="916.75977"
+       y="293.65002"
+       rx="22.85055"
+       ry="10.464961"
+       transform="matrix(0.99998353,0.00574018,-8.4941705e-4,0.99999964,0,0)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5650-08-5-3-0-75-2-2-8-5-6-0"
+       transform="matrix(-0.00317097,-0.42182048,0.45451697,0.00431407,557.24605,471.95238)"
+       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5654-7-4-7-2-7-4-6-5-3-5-5"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4-7-9-8-2-8-9-7-8-4"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1-9-7-9-1-6-3-9-1-4"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <g
+       id="g5650-08-5-3-0"
+       transform="matrix(-0.42182048,0.00317097,0.00431407,-0.45451697,919.70567,556.51234)"
+       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5654-7-4-7-2"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4-7-9"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1-9-7"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.84773874;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect6144-3-7"
+       width="1.498534"
+       height="180.02727"
+       x="-196.7289"
+       y="644.72668"
+       rx="14.135428"
+       ry="26.055529"
+       transform="matrix(0.02310337,-0.99973308,0.99999998,2.1099101e-4,0,0)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="948.41156"
+       y="490.68243"
+       id="text5344-9-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="948.41156"
+         y="490.68243"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold;font-size:16px"
+         id="tspan9886-7">Dyno:</tspan><tspan
+         sodipodi:role="line"
+         x="948.41156"
+         y="513.18243"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold;font-size:16px"
+         id="tspan16117">Running</tspan><tspan
+         sodipodi:role="line"
+         x="948.41156"
+         y="535.68243"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold;font-size:16px"
+         id="tspan16797">Application</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="631.65869"
+       y="232.0603"
+       id="text5678-5-4-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-1"
+         x="631.65869"
+         y="232.0603"
+         style="font-size:16px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold Italic">git clone heroku-repo-url</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="632.37793"
+       y="254.0603"
+       id="text5678-5-4-6-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-1-1"
+         x="632.37793"
+         y="254.0603"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">git pull heroku master</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3850-2-23-9-8-2-1-0-9-3"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6762a6;fill-opacity:1;display:inline;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+       transform="matrix(0.94153338,0,0,0.94153338,443.86975,331.33528)"><flowRegion
+         id="flowRegion3852-2-5-2-27-6-0-3-2-7"><rect
+           id="rect3854-6-1-5-0-3-1-1-5-8"
+           width="348.50266"
+           height="25.253834"
+           x="69.700523"
+           y="388.52078"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#6762a6;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono" /></flowRegion><flowPara
+         id="flowPara3856-6-1-7-7-2-5-8-9-0"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono">@jr0cket</flowPara></flowRoot>    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.10408723;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 511.50447,161.47853 c -2.88446,0 -5.22513,2.29001 -5.22513,5.1166 0,2.47326 1.78605,4.53524 4.16599,5.01247 -0.22285,0.49987 -0.36187,1.18385 -0.36187,1.93695 l 0,1.67314 -5.06626,0 c -0.91715,0 -1.75259,0.095 -2.40956,0.25686 -0.15058,-0.0265 -0.36439,0.0473 -0.60901,0.18746 -0.42961,0.16779 -0.7063,0.37319 -0.77671,0.59705 -0.22669,0.2127 -0.461,0.45784 -0.68845,0.73591 l -4.91621,6.00523 c -0.89847,1.09842 -1.35168,2.21629 -1.02384,2.50624 0.32785,0.28995 1.31692,-0.35952 2.21538,-1.45792 l 4.90738,-6.00525 c 0.23689,-0.28961 0.43955,-0.57715 0.60901,-0.85392 0.68968,0.20753 1.63797,0.33324 2.69201,0.33324 l 5.06626,0 0,12.2257 c 0,0.7019 0.12118,1.33746 0.31773,1.82587 -0.74077,0.37822 -1.68953,1.38965 -2.44485,2.69369 l -5.76353,9.96244 c -1.05577,1.8227 -1.32819,3.49816 -0.60901,3.75588 0.71917,0.25774 2.14816,-1.00289 3.20392,-2.82559 l 5.76353,-9.96244 c 0.36509,-0.63032 0.63428,-1.24175 0.80317,-1.78422 0.20515,0.59538 0.56539,1.2858 1.05033,1.99943 l 6.55789,9.65699 c 1.20037,1.76644 2.7276,2.952 3.42458,2.65896 0.69698,-0.29303 0.29127,-1.94776 -0.90909,-3.71422 l -6.55791,-9.65699 c -0.8647,-1.27248 -1.90288,-2.24143 -2.67434,-2.57565 0.25188,-0.50725 0.40601,-1.22688 0.40601,-2.03415 l 0,-12.2257 3.92766,0 c 1.24252,0 2.3397,-0.1749 3.03623,-0.45126 0.17001,0.30665 0.39805,0.64864 0.69728,1.00666 l 4.98682,5.96358 c 0.91217,1.0914 2.02793,1.8746 2.49782,1.75645 0.4699,-0.11815 0.10899,-1.09548 -0.80318,-2.18688 l -4.98682,-5.96358 c -0.55293,-0.66156 -1.17338,-1.2104 -1.68581,-1.51347 -0.35494,-0.52745 -1.89114,-0.9164 -3.74234,-0.9164 l -3.92766,0 0,-1.67314 c 0,-0.72911 -0.12502,-1.39331 -0.3354,-1.88836 2.49871,-0.38235 4.40429,-2.50521 4.40429,-5.06106 0,-2.82659 -2.33183,-5.11661 -5.21631,-5.11661 z"
+       id="path3761-6-7-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:1.65857971;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 580.18835,179.39673 c -10.52539,0 -19.06073,2.43497 -19.06073,5.44221 0,0.10301 0.0191,0.19642 0.0388,0.29802 -0.23681,0.62215 -0.38872,1.43287 -0.38872,2.33238 l 0,14.82355 c 0,1.95586 0.67394,3.53745 1.51604,3.53745 0.096,0 0.19405,-0.0256 0.28507,-0.0648 2.86565,1.97176 9.67135,3.35604 17.60944,3.35604 8.4813,0 15.65601,-1.58246 18.12776,-3.77069 0.0875,0.0362 0.18001,0.0518 0.27212,0.0518 0.84209,0 1.51604,-1.56865 1.51604,-3.52448 l 0,-14.82356 c 0,-1.88418 -0.62634,-3.41487 -1.42534,-3.52448 -2.05394,-2.37392 -9.54725,-4.13349 -18.49058,-4.13349 z m 16.88381,7.96895 0,13.78694 c -3.18646,-1.73512 -9.54987,-2.91548 -16.88381,-2.91548 -6.96335,0 -13.05326,1.06334 -16.37849,2.65633 l 0,-13.26863 c 3.32523,1.59298 9.41514,2.65631 16.37849,2.65631 7.33394,0 13.69735,-1.18034 16.88381,-2.91547 z"
+       id="path5296-5-9-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.15869904px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="548.74927"
+       y="224.48105"
+       id="text5344-3-1-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5346-2-2-4"
+         x="548.74927"
+         y="224.48105"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Local repo</tspan></text>
+    <g
+       style="display:inline"
+       id="g16708-9"
+       transform="matrix(0.9159754,0,0,0.9159754,440.81616,-213.16887)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(0.33826916,0,0,0.33826916,-91.11803,184.68811)"
+         id="g5423-54-1"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-88-9"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-7-9"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-6-3"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-7-6">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-0-7">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-2-4">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-2-4">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-7-9"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-13-3"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-2-7">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-39-4">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-3-5">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-05-9">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.33826916,0,0,0.33826916,-100.34752,194.58854)"
+         id="g5423-6-6-5"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-4-41-8"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-8-11-1"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-7-5-1"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-4-7-8">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-7-52-9">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-7-6-7">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-43-6-8">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-9-5-2"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-54-10-8"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-0-5-4">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-1-1-1">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-7-0-3">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-7-4-2">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.33826916,0,0,0.33826916,-107.86785,204.84354)"
+         id="g5423-8-8-2"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-1-0-8"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-98-6-3"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-1-3-5"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-10-0-9">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-74-0-3">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-9-6-1">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-418-25-6">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-6-7-0"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-6-5-5"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-4-8-2">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-2-4-2">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-4-3-0">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-3-25-2">Or I dont know what I am doing</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:11.15869904px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="390.66745"
+       y="251.21219"
+       id="text5658-3-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5660-2-7"
+         x="390.66745"
+         y="251.21219">git add</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.15869904px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="558.38538"
+       y="274.87518"
+       id="text5662-7-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5664-0-3"
+         x="558.38538"
+         y="274.87518">git commit </tspan></text>
+    <path
+       style="opacity:0.5;fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:1.65857971;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 509.01417,239.17768 c -10.52538,0 -19.0607,2.43497 -19.0607,5.44221 0,0.10303 0.0191,0.19642 0.0388,0.29803 -0.23681,0.62214 -0.38874,1.43287 -0.38874,2.33237 l 0,14.82356 c 0,1.95585 0.67395,3.53743 1.51604,3.53743 0.0961,0 0.19406,-0.0256 0.28508,-0.0647 2.86565,1.97176 9.67136,3.35603 17.60945,3.35603 8.48128,0 15.65601,-1.58245 18.12775,-3.77068 0.0875,0.0362 0.18002,0.0519 0.27212,0.0519 0.84208,0 1.51604,-1.56864 1.51604,-3.52449 l 0,-14.82355 c 0,-1.88417 -0.62634,-3.41487 -1.42533,-3.52447 -2.05395,-2.37393 -9.54725,-4.1335 -18.49058,-4.1335 z m 16.88383,7.96896 0,13.78694 c -3.18646,-1.73513 -9.54987,-2.91547 -16.88383,-2.91547 -6.96334,0 -13.05324,1.06334 -16.37847,2.65632 l 0,-13.26864 c 3.32523,1.59299 9.41513,2.65632 16.37847,2.65632 7.33396,0 13.69737,-1.18035 16.88383,-2.91547 z"
+       id="path5296-3-0-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.15869904px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="483.93524"
+       y="282.76849"
+       id="text5344-9-9-2-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5346-1-1-4"
+         x="483.93524"
+         y="282.76849"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Staging</tspan></text>
+    <g
+       style="display:inline"
+       id="g16758-3"
+       transform="matrix(0,-0.9159754,0.9159754,0,81.77095,1257.9817)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5654-40-5"
+         transform="matrix(-0.09938199,0.00766709,0.00616726,0.12355098,1135.0632,412.26084)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-4-1"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-9-3"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5607-2-0-7"
+         d="m 1083.3215,498.12741 c -0.4393,44.6146 32.5062,45.62854 32.5062,45.62854"
+         style="fill:none;stroke:#000000;stroke-width:2.7071805;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:11.15869904px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="375.22324"
+       y="180.58615"
+       id="text5344-9-0-2-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5346-1-9-7-9"
+         x="375.22324"
+         y="180.58615"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Working </tspan><tspan
+         sodipodi:role="line"
+         x="375.22324"
+         y="194.53453"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan5784-47-8">copy</tspan></text>
+    <g
+       style="display:inline"
+       id="g16752-5"
+       transform="matrix(-0.9159754,0,0,0.9159754,447.43487,-208.58898)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5607-7-3"
+         d="m 8.05011,479.78963 c 0.44147,27.93123 -32.67041,28.56603 -32.67041,28.56603"
+         style="fill:none;stroke:#000000;stroke-width:2.7071805;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <g
+         id="g5654-2-4-2"
+         transform="matrix(0.16191515,0.01004783,-0.01004783,0.16191515,-56.31799,336.30756)"
+         style="stroke-width:16.68764687;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:16.68764687;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-0-1-5"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:16.68764687;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-8-5-7"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:11.15869904px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="511.74792"
+       y="219.02905"
+       id="text5658-2-6-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5660-1-5-4"
+         x="513.68762"
+         y="219.02905"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Dev </tspan><tspan
+         sodipodi:role="line"
+         x="511.74792"
+         y="232.97743"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan4345">Team</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.47048473px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="497.21539"
+       y="149.22186"
+       id="text5344-9-07-1-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="497.21539"
+         y="149.22186"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan9886-5-1-1">Development Team</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.06508195;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 193.55364,456.18111 c -2.78257,0 -5.04054,2.20911 -5.04054,4.93584 0,2.38589 1.72295,4.37502 4.01881,4.83539 -0.21498,0.48222 -0.34909,1.14203 -0.34909,1.86853 l 0,1.61402 -4.88727,0 c -0.88475,0 -1.69068,0.0917 -2.32444,0.24779 -0.14526,-0.0256 -0.35151,0.0456 -0.5875,0.18084 -0.41442,0.16186 -0.68134,0.36 -0.74926,0.57596 -0.21869,0.20518 -0.44472,0.44166 -0.66413,0.70991 l -4.74253,5.79308 c -0.86673,1.05961 -1.30393,2.13798 -0.98767,2.41769 0.31626,0.27971 1.27039,-0.34681 2.13711,-1.40641 l 4.73401,-5.79309 c 0.22853,-0.27938 0.42403,-0.55677 0.5875,-0.82376 0.66532,0.2002 1.58011,0.32147 2.59691,0.32147 l 4.88727,0 0,11.79379 c 0,0.6771 0.1169,1.29021 0.30652,1.76136 -0.71461,0.36487 -1.62985,1.34056 -2.35848,2.59853 l -5.55992,9.61049 c -1.01848,1.7583 -1.28128,3.37458 -0.5875,3.62319 0.69376,0.24863 2.07227,-0.96746 3.09073,-2.72576 l 5.55992,-9.6105 c 0.3522,-0.60805 0.61187,-1.19788 0.7748,-1.72118 0.1979,0.57434 0.54541,1.24037 1.01322,1.9288 l 6.32621,9.31582 c 1.15796,1.70404 2.63124,2.84771 3.3036,2.56503 0.67236,-0.28268 0.28098,-1.87896 -0.87698,-3.58301 l -6.32622,-9.31582 c -0.83416,-1.22753 -1.83566,-2.16226 -2.57987,-2.48467 0.24298,-0.48932 0.39166,-1.18353 0.39166,-1.96228 l 0,-11.79379 3.78892,0 c 1.19862,0 2.25703,-0.16872 2.92896,-0.43532 0.16401,0.29581 0.38398,0.62573 0.67264,0.97109 l 4.81065,5.75291 c 0.87994,1.05284 1.95629,1.80837 2.40958,1.6944 0.45329,-0.11398 0.10513,-1.05678 -0.7748,-2.10963 l -4.81066,-5.7529 c -0.53339,-0.63819 -1.13192,-1.16764 -1.62625,-1.46 -0.3424,-0.50882 -1.82432,-0.88403 -3.61012,-0.88403 l -3.78892,0 0,-1.61402 c 0,-0.70336 -0.1206,-1.34409 -0.32354,-1.82165 2.41043,-0.36884 4.24869,-2.41671 4.24869,-4.88227 0,-2.72673 -2.24945,-4.93584 -5.03202,-4.93584 z"
+       id="path3761-6-7-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:1.59998536;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 259.81105,471.53696 c -10.15355,0 -18.38735,2.34894 -18.38735,5.24994 0,0.0994 0.0185,0.18948 0.0375,0.28749 -0.22845,0.60017 -0.37499,1.38226 -0.37499,2.24999 l 0,14.29986 c 0,1.88676 0.65013,3.41247 1.46248,3.41247 0.0927,0 0.18719,-0.0247 0.27499,-0.0625 2.76442,1.9021 9.32969,3.23747 16.98734,3.23747 8.18167,0 15.10292,-1.52655 17.48735,-3.63748 0.0844,0.0349 0.17364,0.05 0.2625,0.05 0.81234,0 1.46249,-1.51324 1.46249,-3.39997 l 0,-14.29988 c 0,-1.81761 -0.60422,-3.29423 -1.37499,-3.39997 -1.98138,-2.29004 -9.20997,-3.98745 -17.83735,-3.98745 z m 16.28734,7.68741 0,13.29989 c -3.07389,-1.67383 -9.21249,-2.81249 -16.28734,-2.81249 -6.71734,0 -12.59211,1.02578 -15.79987,2.56249 l 0,-12.79988 c 3.20776,1.5367 9.08253,2.56247 15.79987,2.56247 7.07485,0 13.21345,-1.13864 16.28734,-2.81248 z"
+       id="path5296-5-9-87"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.76448441px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="229.48265"
+       y="515.02856"
+       id="text5344-3-1-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5346-2-2-0"
+         x="229.48265"
+         y="515.02856"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Local repo</tspan></text>
+    <g
+       style="display:inline"
+       id="g16708-96"
+       transform="matrix(0.88361581,0,0,0.88361581,125.3626,92.83992)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(0.33826916,0,0,0.33826916,-91.11803,184.68811)"
+         id="g5423-54-7"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-88-2"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-7-0"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-6-5"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-7-66">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-0-0">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-2-1">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-2-0">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-7-4"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-13-0"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-2-1">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-39-5">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-3-0">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-05-8">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.33826916,0,0,0.33826916,-100.34752,194.58854)"
+         id="g5423-6-6-9"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-4-41-3"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-8-11-3"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-7-5-8"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-4-7-5">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-7-52-0">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-7-6-0">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-43-6-82">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-9-5-4"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-54-10-6"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-0-5-9">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-1-1-3">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-7-0-8">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-7-4-0">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.33826916,0,0,0.33826916,-107.86785,204.84354)"
+         id="g5423-8-8-1"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-1-0-5"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-98-6-4"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-1-3-1"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-10-0-2">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-74-0-0">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-9-6-0">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-418-25-3">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-6-7-3"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-6-5-0"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-4-8-9">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-2-4-5">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-4-3-3">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-3-25-4">Or I dont know what I am doing</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.76448441px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="76.98555"
+       y="540.81531"
+       id="text5658-3-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5660-2-2"
+         x="76.98555"
+         y="540.81531">git add</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.76448441px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="238.77837"
+       y="563.6424"
+       id="text5662-7-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5664-0-1"
+         x="238.77837"
+         y="563.6424">git commit </tspan></text>
+    <path
+       style="opacity:0.5;fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:1.59998536;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 191.15132,529.20596 c -10.15355,0 -18.38733,2.34894 -18.38733,5.24995 0,0.0994 0.0185,0.18948 0.0374,0.2875 -0.22844,0.60016 -0.375,1.38225 -0.375,2.24997 l 0,14.29988 c 0,1.88675 0.65014,3.41246 1.46249,3.41246 0.0927,0 0.1872,-0.0247 0.275,-0.0624 2.76442,1.9021 9.32969,3.23747 16.98734,3.23747 8.18166,0 15.10292,-1.52654 17.48734,-3.63747 0.0844,0.0349 0.17366,0.05 0.2625,0.05 0.81234,0 1.46248,-1.51322 1.46248,-3.39998 l 0,-14.29986 c 0,-1.81761 -0.60421,-3.29423 -1.37497,-3.39996 -1.98139,-2.29006 -9.20997,-3.98747 -17.83735,-3.98747 z m 16.28735,7.68744 0,13.29987 c -3.07389,-1.67383 -9.21249,-2.81248 -16.28735,-2.81248 -6.71735,0 -12.5921,1.02578 -15.79986,2.56248 l 0,-12.79988 c 3.20776,1.53671 9.08251,2.56247 15.79986,2.56247 7.07486,0 13.21346,-1.13864 16.28735,-2.81246 z"
+       id="path5296-3-0-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:10.76448441px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="166.95836"
+       y="571.25677"
+       id="text5344-9-9-2-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5346-1-1-6"
+         x="166.95836"
+         y="571.25677"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Staging</tspan></text>
+    <g
+       style="display:inline"
+       id="g16758-7"
+       transform="matrix(0,-0.88361581,0.88361581,0,-220.99826,1512.0177)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5654-40-54"
+         transform="matrix(-0.09938199,0.00766709,0.00616726,0.12355098,1135.0632,412.26084)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-4-2"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-9-2"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5607-2-0-2"
+         d="m 1083.3215,498.12741 c -0.4393,44.6146 32.5062,45.62854 32.5062,45.62854"
+         style="fill:none;stroke:#000000;stroke-width:2.7071805;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.76448441px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="62.086899"
+       y="472.68433"
+       id="text5344-9-0-2-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5346-1-9-7-7"
+         x="62.086899"
+         y="472.68433"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Working </tspan><tspan
+         sodipodi:role="line"
+         x="62.086899"
+         y="486.13992"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+         id="tspan5784-47-0">copy</tspan></text>
+    <g
+       style="display:inline"
+       id="g16752-4"
+       transform="matrix(-0.88361581,0,0,0.88361581,131.74748,97.258)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path5607-7-8"
+         d="m 8.05011,479.78963 c 0.44147,27.93123 -32.67041,28.56603 -32.67041,28.56603"
+         style="fill:none;stroke:#000000;stroke-width:2.7071805;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <g
+         id="g5654-2-4-7"
+         transform="matrix(0.16191515,0.01004783,-0.01004783,0.16191515,-56.31799,336.30756)"
+         style="stroke-width:16.68764687;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:16.68764687;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-0-1-8"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:16.68764687;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-8-5-2"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:10.76448441px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="179.07549"
+       y="515.90826"
+       id="text5658-2-6-01"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5660-1-5-45"
+         x="179.07549"
+         y="515.90826"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Sam</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.95927143px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="182.88655"
+       y="442.49875"
+       id="text5344-9-07-1-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="182.88655"
+         y="442.49875"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan9886-5-1-6">External Developer</tspan></text>
+    <path
+       style="opacity:0.23999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.42015195;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 240.70121,1101.8694 c -9.37585,0 -16.9375,4.8426 -16.9375,10.8437 l 0,192.0625 c 0,6.0011 7.56165,10.8125 16.9375,10.8125 l 151.34375,0 c -0.60099,1.821 -0.96875,3.992 -0.96875,6.3125 l 0,7.0313 c 0,6.5371 2.76488,11.7812 6.1875,11.7812 l 113.21875,0 c 3.42262,0 6.1875,-5.2441 6.1875,-11.7812 l 0,-7.0313 c 0,-2.3205 -0.36776,-4.4915 -0.96875,-6.3125 l 151.34375,0 c 9.37585,0 16.9375,-4.8114 16.9375,-10.8125 l 0,-192.0625 c 0,-6.0011 -7.56165,-10.8437 -16.9375,-10.8437 l -426.34375,0 z"
+       id="rect6651"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g5650-08-5"
+       transform="matrix(-0.0041024,-0.42181245,0.45452538,0.00331042,-65.194643,1245.8739)"
+       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+      <g
+         id="g5654-7-4"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.80023313;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect6144"
+       width="2.5150728"
+       height="65.916847"
+       x="293.71936"
+       y="1080.2051"
+       rx="23.724274"
+       ry="9.5402117" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="312.05377"
+       y="1146.219"
+       id="text5678-5-4-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-2"
+         x="312.05377"
+         y="1146.219">git push <tspan
+   style="font-style:italic"
+   id="tspan6174-9">remote branch</tspan></tspan></text>
+    <g
+       id="g5650-08-5-3"
+       transform="matrix(3.5765739e-4,0.42183225,-0.45447808,-0.00734527,611.4904,984.31173)"
+       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+      <g
+         id="g5654-7-4-7"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4-7"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1-9"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.43700838;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect6144-3"
+       width="1.9690068"
+       height="114.77828"
+       x="-253.49962"
+       y="-1184.5789"
+       rx="18.57332"
+       ry="16.61198"
+       transform="matrix(-0.99898382,-0.04507015,0.00174691,-0.99999847,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="267.20712"
+       y="1193.7988"
+       id="text5678-5-4-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-5"
+         x="267.20712"
+         y="1193.7988">git pull <tspan
+   style="font-style:italic"
+   id="tspan6174-3">remote branch</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="245.94781"
+       y="1274.0007"
+       id="text5678-5-4-5-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-5-5"
+         x="245.94781"
+         y="1274.0007">git log --decorate --graph --oneline</tspan></text>
+    <g
+       id="g5650-08-5-3-0-0"
+       transform="matrix(-0.42182048,0.00317097,0.00431407,-0.45451697,1022.835,1582.1305)"
+       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+      <g
+         id="g5654-7-4-7-2-0"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4-7-9-3"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1-9-7-8"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.84773874;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect6144-3-7-1"
+       width="1.498534"
+       height="180.02727"
+       x="-1222.594"
+       y="771.55707"
+       rx="14.135428"
+       ry="26.055529"
+       transform="matrix(0.02310337,-0.99973308,0.99999998,2.1099101e-4,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="725.52197"
+       y="1201.2545"
+       id="text5678-5-4-5-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-5-3"
+         x="725.52197"
+         y="1201.2545">git clone <tspan
+   style="font-style:italic"
+   id="tspan6174-3-0">remote-repo-url</tspan></tspan></text>
+    <g
+       id="g5650-08-5-3-0-7"
+       transform="matrix(0.47742134,0.00317097,-0.00488271,-0.45451697,626.38184,1643.0994)"
+       style="stroke:#d40000;stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+      <g
+         id="g5654-7-4-7-2-4"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke:#d40000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#d40000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4-7-9-9"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#d40000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1-9-7-5"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <g
+       id="g6893"
+       transform="matrix(1.0574118,0,0,0.5842457,166.69724,963.75104)"
+       style="stroke:#d40000;display:inline">
+      <rect
+         transform="matrix(0.02310337,-0.99973308,0.99999998,2.1099101e-4,0,0)"
+         ry="26.055529"
+         rx="14.135428"
+         y="556.61487"
+         x="-547.45258"
+         height="180.02727"
+         width="1.498534"
+         id="rect6144-3-7-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:#d40000;stroke-width:4.84773874;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Italic"
+       x="758.20721"
+       y="1303.1378"
+       id="text5678-5-4-5-1-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="758.20721"
+         y="1303.1378"
+         id="tspan6968"
+         style="font-size:12px">* must be given access to </tspan><tspan
+         sodipodi:role="line"
+         x="758.20721"
+         y="1318.1378"
+         style="font-size:12px"
+         id="tspan6974">repository on Github to push</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="725.52197"
+       y="1263.1124"
+       id="text5678-5-4-5-1-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-5-3-9"
+         x="725.52197"
+         y="1263.1124">git push <tspan
+   style="font-style:italic;fill:#d40000;fill-opacity:1"
+   id="tspan6174-3-0-7">remote branch</tspan></tspan></text>
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:3.57743454;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 490.4229,573.22808 c -22.70248,0 -41.11257,5.25203 -41.11257,11.73845 0,0.22221 0.0414,0.42367 0.0839,0.64281 -0.51077,1.34191 -0.83845,3.0906 -0.83845,5.03078 l 0,31.97332 c 0,4.21861 1.45364,7.62998 3.26999,7.62998 0.20717,0 0.41855,-0.0553 0.61488,-0.13966 6.181,4.25293 20.86041,7.23873 37.98228,7.23873 18.29351,0 33.76883,-3.41324 39.10024,-8.1331 0.18874,0.078 0.38827,0.11175 0.58692,0.11175 1.81634,0 3.27,-3.38344 3.27,-7.60204 l 0,-31.97333 c 0,-4.06403 -1.35099,-7.36564 -3.07435,-7.60205 -4.4302,-5.12037 -20.59272,-8.91563 -39.88281,-8.91563 z m 36.41715,17.18845 0,29.73742 c -6.87295,-3.74254 -20.59834,-6.28846 -36.41715,-6.28846 -15.01942,0 -28.15489,2.29354 -35.32717,5.72949 l 0,-28.61948 c 7.17228,3.43596 20.30775,5.72948 35.32717,5.72948 15.81881,0 29.5442,-2.54591 36.41715,-6.28845 z"
+       id="path5296-7-9-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.69554806px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="491.2442"
+       y="651.99097"
+       id="text5344-98-2-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="493.45105"
+         y="651.99097"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan7057">Forked </tspan><tspan
+         sodipodi:role="line"
+         x="491.2442"
+         y="667.86041"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan6194">Project repo</tspan></text>
+    <g
+       id="g6187"
+       transform="matrix(0.89643433,-0.44317659,0.44317659,0.89643433,-135.69096,232.7594)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         transform="matrix(0.20997434,-0.36585974,0.3903201,0.23292596,49.0663,474.5978)"
+         id="g5650-08-5-3-0-9">
+        <g
+           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+           id="g5654-7-4-7-2-5">
+          <rect
+             transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="969.97491"
+             x="458.97156"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-74-4-7-9-6"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+          <rect
+             transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="1037.444"
+             x="-275.39764"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-7-29-1-9-7-2"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <rect
+         transform="matrix(0.97317345,0.23007267,-0.44804186,0.89401258,0,0)"
+         ry="5.6324539"
+         rx="4.0555029"
+         y="438.3577"
+         x="640.57916"
+         height="38.916702"
+         width="0.42993456"
+         id="rect6144-3-7-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.05488634;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="491.34271"
+       y="507.38025"
+       id="text5678-5-4-5-1-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-5-3-2"
+         x="491.34271"
+         y="507.38025"
+         style="font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic">Fork</tspan><tspan
+         sodipodi:role="line"
+         x="491.34271"
+         y="523.89978"
+         style="font-size:12px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic"
+         id="tspan3331">(Github website)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5.4044776;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 546.13862,607.21744 c 71.71006,-25.46345 52.29536,-69.98548 52.29536,-69.98548"
+       id="path5607-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="stroke-width:16.68764687;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       transform="matrix(0.01494895,0.23923166,0.23923166,-0.01494895,346.35826,491.69462)"
+       id="g5654-2-9"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
+         ry="2.511035"
+         rx="21.40765"
+         y="969.97491"
+         x="458.97156"
+         height="2.511035"
+         width="120.52968"
+         id="rect5609-0-0"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:16.68764687;stroke-miterlimit:4;stroke-dasharray:none" />
+      <rect
+         transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)"
+         ry="2.511035"
+         rx="21.40765"
+         y="1037.444"
+         x="-275.39764"
+         height="2.511035"
+         width="120.52968"
+         id="rect5609-7-8-9"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:16.68764687;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="607.02991"
+       y="508.70154"
+       id="text5678-5-4-5-1-8-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-5-3-2-5"
+         x="607.02991"
+         y="508.70154"
+         style="font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic">Pull Request</tspan><tspan
+         sodipodi:role="line"
+         x="607.02991"
+         y="525.22107"
+         style="font-size:12px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic"
+         id="tspan3331-0">(Github website)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="402.40924"
+       y="1333.8274"
+       id="text5836-0-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5838-9-4"
+         x="402.40924"
+         y="1333.8274">Remote</tspan></text>
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:4.335186;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 559.99382,410.07854 c -26.6096,0 -48.18806,6.58013 -48.18806,14.70679 0,0.27839 0.0485,0.5308 0.0983,0.80535 -0.59867,1.68125 -0.98274,3.87213 -0.98274,6.30293 l 0,40.05852 c 0,5.28539 1.70382,9.5594 3.83276,9.5594 0.24282,0 0.49059,-0.0693 0.72069,-0.17498 7.24475,5.32838 24.4505,9.0692 44.51906,9.0692 21.44184,0 39.58048,-4.27634 45.82942,-10.18973 0.22123,0.0977 0.4551,0.14 0.68794,0.14 2.12893,0 3.83276,-4.23902 3.83276,-9.52439 l 0,-40.05852 c 0,-5.09172 -1.58349,-9.22822 -3.60344,-9.5244 -5.19264,-6.41518 -24.13675,-11.17016 -46.74668,-11.17016 z m 42.68458,21.53494 0,37.25723 c -8.0558,-4.68894 -24.14334,-7.87866 -42.68458,-7.87866 -17.60428,0 -33.00037,2.87353 -41.407,7.17833 l 0,-35.85657 c 8.40663,4.30482 23.80272,7.17831 41.407,7.17831 18.54124,0 34.62878,-3.18971 42.68458,-7.87864 z"
+       id="path5296-7-9-3-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.69554806px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="659.79596"
+       y="443.53253"
+       id="text5344-98-2-7-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5346-19-3-7-7"
+         x="659.79596"
+         y="443.53253"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Project</tspan><tspan
+         sodipodi:role="line"
+         x="659.79596"
+         y="459.40198"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan7057-0">Github repo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="175.61182"
+       y="43.171448"
+       id="text5137"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5139"
+         x="177.52197"
+         y="43.171448">All members of the Heroku application </tspan><tspan
+         sodipodi:role="line"
+         x="177.52197"
+         y="58.171448"
+         id="tspan5141">development team can create a new </tspan><tspan
+         sodipodi:role="line"
+         x="175.61182"
+         y="73.171448"
+         id="tspan5143">deployment by pushing code to Heroku.</tspan><tspan
+         sodipodi:role="line"
+         x="175.61182"
+         y="88.171448"
+         id="tspan5393" /><tspan
+         sodipodi:role="line"
+         x="175.61182"
+         y="103.17145"
+         id="tspan5385">Other developers need to fork the project</tspan><tspan
+         sodipodi:role="line"
+         x="175.61182"
+         y="118.17145"
+         id="tspan5389">Github repository and send in pull requests</tspan><tspan
+         sodipodi:role="line"
+         x="175.61182"
+         y="133.17145"
+         id="tspan5391">to contribute to the project.</tspan></text>
+    <g
+       id="g5201"
+       transform="matrix(-1,0,0,1,1153,15)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         transform="matrix(-0.42182048,0.00317097,0.00431407,-0.45451697,615.09494,614.10312)"
+         id="g5650-08-5-3-0-3">
+        <g
+           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+           id="g5654-7-4-7-2-2">
+          <rect
+             transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="969.97491"
+             x="458.97156"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-74-4-7-9-35"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+          <rect
+             transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="1037.444"
+             x="-275.39764"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-7-29-1-9-7-6"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <rect
+         transform="matrix(0.02310337,-0.99973308,0.99999998,2.1099101e-4,0,0)"
+         ry="26.055529"
+         rx="14.135428"
+         y="341.44843"
+         x="-254.39906"
+         height="180.02727"
+         width="1.498534"
+         id="rect6144-3-7-0"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.84773874;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    </g>
+    <g
+       id="g5650-08-5-3-0-3-2-5"
+       transform="matrix(0.00327193,0.31037512,-0.46898856,-0.00317429,916.47113,262.63399)"
+       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5654-7-4-7-2-2-0-8"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4-7-9-35-4-1"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1-9-7-6-2-2"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.35935378;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect6144-3-7-0-4-4"
+       width="2.5509965"
+       height="50.784142"
+       x="-546.30133"
+       y="-384.1637"
+       rx="24.063137"
+       ry="7.3500395"
+       transform="matrix(-0.99999267,-0.00382844,0.00127359,-0.99999919,0,0)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5650-08-5-3-0-3-2-5-6"
+       transform="matrix(0.00317097,-0.42182048,-0.45451697,0.00431407,875.00864,445.18942)"
+       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5654-7-4-7-2-2-0-8-6"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4-7-9-35-4-1-0"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1-9-7-6-2-2-8"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.27832937;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect6144-3-7-0-4-4-9"
+       width="3.039115"
+       height="40.596123"
+       x="-515.47821"
+       y="307.21863"
+       rx="28.667479"
+       ry="5.8755174"
+       transform="matrix(-0.9999967,0.00256886,0.00189807,0.9999982,0,0)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="523.65869"
+       y="318.0603"
+       id="text5678-5-4-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-9"
+         x="523.65869"
+         y="318.0603"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">git push github master</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="557.69775"
+       y="357.0603"
+       id="text5678-5-4-8-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-9-8"
+         x="557.69775"
+         y="357.0603"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">git pull github master</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="556.69775"
+       y="380.0603"
+       id="text5678-5-4-8-5"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="30"
+       inkscape:transform-center-y="-8.7099609"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-9-0"
+         x="556.69775"
+         y="380.0603"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">git fetch github master</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="45.831467"
+       y="391.55298"
+       id="text5678-5-4-6-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="45.831467"
+         y="391.55298"
+         id="tspan5471"
+         style="font-size:16px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold Italic">git clone -o upstream github-repo-url</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="46.550705"
+       y="409.55298"
+       id="text5678-5-4-6-9-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-1-1-5"
+         x="46.550705"
+         y="409.55298"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold;font-size:16px">git pull upstream master</tspan></text>
+    <g
+       id="g5650-08-5-3-0-3-9"
+       transform="matrix(0.42182048,0.00317097,-0.00431407,-0.45451697,224.07784,780.59578)"
+       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5654-7-4-7-2-2-8"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4-7-9-35-9"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1-9-7-6-2"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.01423073;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect6144-3-7-0-2"
+       width="2.3163311"
+       height="79.860214"
+       x="-421.59811"
+       y="-400.21362"
+       rx="21.849577"
+       ry="11.558249"
+       transform="matrix(-0.0066303,-0.99997802,-0.99999973,7.3538078e-4,0,0)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5510"
+       transform="translate(132,-31)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         transform="matrix(0.42182048,0.00317097,-0.00431407,-0.45451697,113.405,1007.1031)"
+         id="g5650-08-5-3-0-3-9-8">
+        <g
+           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+           id="g5654-7-4-7-2-2-8-9">
+          <rect
+             transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="969.97491"
+             x="458.97156"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-74-4-7-9-35-9-3"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+          <rect
+             transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="1037.444"
+             x="-275.39764"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-7-29-1-9-7-6-2-1"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <rect
+         transform="matrix(-0.0066303,-0.99997802,-0.99999973,7.3538078e-4,0,0)"
+         ry="11.558249"
+         rx="21.849577"
+         y="-288.0394"
+         x="-648.02795"
+         height="79.860214"
+         width="2.3163311"
+         id="rect6144-3-7-0-2-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.01423073;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="166.65869"
+       y="656.0603"
+       id="text5678-5-4-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-91"
+         x="166.65869"
+         y="656.0603"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">git push github master</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.23999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 141.25,174.09375 c -3.74541,0 -6.75,3.46359 -6.75,7.75 l 0,13.5 c 0,3.48271 1.99459,6.42954 4.75,7.40625 l -92.375,0 c -6.205229,0 -11.21875,3.81735 -11.21875,8.5625 l 0,94.5625 c 0,4.74515 5.013521,8.5625 11.21875,8.5625 l 276.25,0 c 6.20523,0 11.21875,-3.81735 11.21875,-8.5625 l 0,-94.5625 c 0,-4.74515 -5.01352,-8.5625 -11.21875,-8.5625 l -89.375,0 c 2.75541,-0.97671 4.75,-3.92354 4.75,-7.40625 l 0,-13.5 c 0,-4.28641 -3.00459,-7.75 -6.75,-7.75 l -90.5,0 z"
+       id="rect6026"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="44"
+       y="228.09448"
+       id="text5622"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5624"
+         x="44"
+         y="228.09448"
+         style="font-size:12px">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="51.732925"
+       y="224.87268"
+       id="text5692"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5694"
+         x="51.732925"
+         y="224.87268"
+         style="font-size:10px;fill:#aa4400">320a863</tspan></text>
+    <g
+       id="g5949"
+       transform="translate(5,101)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5696"
+         y="123.7545"
+         x="97.226837"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:10px;font-weight:bold;fill:#aa4400;-inkscape-font-specification:Sans Bold"
+           y="123.7545"
+           x="97.226837"
+           id="tspan5698"
+           sodipodi:role="line">(</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5700"
+         y="123.7545"
+         x="179.73296"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d0800;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:10px;font-weight:bold;fill:#aa4400;-inkscape-font-specification:Sans Bold"
+           y="123.7545"
+           x="179.73296"
+           id="tspan5702"
+           sodipodi:role="line">)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5704"
+         y="124.12755"
+         x="102.21672"
+         style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-size:10px"
+           y="124.12755"
+           x="102.21672"
+           id="tspan5706"
+           sodipodi:role="line">HEAD</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5708"
+         y="123.96184"
+         x="133.61369"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#aa4400;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:10px"
+           y="123.96184"
+           x="133.61369"
+           id="tspan5710"
+           sodipodi:role="line">,</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5712"
+         y="123.87267"
+         x="139.27055"
+         style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-size:10px"
+           y="123.87267"
+           x="139.27055"
+           id="tspan5714"
+           sodipodi:role="line">master</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5716"
+         y="123.7624"
+         x="185.97765"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="123.7624"
+           x="185.97765"
+           id="tspan5718"
+           sodipodi:role="line">title not needed for image</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="44"
+       y="242.36641"
+       id="text5622-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5624-4"
+         x="44"
+         y="242.36641"
+         style="font-size:12px">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="51.942886"
+       y="239.14461"
+       id="text5692-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5694-4"
+         x="51.942886"
+         y="239.14461"
+         style="font-size:10px;fill:#aa4400">dbe658a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="102.48563"
+       y="239.03433"
+       id="text5716-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5718-0"
+         x="102.48563"
+         y="239.03433">added git and github workflow image</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="44"
+       y="258.62988"
+       id="text5622-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5624-3"
+         x="44"
+         y="258.62988"
+         style="font-size:12px">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="51.732925"
+       y="255.40807"
+       id="text5692-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5694-6"
+         x="51.732925"
+         y="255.40807"
+         style="font-size:10px;fill:#aa4400">43dec40</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="107.27057"
+       y="255.66293"
+       id="text5704-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5706-2"
+         x="107.27057"
+         y="255.66293"
+         style="font-size:10px;fill:#aa0000">github/master</tspan></text>
+    <g
+       id="g5941"
+       transform="translate(2.9461365,101)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5696-3"
+         y="154.28989"
+         x="99.280701"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:10px;font-weight:bold;fill:#aa4400;-inkscape-font-specification:Sans Bold"
+           y="154.28989"
+           x="99.280701"
+           id="tspan5698-1"
+           sodipodi:role="line">(</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5700-9"
+         y="154.28989"
+         x="185.78682"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d0800;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:10px;font-weight:bold;fill:#aa4400;-inkscape-font-specification:Sans Bold"
+           y="154.28989"
+           x="185.78682"
+           id="tspan5702-2"
+           sodipodi:role="line">)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5716-9"
+         y="154.29779"
+         x="192.03151"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="154.29779"
+           x="192.03151"
+           id="tspan5718-8"
+           sodipodi:role="line">fixed links for cheatsheet</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="44"
+       y="273.47913"
+       id="text5622-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5624-2"
+         x="44"
+         y="273.47913"
+         style="font-size:12px">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="51.732925"
+       y="270.25732"
+       id="text5692-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5694-5"
+         x="51.732925"
+         y="270.25732"
+         style="font-size:10px;fill:#aa4400">c48ccfa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="102.48563"
+       y="270.14703"
+       id="text5716-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5718-3"
+         x="102.48563"
+         y="270.14703">added links to git cheatsheets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="44"
+       y="290.44971"
+       id="text5622-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5624-0"
+         x="44"
+         y="290.44971"
+         style="font-size:12px">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="51.732925"
+       y="287.22787"
+       id="text5692-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5694-2"
+         x="51.732925"
+         y="287.22787"
+         style="font-size:10px;fill:#aa4400">c40061f</tspan></text>
+    <g
+       id="g5931"
+       transform="translate(6.4816742,101)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5696-4"
+         y="186.10971"
+         x="95.745163"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d45500;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:10px;font-weight:bold;fill:#aa4400;-inkscape-font-specification:Sans Bold"
+           y="186.10971"
+           x="95.745163"
+           id="tspan5698-9"
+           sodipodi:role="line">(</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5700-7"
+         y="186.10971"
+         x="184.25128"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2d0800;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:10px;font-weight:bold;fill:#aa4400;-inkscape-font-specification:Sans Bold"
+           y="186.10971"
+           x="184.25128"
+           id="tspan5702-7"
+           sodipodi:role="line">)</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5704-2"
+         y="186.48276"
+         x="100.73505"
+         style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ad0a0a;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-size:10px;fill:#ad0a0a;fill-opacity:1"
+           y="186.48276"
+           x="100.73505"
+           id="tspan5706-8"
+           sodipodi:role="line">heroku/master</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5716-0"
+         y="186.1176"
+         x="190.49597"
+         style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="186.1176"
+           x="190.49597"
+           id="tspan5718-37"
+           sodipodi:role="line">added StarLogs.net link</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="44"
+       y="305.80502"
+       id="text5622-96"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5624-9"
+         x="44"
+         y="305.80502"
+         style="font-size:12px">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="51.732925"
+       y="302.58322"
+       id="text5692-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5694-1"
+         x="51.732925"
+         y="302.58322"
+         style="font-size:10px;fill:#aa4400">58ac470</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="102.14383"
+       y="302.47296"
+       id="text5716-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5718-9"
+         x="102.14383"
+         y="302.47296">increased default text size to 16</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold"
+       x="32"
+       y="333.09448"
+       id="text6035"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6037"
+         x="32"
+         y="333.09448"
+         style="font-size:16px">git log --oneline --graph --decorate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.47048473px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="181.91522"
+       y="193.08658"
+       id="text5344-9-07-1-2-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="181.91522"
+         y="193.08658"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan9886-5-1-1-7">Git Log</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.47048473px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="660.4707"
+       y="666.18353"
+       id="text5344-9-07-1-2-77"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="660.4707"
+         y="666.18353"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan9886-5-1-1-9">Github.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="640.48584"
+       y="582.88159"
+       id="text5678-5-4-5-1-8-1-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-5-3-2-5-9"
+         x="640.48584"
+         y="582.88159"
+         style="font-size:12px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic">Code Reviews</tspan><tspan
+         sodipodi:role="line"
+         x="640.48584"
+         y="597.88159"
+         style="font-size:12px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic"
+         id="tspan3331-0-9">(Github website)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="851.95898"
+       y="578.40503"
+       id="text5137-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="851.95898"
+         y="578.40503"
+         id="tspan5391-8">Github provides forking and pull requests</tspan><tspan
+         sodipodi:role="line"
+         x="851.95898"
+         y="593.40503"
+         id="tspan6381">on top of the standard Git commands.</tspan><tspan
+         sodipodi:role="line"
+         x="851.95898"
+         y="608.40503"
+         id="tspan6383" /><tspan
+         sodipodi:role="line"
+         x="853.86914"
+         y="623.40503"
+         id="tspan6385">You fork a project when you wish to </tspan><tspan
+         sodipodi:role="line"
+         x="851.95898"
+         y="638.40503"
+         id="tspan6516">collaborate but dont have access.</tspan><tspan
+         sodipodi:role="line"
+         x="851.95898"
+         y="653.40503"
+         id="tspan6518">Pull requests let the project team know</tspan><tspan
+         sodipodi:role="line"
+         x="851.95898"
+         y="668.40503"
+         id="tspan6520">you have changes you want to share.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="46.814499"
+       y="603.13745"
+       id="text5678-5-4-6-7-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="46.814499"
+         y="603.13745"
+         id="tspan5471-7"
+         style="font-size:16px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold Italic">git clone -o github forked-repo-url</tspan></text>
+    <g
+       style="display:inline"
+       id="g5510-9"
+       transform="matrix(-1,0,0,1,633,-7.999977)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         transform="matrix(0.42182048,0.00317097,-0.00431407,-0.45451697,113.405,1007.1031)"
+         id="g5650-08-5-3-0-3-9-8-6">
+        <g
+           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+           id="g5654-7-4-7-2-2-8-9-6">
+          <rect
+             transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="969.97491"
+             x="458.97156"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-74-4-7-9-35-9-3-2"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+          <rect
+             transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="1037.444"
+             x="-275.39764"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-7-29-1-9-7-6-2-1-0"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <rect
+         transform="matrix(-0.0066303,-0.99997802,-0.99999973,7.3538078e-4,0,0)"
+         ry="11.558249"
+         rx="21.849577"
+         y="-288.0394"
+         x="-648.02795"
+         height="79.860214"
+         width="2.3163311"
+         id="rect6144-3-7-0-2-3-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.01423073;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.47048473px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="949.91522"
+       y="154.08658"
+       id="text5344-9-07-1-2-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-with-github--notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="949.91522"
+         y="154.08658"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan9886-5-1-1-6">Heroku app</tspan></text>
+  </g>
+</svg>
