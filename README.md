@@ -1,6 +1,8 @@
 # Visual Developer Guides
 
-A collection of guides aimed at developer tools that are commonly used.  
+A collection of guides for commonly used developer tools.  To see the guides, visit the Github pages for this repository at:
+
+[http://jr0cket.github.io/visual-developer-guides]  
 
 The guides include quick starts which help someone understand the essence of using a developer tool, such as a Git quickstart that demonstrates all the basic commands.
 
