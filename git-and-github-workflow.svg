@@ -25,17 +25,17 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="367.06612"
+     inkscape:cx="387.40431"
      inkscape:cy="381.8829"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1551"
+     inkscape:window-width="1600"
      inkscape:window-height="876"
-     inkscape:window-x="49"
+     inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,15 +55,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-308.2677)"
-     style="display:inline;opacity:0.24">
+     style="opacity:0.23999999;display:inline">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.42015195000000016;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.42015195;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 46.9375,465 C 37.56165,465 30,469.84266 30,475.84375 l 0,192.0625 c 0,6.00109 7.56165,10.8125 16.9375,10.8125 l 151.34375,0 c -0.60099,1.82095 -0.96875,3.992 -0.96875,6.3125 l 0,7.03125 c 0,6.53714 2.76488,11.78125 6.1875,11.78125 l 113.21875,0 c 3.42262,0 6.1875,-5.24411 6.1875,-11.78125 l 0,-7.03125 c 0,-2.3205 -0.36776,-4.49155 -0.96875,-6.3125 l 151.34375,0 c 9.37585,0 16.9375,-4.81141 16.9375,-10.8125 l 0,-192.0625 C 490.21875,469.84266 482.6571,465 473.28125,465 L 46.9375,465 z"
        transform="translate(0,308.2677)"
        id="rect6651"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67344248000000007;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67344248;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 896.14889,471.24281 c -4.41693,0 -7.975,2.46747 -7.975,5.51714 l 0,5.04647 c 0,1.95173 1.46729,3.6511 3.67373,4.62812 l -15.66238,0 c -4.41692,0 -7.975,2.45439 -7.975,5.50405 l 0,142.2034 c 0,3.04966 3.55808,5.50405 7.975,5.50405 l 136.42476,0 c 4.417,0 7.962,-2.45439 7.962,-5.50405 l 0,-142.2034 c 0,-3.04966 -3.545,-5.50405 -7.962,-5.50405 l -14.42031,0 c 2.20641,-0.97702 3.67371,-2.67639 3.67371,-4.62812 l 0,-5.04647 c 0,-3.04967 -3.55811,-5.51714 -7.97501,-5.51714 l -97.7395,0 z"
        id="rect6268-6"
        inkscape:connector-curvature="0" />
@@ -71,14 +71,17 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 87.71875,332.79895 c -10.557695,0 -19.0625,5.89795 -19.0625,13.1875 l 0,12.0625 c 0,4.66518 3.507251,8.72716 8.78125,11.0625 l -37.4375,0 c -10.557695,0 -19.0625,5.8667 -19.0625,13.15625 l 0,339.90625 c 0,7.28955 8.504805,13.15625 19.0625,13.15625 l 326.09375,0 c 10.55769,0 19.03125,-5.8667 19.03125,-13.15625 l 0,-339.90625 c 0,-7.28955 -8.47356,-13.15625 -19.03125,-13.15625 l -34.46875,0 c 5.274,-2.33534 8.78125,-6.39732 8.78125,-11.0625 l 0,-12.0625 c 0,-7.28955 -8.50481,-13.1875 -19.0625,-13.1875 l -233.625,0 z"
        id="rect6268"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67344248000000007;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.67344248;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 830.99659,826.73921 c -4.41693,0 -7.975,2.46747 -7.975,5.51714 l 0,5.04647 c 0,1.95173 1.46729,3.6511 3.67373,4.62812 l -15.66238,0 c -4.41692,0 -7.975,2.45439 -7.975,5.50405 l 0,142.2034 c 0,3.04966 3.55808,5.50405 7.975,5.50405 l 136.42475,0 c 4.417,0 7.962,-2.45439 7.962,-5.50405 l 0,-142.2034 c 0,-3.04966 -3.545,-5.50405 -7.962,-5.50405 l -14.4203,0 c 2.2064,-0.97702 3.6737,-2.67639 3.6737,-4.62812 l 0,-5.04647 c 0,-3.04967 -3.5581,-5.51714 -7.975,-5.51714 l -97.7395,0 z"
        id="rect6268-6-0"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.85618901000000003;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.85618901;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
        d="m 467.625,130.25 c -3.42262,0 -6.15625,5.27536 -6.15625,11.8125 l 0,7.03125 c 0,5.24744 1.77919,9.67649 4.25,11.21875 l -19.71875,0 c -3.44125,0 -6.1875,3.81974 -6.1875,8.5625 l 0,151.78125 c 0,4.74276 2.74625,8.5625 6.1875,8.5625 l 156.5,0 c 3.44125,0 6.21875,-3.81974 6.21875,-8.5625 l 0,-151.78125 c 0,-4.74276 -2.7775,-8.5625 -6.21875,-8.5625 l -19.6875,0 c 2.4691,-1.54413 4.21875,-5.97362 4.21875,-11.21875 l 0,-7.03125 c 0,-6.53714 -2.73363,-11.8125 -6.15625,-11.8125 l -113.25,0 z"
        id="rect6651-3"
        inkscape:connector-curvature="0"
@@ -93,13 +96,19 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.78099346;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 132.36396,103.31321 c -4.65291,0 -8.42861,3.69402 -8.42861,8.25355 0,3.9896 2.88105,7.31576 6.72011,8.08558 -0.35947,0.80635 -0.58373,1.90966 -0.58373,3.12448 l 0,2.69892 -8.17233,0 c -1.47945,0 -2.82709,0.15325 -3.88685,0.41436 -0.2429,-0.0429 -0.58778,0.0762 -0.98239,0.30237 -0.69299,0.27066 -1.13932,0.60199 -1.2529,0.9631 -0.36567,0.3431 -0.74363,0.73854 -1.11052,1.18708 l -7.9303,9.687 c -1.44932,1.77184 -2.1804,3.57507 -1.65155,4.04279 0.52884,0.46771 2.1243,-0.57993 3.57361,-2.35176 l 7.91606,-9.68701 c 0.38212,-0.46716 0.70903,-0.93101 0.98239,-1.37746 1.1125,0.33476 2.64218,0.53755 4.34245,0.53755 l 8.17233,0 0,19.72117 c 0,1.13222 0.19547,2.15744 0.51254,2.9453 -1.19494,0.61011 -2.72537,2.24163 -3.94378,4.34515 l -9.2971,16.07035 c -1.70305,2.94017 -2.14249,5.64284 -0.98239,6.05857 1.16009,0.41575 3.46518,-1.61776 5.16822,-4.55792 l 9.29709,-16.07035 c 0.58894,-1.01677 1.02316,-2.00306 1.29561,-2.87811 0.33092,0.96041 0.91202,2.07411 1.69428,3.22527 l 10.57847,15.5776 c 1.9363,2.84945 4.39986,4.76185 5.52416,4.28916 1.1243,-0.47269 0.46984,-3.14193 -1.46646,-5.99139 l -10.57849,-15.57759 c -1.39484,-2.05264 -3.06953,-3.61564 -4.31396,-4.15477 0.4063,-0.81824 0.65492,-1.97907 0.65492,-3.28127 l 0,-19.72117 6.33569,0 c 2.00429,0 3.77414,-0.28211 4.89771,-0.72793 0.27425,0.49466 0.64208,1.04632 1.12477,1.62384 l 8.0442,9.61981 c 1.47142,1.76052 3.27124,3.02389 4.02922,2.83331 0.75799,-0.19059 0.1758,-1.76712 -1.29561,-3.52764 l -8.0442,-9.61981 c -0.89191,-1.06716 -1.89276,-1.95249 -2.71937,-2.44136 -0.57254,-0.85082 -3.05057,-1.47824 -6.03672,-1.47824 l -6.33569,0 0,-2.69892 c 0,-1.17612 -0.20165,-2.24754 -0.54102,-3.04609 4.03064,-0.61677 7.10452,-4.04116 7.10452,-8.16397 0,-4.55953 -3.76146,-8.25355 -8.41438,-8.25355 z"
        id="path3761"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        transform="translate(0,-308.2677)"
        style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 85.059246,638.20551 c -16.978406,0 -30.746675,3.92782 -30.746675,8.77878 0,0.16618 0.03086,0.31685 0.0627,0.48074 -0.381988,1.00357 -0.627051,2.31135 -0.627051,3.76234 l 0,23.91175 c 0,3.15496 1.087138,5.70621 2.445519,5.70621 0.154938,0 0.313023,-0.0413 0.459843,-0.10445 4.622562,3.18062 15.600782,5.41359 28.405644,5.41359 13.68109,0 25.254564,-2.55264 29.241734,-6.08246 0.14115,0.0583 0.29037,0.0836 0.43894,0.0836 1.35837,0 2.44552,-2.53036 2.44552,-5.68531 l 0,-23.91175 c 0,-3.03936 -1.01036,-5.50851 -2.2992,-5.68531 -3.31319,-3.82935 -15.400594,-6.6677 -29.826994,-6.6677 z m 27.235144,12.85465 0,22.2396 c -5.14005,-2.79892 -15.404804,-4.70293 -27.235144,-4.70293 -11.232509,0 -21.056083,1.71526 -26.41998,4.28489 l 0,-21.40352 c 5.363897,2.56963 15.187471,4.28488 26.41998,4.28488 11.83034,0 22.095094,-1.904 27.235144,-4.70292 z"
        id="path5296"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        transform="translate(0,-308.2677)"
        xml:space="preserve"
@@ -107,7 +116,10 @@
        x="34.345196"
        y="710.9306"
        id="text5344"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5346"
          x="34.345196"
@@ -115,7 +127,10 @@
          style="font-weight:bold;-inkscape-font-specification:Sans Bold">Local repo</tspan></text>
     <g
        id="g5423"
-       transform="matrix(0.49981029,0,0,0.49981029,74.309835,-241.71001)">
+       transform="matrix(0.49981029,0,0,0.49981029,74.309835,-241.71001)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          ry="10.327389"
          rx="8.6119843"
@@ -184,7 +199,10 @@
     </g>
     <g
        id="g5423-6"
-       transform="matrix(0.49981029,0,0,0.49981029,60.672779,-227.0816)">
+       transform="matrix(0.49981029,0,0,0.49981029,60.672779,-227.0816)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          ry="10.327389"
          rx="8.6119843"
@@ -253,7 +271,10 @@
     </g>
     <g
        id="g5423-8"
-       transform="matrix(0.49981029,0,0,0.49981029,49.5611,-211.92931)">
+       transform="matrix(0.49981029,0,0,0.49981029,49.5611,-211.92931)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          ry="10.327389"
          rx="8.6119843"
@@ -326,11 +347,17 @@
        d="m 220.83591,502.58555 c 0.6523,41.26984 -48.27223,42.20779 -48.27223,42.20779"
        id="path5607"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
        transform="matrix(0.14684206,0.01132853,-0.00911245,0.182553,111.509,158.07528)"
-       id="g5654">
+       id="g5654"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
          ry="2.511035"
@@ -353,17 +380,19 @@
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
     </g>
     <text
-       transform="translate(0,-308.2677)"
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="237.38586"
-       y="514.68695"
+       x="229.38586"
+       y="206.41925"
        id="text5658"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5660"
-         x="237.38586"
-         y="514.68695">git add</tspan></text>
+         x="229.38586"
+         y="206.41925">git add</tspan></text>
     <text
        transform="translate(0,-308.2677)"
        xml:space="preserve"
@@ -371,23 +400,28 @@
        x="199.12189"
        y="622.30249"
        id="text5662"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5664"
          x="199.12189"
          y="622.30249">git commit </tspan></text>
     <text
-       transform="translate(0,-308.2677)"
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="237.38586"
-       y="538.5575"
+       x="229.38586"
+       y="230.28979"
        id="text5666"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5670"
-         x="237.38586"
-         y="538.5575">git status</tspan></text>
+         x="229.38586"
+         y="230.28979">git status</tspan></text>
     <text
        transform="translate(0,-308.2677)"
        xml:space="preserve"
@@ -395,41 +429,50 @@
        x="199.12189"
        y="644.40906"
        id="text5674"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5676"
          x="199.12189"
          y="644.40906">git log</tspan></text>
     <text
-       transform="translate(0,-308.2677)"
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="237.38586"
-       y="562.4281"
+       x="229.38586"
+       y="254.1604"
        id="text5678"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5680"
-         x="237.38586"
-         y="562.4281">git diff</tspan></text>
+         x="229.38586"
+         y="254.1604">git diff --cached</tspan></text>
     <path
-       transform="translate(0,-308.2677)"
        style="opacity:0.5;fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 116.52646,520.39261 c -16.978407,0 -30.746667,3.92782 -30.746667,8.77878 0,0.16618 0.0309,0.31685 0.0627,0.48074 -0.38199,1.00357 -0.62706,2.31135 -0.62706,3.76234 l 0,23.91175 c 0,3.15496 1.08714,5.70621 2.44552,5.70621 0.15494,0 0.31303,-0.0413 0.45985,-0.10445 4.62256,3.18062 15.600777,5.41359 28.405637,5.41359 13.6811,0 25.25457,-2.55264 29.24174,-6.08246 0.14115,0.0583 0.29037,0.0836 0.43894,0.0836 1.35837,0 2.44552,-2.53036 2.44552,-5.68531 l 0,-23.91175 c 0,-3.03936 -1.01036,-5.50851 -2.2992,-5.68531 -3.31319,-3.82935 -15.40059,-6.6677 -29.827,-6.6677 z m 27.23515,12.85465 0,22.2396 c -5.14005,-2.79892 -15.4048,-4.70293 -27.23515,-4.70293 -11.23251,0 -21.056077,1.71526 -26.419977,4.28489 l 0,-21.40352 c 5.3639,2.56963 15.187467,4.28488 26.419977,4.28488 11.83035,0 22.0951,-1.904 27.23515,-4.70292 z"
+       d="m 116.52646,204.12491 c -16.978407,0 -30.746667,3.92782 -30.746667,8.77878 0,0.16618 0.0309,0.31685 0.0627,0.48074 -0.38199,1.00357 -0.62706,2.31135 -0.62706,3.76234 l 0,23.91175 c 0,3.15496 1.08714,5.70621 2.44552,5.70621 0.15494,0 0.31303,-0.0413 0.45985,-0.10445 4.62256,3.18062 15.600777,5.41359 28.405637,5.41359 13.6811,0 25.25457,-2.55264 29.24174,-6.08246 0.14115,0.0583 0.29037,0.0836 0.43894,0.0836 1.35837,0 2.44552,-2.53036 2.44552,-5.68531 l 0,-23.91175 c 0,-3.03936 -1.01036,-5.50851 -2.2992,-5.68531 -3.31319,-3.82935 -15.40059,-6.6677 -29.827,-6.6677 z m 27.23515,12.85465 0,22.2396 c -5.14005,-2.79892 -15.4048,-4.70293 -27.23515,-4.70293 -11.23251,0 -21.056077,1.71526 -26.419977,4.28489 l 0,-21.40352 c 5.3639,2.56963 15.187467,4.28488 26.419977,4.28488 11.83035,0 22.0951,-1.904 27.23515,-4.70292 z"
        id="path5296-3"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
-       transform="translate(0,-308.2677)"
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="76.071907"
-       y="590.70856"
+       y="272.44086"
        id="text5344-9"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5346-1"
          x="76.071907"
-         y="590.70856"
+         y="272.44086"
          style="font-weight:bold;-inkscape-font-specification:Sans Bold">Staging</tspan></text>
     <path
        transform="translate(0,-308.2677)"
@@ -437,7 +480,10 @@
        d="m 187.96009,593.21531 c 0.64903,65.92039 -48.02967,67.41855 -48.02967,67.41855"
        id="path5607-2"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        transform="translate(0,-308.2677)"
        xml:space="preserve"
@@ -445,7 +491,10 @@
        x="281.91791"
        y="421.41492"
        id="text5344-9-0"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5346-1-9"
          x="281.91791"
@@ -459,7 +508,10 @@
     <g
        style="stroke-width:16.68764687;stroke-miterlimit:4;stroke-dasharray:none"
        transform="matrix(0.23923806,0.01484619,-0.01484619,0.23923806,125.7287,-17.68438)"
-       id="g5654-2">
+       id="g5654-2"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
          ry="2.511035"
@@ -488,11 +540,14 @@
        x="199.12189"
        y="666.51569"
        id="text5678-5"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5680-3"
          x="199.12189"
-         y="666.51569">git diff --cached</tspan></text>
+         y="666.51569">git diff</tspan></text>
     <text
        transform="translate(0,-308.2677)"
        xml:space="preserve"
@@ -500,7 +555,10 @@
        x="78.791901"
        y="360.4534"
        id="text5836"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5838"
          x="78.791901"
@@ -794,7 +852,10 @@
        x="50.529507"
        y="108.62358"
        id="text5658-2"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5660-1"
          x="50.529507"
@@ -1948,5 +2009,20 @@
          id="tspan3818"
          x="841.37073"
          y="380.61075">blog.jr0cket.co.uk</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="198.21571"
+       y="404.6795"
+       id="text5674-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5676-8"
+         x="198.21571"
+         y="404.6795"
+         style="font-weight:bold">git init</tspan></text>
   </g>
 </svg>
