@@ -14,7 +14,7 @@
    height="744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="git-quickstart-guilde-v1.svg"
    inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/git-quickstart-guilde-v1.png"
    inkscape:export-xdpi="90"
@@ -34,10 +34,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1351"
+     inkscape:window-width="1600"
+     inkscape:window-height="876"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      borderlayer="false"
      showborder="true"
@@ -959,8 +959,8 @@
          sodipodi:role="line"
          x="887.12079"
          y="149.76031"
-         style="font-size:24px;font-weight:normal;text-align:center;text-anchor:middle;fill:#f05033;stroke:#f05033;-inkscape-font-specification:Sans Bold"
-         id="tspan4344-4">blog.jr0cket.co.uk</tspan></text>
+         style="font-size:14px;font-weight:normal;text-align:center;text-anchor:middle;fill:#f05033;stroke:#f05033;-inkscape-font-specification:Sans Bold"
+         id="tspan4344-4">jr0cket.github.io/developer-guides</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16.84732437px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
