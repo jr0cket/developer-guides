@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="heroku-deployment-process-simplified.svg"
-   inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-deployment-process-simplified.png"
+   inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/heroku-deployment-process-simplified.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -198,8 +198,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="495.22019"
-     inkscape:cy="397.46746"
+     inkscape:cx="523.38741"
+     inkscape:cy="336.45893"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -227,7 +227,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -237,11 +237,6 @@
      id="layer1"
      transform="translate(0,-308.2677)"
      style="display:inline">
-    <path
-       style="fill:#ffffff;fill-opacity:0.70196078;stroke:#6762a6;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m -63.40625,108.2052 c -7.83103,0 -14.125,4.42548 -14.125,9.90625 l 0,10.5 c 0,3.8968 3.18704,7.26028 7.84375,8.875 l -56.34375,0 c -7.83103,0 -14.125,4.42548 -14.125,9.90625 l 0,57 c 0,5.48077 6.29397,9.875 14.125,9.875 l 246.5,0 c 7.83103,0 14.125,-4.39423 14.125,-9.875 l 0,-57 c 0,-5.48077 -6.29397,-9.90625 -14.125,-9.90625 l -52.3125,0 C 72.81876,135.87316 76,132.51123 76,128.61145 l 0,-10.5 c 0,-5.48077 -6.29397,-9.90625 -14.125,-9.90625 l -125.28125,0 z"
-       id="rect4542"
-       inkscape:connector-curvature="0" />
     <path
        style="fill:#ffffff;fill-opacity:0;stroke:#6762a6;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 708.18987,465.74928 c -7.15175,0 -12.90698,5.81635 -12.90698,13.02792 l 0,12.047 -218.85615,0 c -0.53739,-0.0249 -1.10418,-0.0613 -1.65634,-0.0613 l -117.66292,0 c -8.83453,0 -15.9384,3.2741 -15.9384,7.32629 l 0,208.72268 c 0,4.05218 7.10387,7.32629 15.9384,7.32629 l 87.03618,0 0,248.75671 c 0,8.44277 7.24521,15.23501 16.18842,15.23501 l 514.96668,0 c 8.9432,0 16.15716,-6.79224 16.15716,-15.23501 l 0,-456.83565 c 0,-8.44275 -7.21396,-15.23501 -16.15716,-15.23501 l -29.0954,0 0,-12.047 c 0,-7.21157 -5.75523,-13.02792 -12.90698,-13.02792 l -225.10651,0 z"
@@ -361,51 +356,7 @@
            x="69.700523"
            y="388.52078" /></flowRegion><flowPara
          id="flowPara3856-6-1-7-86"
-         style="font-size:16px">Heroku Developer Guides</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="-62.375519"
-       y="-178.84985"
-       id="text4538"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4540"
-         x="-62.375519"
-         y="-178.84985">Heroku Setup</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-117.89331"
-       y="-147.53513"
-       id="text4546"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4548"
-         x="-117.89331"
-         y="-147.53513">get.heroku.com</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-117.93393"
-       y="-106.11888"
-       id="text4550"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4552"
-         x="-117.93393"
-         y="-106.11888">heroku login</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-117.93393"
-       y="-126.32193"
-       id="text4554"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4556"
-         x="-117.93393"
-         y="-126.32193">toolbelt.heroku.com</tspan></text>
-    <path
+         style="font-size:16px">Heroku Developer Guides</flowPara></flowRoot>    <path
        style="fill:#6762a7;fill-opacity:0.70196078;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
        d="m 93.21683,278.98792 c -16.9784,0 -30.74667,3.92782 -30.74667,8.77878 0,0.16618 0.0309,0.31685 0.0627,0.48074 -0.38199,1.00357 -0.62705,2.31135 -0.62705,3.76234 l 0,23.91175 c 0,3.15496 1.08714,5.70621 2.44552,5.70621 0.15494,0 0.31302,-0.0413 0.45984,-0.10445 4.62256,3.18062 15.60078,5.41359 28.40564,5.41359 13.68109,0 25.25457,-2.55264 29.24174,-6.08246 0.14115,0.0583 0.29037,0.0836 0.43894,0.0836 1.35837,0 2.44552,-2.53036 2.44552,-5.68531 l 0,-23.91175 c 0,-3.03936 -1.01036,-5.50851 -2.2992,-5.68531 -3.31319,-3.82935 -15.4006,-6.6677 -29.827,-6.6677 z m 27.23515,12.85465 0,22.2396 c -5.14005,-2.79892 -15.40481,-4.70293 -27.23515,-4.70293 -11.2325,0 -21.05608,1.71526 -26.41997,4.28489 l 0,-21.40352 c 5.36389,2.56963 15.18747,4.28488 26.41997,4.28488 11.83034,0 22.0951,-1.904 27.23515,-4.70292 z"
        id="path5296-1"
