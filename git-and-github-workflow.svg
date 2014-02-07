@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="git-and-github-workflow.svg"
-   inkscape:export-filename="/home/jr0cket/Documents/git-and-github-workflow.png"
+   inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/git-and-github-workflow.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,8 +28,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="387.40431"
-     inkscape:cy="381.8829"
+     inkscape:cx="495.44643"
+     inkscape:cy="485.63753"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1321,7 +1321,7 @@
          sodipodi:role="line"
          id="tspan5680-6"
          x="959.18237"
-         y="570.08405">git diff</tspan></text>
+         y="570.08405">git diff--cached</tspan></text>
     <path
        transform="translate(0,-308.2677)"
        style="opacity:0.5;fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:1.11929893;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
@@ -1407,7 +1407,7 @@
          sodipodi:role="line"
          id="tspan5680-3-9"
          x="943.17426"
-         y="613.63019">git diff --cached</tspan></text>
+         y="613.63019">git diff </tspan></text>
     <text
        transform="translate(0,-308.2677)"
        xml:space="preserve"
@@ -1873,7 +1873,7 @@
          sodipodi:role="line"
          id="tspan5680-6-3"
          x="894.03009"
-         y="925.58044">git diff</tspan></text>
+         y="925.58044">git diff --cached</tspan></text>
     <path
        transform="translate(0,-308.2677)"
        style="opacity:0.5;fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:1.11929893;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
@@ -1959,7 +1959,7 @@
          sodipodi:role="line"
          id="tspan5680-3-9-8"
          x="878.02197"
-         y="969.12659">git diff --cached</tspan></text>
+         y="969.12659">git diff </tspan></text>
     <text
        transform="translate(0,-308.2677)"
        xml:space="preserve"
@@ -1985,30 +1985,28 @@
          y="510.56528"
          style="font-weight:bold;-inkscape-font-specification:Sans Bold">Carlos</tspan></text>
     <text
-       transform="translate(0,-308.2677)"
        xml:space="preserve"
-       style="display:inline;opacity:1;font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="526.99506"
-       y="351.13361"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="521.94006"
+       y="42.865906"
        id="text2985"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2987"
-         x="526.99506"
-         y="351.13361"
+         x="521.94006"
+         y="42.865906"
          style="font-size:40px;font-weight:bold;-inkscape-font-specification:Sans Bold">Git &amp; Github Workflow</tspan></text>
     <text
-       transform="translate(0,-308.2677)"
        xml:space="preserve"
-       style="display:inline;opacity:1;font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="841.37073"
-       y="380.61075"
+       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="673.37073"
+       y="72.343048"
        id="text3816"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3818"
-         x="841.37073"
-         y="380.61075">blog.jr0cket.co.uk</tspan></text>
+         x="673.37073"
+         y="72.343048">jr0cket.github.io/developer-guides</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
