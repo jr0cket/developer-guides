@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg11138"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Salesforce-developer-profile.svg"
+   inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/Salesforce-developer-profile.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs11140" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="231.9046"
+     inkscape:cy="790.51921"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="876"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata11143">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="92.14286"
+       y="270.93362"
+       id="text11146"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan11148" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="361.29602"
+       y="46.634182"
+       id="text2985-7-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-3-6"
+         x="361.29602"
+         y="46.634182">Force.com developer guide </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="581.3595"
+       y="75.17247"
+       id="text2985-6-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-9-3"
+         x="581.3595"
+         y="75.17247">User Profile</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="49.926823"
+       y="309.26538"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="49.926823"
+         y="309.26538">Profile settings control</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="52.844608"
+       y="349.98169"
+       id="text3009"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="52.844608"
+         y="349.98169"
+         id="tspan3013">Login IP Ranges</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="52.844608"
+       y="373.53174"
+       id="text3009-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="52.844608"
+         y="373.53174"
+         id="tspan3013-8">Console Settings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="52.844608"
+       y="441.06982"
+       id="text3009-73"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="52.844608"
+         y="441.06982"
+         id="tspan3013-4">Custom App Settings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="52.844608"
+       y="418.14111"
+       id="text3009-73-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="52.844608"
+         y="418.14111"
+         id="tspan3013-4-4">Field Level Security</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="52.844608"
+       y="395.64868"
+       id="text3009-73-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="52.844608"
+         y="395.64868"
+         id="tspan3013-4-5">Page Layouts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="39.856808"
+       y="104.4891"
+       id="text2985-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-3"
+         x="39.856808"
+         y="104.4891">Profiles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="42.936386"
+       y="181.06255"
+       id="text3009-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="42.936386"
+         y="181.06255"
+         id="tspan3013-2">System Administrator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="242.94659"
+       y="183.39938"
+       id="text3009-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="242.94659"
+         y="183.39938"
+         id="tspan3013-8-5">Standard User</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="586.39844"
+       y="183.58238"
+       id="text3009-73-9-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="586.39844"
+         y="183.58238"
+         id="tspan3013-4-4-4">Read Only</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="377.29688"
+       y="184.30315"
+       id="text3009-73-2-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="377.29688"
+         y="184.30315"
+         id="tspan3013-4-5-5">Standard Platform User</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="55.157169"
+       y="328.92133"
+       id="text3005-6-3-7-6-1-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="55.157169"
+         y="328.92133"
+         style="font-size:12px"
+         id="tspan9948-8-8-0">every profile is associated with a Salesforce license</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="178.72859"
+       y="395.20703"
+       id="text3005-6-3-7-6-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="178.72859"
+         y="395.20703"
+         style="font-size:12px"
+         id="tspan9948-8-2">standard &amp; custom objects</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="215.02924"
+       y="419.32477"
+       id="text3005-6-3-7-6-3-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="215.02924"
+         y="419.32477"
+         style="font-size:12px"
+         id="tspan9948-8-2-4">standard &amp; custom field-level security</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="49.973942"
+       y="541.43701"
+       id="text3009-73-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="49.973942"
+         y="541.43701"
+         id="tspan3013-4-9">Connected Apps</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="60.871452"
+       y="559.52161"
+       id="text3005-6-3-7-6-1-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="60.871452"
+         y="559.52161"
+         style="font-size:12px"
+         id="tspan9948-8-8-8">Ant Migration tool</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="196.82637"
+       y="559.52161"
+       id="text3005-6-3-7-6-1-7-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="196.82637"
+         y="559.52161"
+         style="font-size:12px"
+         id="tspan9948-8-8-8-3">Dataloader bulk</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="459.7041"
+       y="559.52161"
+       id="text3005-6-3-7-6-1-7-8-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="459.7041"
+         y="559.52161"
+         style="font-size:12px"
+         id="tspan9948-8-8-8-3-7">Force.com IDE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="58.13274"
+       y="575.23584"
+       id="text3005-6-3-7-6-1-7-8-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="58.13274"
+         y="575.23584"
+         style="font-size:12px"
+         id="tspan9948-8-8-8-3-79">Salesforce for Outlook</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="196.94453"
+       y="575.23584"
+       id="text3005-6-3-7-6-1-7-8-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="196.94453"
+         y="575.23584"
+         style="font-size:12px"
+         id="tspan9948-8-8-8-3-2">Salesforce Mobile Dashboards</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="376.306"
+       y="575.23584"
+       id="text3005-6-3-7-6-1-7-8-64"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="376.306"
+         y="575.23584"
+         style="font-size:12px"
+         id="tspan9948-8-8-8-3-8">Salesforce Touch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="483.13275"
+       y="575.23584"
+       id="text3005-6-3-7-6-1-7-8-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="483.13275"
+         y="575.23584"
+         style="font-size:12px"
+         id="tspan9948-8-8-8-3-20">Workbook</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="319.483"
+       y="559.52161"
+       id="text3005-6-3-7-6-1-7-8-72"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="319.483"
+         y="559.52161"
+         style="font-size:12px"
+         id="tspan9948-8-8-8-3-3">Dataloader partner</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="52.688225"
+       y="464.29419"
+       id="text3009-73-17"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="52.688225"
+         y="464.29419"
+         id="tspan3013-4-96">Tab Settings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="168.45781"
+       y="464.61047"
+       id="text3005-6-3-7-6-3-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="168.45781"
+         y="464.61047"
+         style="font-size:12px"
+         id="tspan9948-8-2-48">standard &amp; custom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="52.953182"
+       y="486.93991"
+       id="text3009-73-17-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="52.953182"
+         y="486.93991"
+         id="tspan3013-4-96-0">Record Type Settings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="236.72276"
+       y="487.2562"
+       id="text3005-6-3-7-6-3-9-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="236.72276"
+         y="487.2562"
+         style="font-size:12px"
+         id="tspan9948-8-2-48-3">standard &amp; custom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="53.370438"
+       y="613.78534"
+       id="text3009-73-1-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="53.370438"
+         y="613.78534"
+         id="tspan3013-4-9-2">Administrative permissions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="64.267929"
+       y="631.86987"
+       id="text3005-6-3-7-6-1-7-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="64.267929"
+         y="631.86987"
+         style="font-size:12px"
+         id="tspan9948-8-8-8-2">View All Data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="200.22285"
+       y="631.86987"
+       id="text3005-6-3-7-6-1-7-8-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="200.22285"
+         y="631.86987"
+         style="font-size:12px"
+         id="tspan9948-8-8-8-3-0">View All Users</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="52.608898"
+       y="511.22562"
+       id="text3009-73-17-1-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="52.608898"
+         y="511.22562"
+         id="tspan3013-4-96-0-5">General User Permissions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="275.74197"
+       y="511.94019"
+       id="text3005-6-3-7-6-3-9-2-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="275.74197"
+         y="511.94019"
+         style="font-size:12px"
+         id="tspan9948-8-2-48-3-9">Two Factor authentication User/API</tspan></text>
+    <a
+       style="display:inline"
+       id="a3359"
+       xlink:href="http://jr0cket.github.io/developer-guides"
+       transform="translate(-272.37489,-25.621245)">
+      <flowRoot
+         transform="matrix(0.94153338,0,0,0.94153338,622.05827,-259.58023)"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6762a6;fill-opacity:1;display:inline;font-family:Sans"
+         id="flowRoot3850-2-23-9-8-2-1-0-9-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3852-2-5-2-27-6-0-3-2-4"><rect
+             style="fill:#6762a6"
+             y="388.52078"
+             x="69.700523"
+             height="25.253834"
+             width="348.50266"
+             id="rect3854-6-1-5-0-3-1-1-5-9" /></flowRegion><flowPara
+           style="font-size:16.99355507px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="flowPara3856-6-1-7-7-2-5-8-9-1">http://jr0cket.github.io/developer-guides</flowPara></flowRoot>    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="46.672752"
+       y="124.52953"
+       id="text3005-6-3-7-6-1-2-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="46.672752"
+         y="124.52953"
+         style="font-size:12px"
+         id="tspan9948-8-8-0-4">A profile controls ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="38.326534"
+       y="157.93352"
+       id="text2985-7-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-3-0"
+         x="38.326534"
+         y="157.93352">Standard Profiles</tspan></text>
+    <a
+       style="display:inline"
+       id="a3359-1"
+       xlink:href="http://jr0cket.github.io/developer-guides"
+       transform="translate(-465.11377,900.31928)">
+      <flowRoot
+         transform="matrix(0.94153338,0,0,0.94153338,622.05827,-259.58023)"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6762a6;fill-opacity:1;display:inline;font-family:Sans"
+         id="flowRoot3850-2-23-9-8-2-1-0-9-9-2"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3852-2-5-2-27-6-0-3-2-4-6"><rect
+             style="fill:#6762a6"
+             y="388.52078"
+             x="69.700523"
+             height="25.253834"
+             width="348.50266"
+             id="rect3854-6-1-5-0-3-1-1-5-9-0" /></flowRegion><flowPara
+           style="font-size:16.99355507px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+           id="flowPara3856-6-1-7-7-2-5-8-9-1-9">http://jr0cket.github.io/developer-guides</flowPara></flowRoot>    </a>
+  </g>
+</svg>
