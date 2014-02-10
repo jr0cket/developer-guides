@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="heroku-deployment-workflow.svg"
-   inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/heroku-developer-workflow-overview.png"
+   inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/heroku-deployment-workflow.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -569,7 +569,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -789,23 +789,23 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6762a6;fill-opacity:1;stroke:#6762a6;font-family:Sans"
-       x="848.3551"
+       x="840.3551"
        y="17.018158"
        id="text2987"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="848.3551"
+         x="840.3551"
          y="17.018158"
          id="tspan4106"
          style="font-size:64px;font-weight:bold;text-align:center;text-anchor:middle;fill:#6762a6;stroke:#6762a6;-inkscape-font-specification:Sans Bold" /><tspan
          sodipodi:role="line"
-         x="848.3551"
-         y="65.122185"
-         style="font-size:32px;font-weight:500;text-align:center;text-anchor:middle;fill:#6762a6;stroke:#6762a6;-inkscape-font-specification:Ubuntu Medium;font-family:Ubuntu;font-style:normal;font-stretch:normal;font-variant:normal"
-         id="tspan4344">Deployment workflow</tspan></text>
+         x="840.3551"
+         y="65.671814"
+         style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;fill:#6762a6;stroke:#6762a6;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan4344">Deployment commands</tspan></text>
     <image
-       y="15.079079"
-       x="464.56799"
+       y="17.079079"
+       x="456.56799"
        id="image5787"
        xlink:href="data:image/png;base64,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 RNQcAAAAAElFTkSuQmCC "
        height="67.675117"
@@ -1339,14 +1339,14 @@
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="592.7019"
+       x="593.16638"
        y="91.094482"
        id="text9590"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="592.7019"
+         x="593.16638"
          y="91.094482"
          id="tspan12170"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">Deployment commands and their actions on Heroku</tspan></text>
@@ -2218,7 +2218,7 @@
        style="display:inline"
        id="a3359"
        xlink:href="http://jr0cket.github.io/developer-guides"
-       transform="translate(28.71775,-9.000003)">
+       transform="translate(29.182223,-9.000003)">
       <flowRoot
          transform="matrix(0.94153338,0,0,0.94153338,622.05827,-259.58023)"
          style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6762a6;fill-opacity:1;display:inline;font-family:Sans"
