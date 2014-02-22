@@ -29,8 +29,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="517.79891"
-     inkscape:cy="265.23846"
+     inkscape:cx="554.1217"
+     inkscape:cy="394.08715"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -473,86 +473,6 @@
          y="589.35657"
          style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
          id="tspan7057">Project repo</tspan></text>
-    <g
-       id="g5650-08-5-3-0-9"
-       transform="matrix(-0.20997434,0.36585974,-0.3903201,-0.23292596,1466.7319,394.00172)"
-       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none">
-      <g
-         id="g5654-7-4-7-2-5"
-         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
-         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
-           id="rect5609-74-4-7-9-6"
-           width="120.52968"
-           height="2.511035"
-           x="458.97156"
-           y="969.97491"
-           rx="21.40765"
-           ry="2.511035"
-           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
-        <rect
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
-           id="rect5609-7-29-1-9-7-2"
-           width="120.52968"
-           height="2.511035"
-           x="-275.39764"
-           y="1037.444"
-           rx="21.40765"
-           ry="2.511035"
-           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
-      </g>
-    </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.46856737;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect6144-3-7-8"
-       width="0.83716238"
-       height="77.133148"
-       x="-1149.9553"
-       y="-104.99177"
-       rx="7.8968167"
-       ry="11.163559"
-       transform="matrix(-0.97192731,-0.23528132,0.43960684,-0.89819031,0,0)" />
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="1113.1254"
-       y="269.50436"
-       id="text5678-5-4-5-1-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5680-3-2-5-3-2"
-         x="1113.1254"
-         y="269.50436"
-         style="font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic">Fork</tspan><tspan
-         sodipodi:role="line"
-         x="1113.1254"
-         y="286.02386"
-         style="font-size:12px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic"
-         id="tspan3331">(Github website)</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:5.07254601;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       d="m 1223.1656,308.79761 c 0.6378,67.87686 -47.1999,69.41952 -47.1999,69.41952"
-       id="path5607-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="1228.8125"
-       y="270.82565"
-       id="text5678-5-4-5-1-8-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5680-3-2-5-3-2-5"
-         x="1228.8125"
-         y="270.82565"
-         style="font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic">Pull Request</tspan><tspan
-         sodipodi:role="line"
-         x="1228.8125"
-         y="287.34515"
-         style="font-size:12px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic"
-         id="tspan3331-0">(Github website)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
@@ -628,109 +548,6 @@
          x="671.66492"
          y="120.91159"
          style="fill:#0000ff">jr0cket.github.io/developer-guides</tspan></text>
-    <path
-       style="opacity:0.23999999;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.85618901;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
-       d="m 1091.9028,12.254605 c -3.4226,0 -6.1562,5.27536 -6.1562,11.81251 l 0,7.03125 c 0,5.24744 1.7792,9.67649 4.25,11.21875 l -19.7188,0 c -3.4412,0 -6.1875,3.81974 -6.1875,8.5625 l 0,151.781245 c 0,4.74276 2.7463,8.5625 6.1875,8.5625 l 156.5,0 c 3.4413,0 6.2188,-3.81974 6.2188,-8.5625 l 0,-151.781245 c 0,-4.74276 -2.7775,-8.5625 -6.2188,-8.5625 l -19.6875,0 c 2.4691,-1.54413 4.2188,-5.97362 4.2188,-11.21875 l 0,-7.03125 c 0,-6.53715 -2.7337,-11.81251 -6.1563,-11.81251 l -113.25,0 z"
-       id="rect6651-3-9"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:4.33038759;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
-       d="m 1147.2251,53.392435 c -27.4808,0 -49.7657,6.35745 -49.7657,14.20907 0,0.26898 0.05,0.51285 0.1015,0.77811 -0.6182,1.62435 -1.0149,3.74109 -1.0149,6.08961 l 0,38.702835 c 0,5.10653 1.7596,9.2359 3.9582,9.2359 0.2508,0 0.5067,-0.0669 0.7443,-0.16906 7.482,5.14806 25.251,8.76228 45.9765,8.76228 22.1438,0 40.8763,-4.13163 47.3298,-9.84489 0.2285,0.0944 0.47,0.13531 0.7105,0.13531 2.1986,0 3.9582,-4.09556 3.9582,-9.20207 l 0,-38.702835 c 0,-4.91941 -1.6353,-8.91591 -3.7214,-9.20207 -5.3626,-6.19807 -24.9269,-10.79214 -48.2771,-10.79214 z m 44.0819,20.80615 0,35.996355 c -8.3195,-4.53025 -24.9337,-7.61202 -44.0819,-7.61202 -18.1806,0 -34.0808,2.77627 -42.7626,6.93539 l 0,-34.643095 c 8.6818,4.15913 24.582,6.93538 42.7626,6.93538 19.1482,0 35.7624,-3.08176 44.0819,-7.61201 z"
-       id="path5296-7-9-3-9"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="1149.9788"
-       y="158.60483"
-       id="text5344-98-2-7-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1149.9788"
-         y="158.60483"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
-         id="tspan7057-1">User/Org repo</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:24px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Bold"
-       x="1103.063"
-       y="38.005585"
-       id="text5836-0-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5838-9-0"
-         x="1103.063"
-         y="38.005585">Github</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="1149.7095"
-       y="181.43942"
-       id="text5678-5-4-5-1-8-7-1"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5680-3-2-5-3-2-54-2"
-         x="1149.7095"
-         y="181.43942"
-         style="font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic">master</tspan><tspan
-         sodipodi:role="line"
-         x="1149.7095"
-         y="197.95895"
-         style="font-size:12px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic"
-         id="tspan3331-1-1">branch</tspan></text>
-    <g
-       id="g5650-08-5-3-0-75-55"
-       transform="matrix(-0.42182048,0.00317097,0.00431407,-0.45451697,1389.9822,809.42596)"
-       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
-      <g
-         id="g5654-7-4-7-2-7-8"
-         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
-         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
-        <rect
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
-           id="rect5609-74-4-7-9-8-7"
-           width="120.52968"
-           height="2.511035"
-           x="458.97156"
-           y="969.97491"
-           rx="21.40765"
-           ry="2.511035"
-           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
-        <rect
-           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
-           id="rect5609-7-29-1-9-7-9-2"
-           width="120.52968"
-           height="2.511035"
-           x="-275.39764"
-           y="1037.444"
-           rx="21.40765"
-           ry="2.511035"
-           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
-      </g>
-    </g>
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.85428333;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
-       id="rect6144-3-7-3-2"
-       width="1.8096772"
-       height="217.40665"
-       x="-449.76993"
-       y="1081.3518"
-       rx="17.070393"
-       ry="31.465485"
-       transform="matrix(0.02310337,-0.99973308,0.99999998,2.1099101e-4,0,0)" />
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="1068.6691"
-       y="428.55005"
-       id="text5678-5-4-5-1-5-6"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5680-3-2-5-3-3-1"
-         x="1068.6691"
-         y="428.55005">git push <tspan
-   style="font-style:italic;fill:#008080;-inkscape-font-specification:Sans Italic"
-   id="tspan3397-6">github</tspan> master</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold;font-stretch:normal;font-variant:normal"
@@ -883,23 +700,6 @@
          y="448.45987"
          style="font-size:12px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Italic"
          id="tspan3331-1-5">branches</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="1099.0992"
-       y="750.64856"
-       id="text5678-5-4-5-1-8-7-2-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1099.0992"
-         y="750.64856"
-         style="font-size:12px;font-style:italic;text-align:start;text-anchor:start;-inkscape-font-specification:Sans Italic"
-         id="tspan3331-1-5-5">Creates a new repository on Github.  </tspan><tspan
-         sodipodi:role="line"
-         x="1099.0992"
-         y="765.64856"
-         style="font-size:12px;font-style:italic;text-align:start;text-anchor:start;-inkscape-font-specification:Sans Italic"
-         id="tspan3807">Alternatively use the Github website if you do not have hub installed</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
