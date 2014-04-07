@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="291.82001"
-     inkscape:cy="785.46109"
+     inkscape:cy="681.74909"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -100,7 +100,7 @@
          sodipodi:role="line"
          x="502.41388"
          y="178.87189"
-         id="tspan3376">Simple List of data *</tspan></text>
+         id="tspan3376">Basic table data for simple charts</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -111,7 +111,7 @@
          sodipodi:role="line"
          id="tspan3019"
          x="502.41388"
-         y="203.85075">Sortable &amp; subtotal list</tspan></text>
+         y="203.85075">Summary of a record</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -122,7 +122,7 @@
          sodipodi:role="line"
          id="tspan3023"
          x="502.41388"
-         y="226.81824">Grid for comparing related totals</tspan></text>
+         y="226.81824">Row &amp; Column summaries</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -374,20 +374,20 @@
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="400.71429"
-       y="237.36218"
+       y="283.36218"
        id="text3380"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3382"
          x="400.71429"
-         y="237.36218" /><tspan
+         y="283.36218" /><tspan
          sodipodi:role="line"
          x="400.71429"
-         y="252.36218"
+         y="298.36218"
          id="tspan3384">* no subtotals, custom summary formulas, charts,</tspan><tspan
          sodipodi:role="line"
          x="400.71429"
-         y="267.36218"
+         y="313.36218"
          id="tspan3386">or conditional hightlighting</tspan></text>
     <text
        xml:space="preserve"
@@ -536,5 +536,40 @@
              id="rect3854-6-1-5-0-3-1-1-5-9-2" /></flowRegion><flowPara
            style="font-size:16.99355507px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
            id="flowPara3856-6-1-7-7-2-5-8-9-1-9">http://jr0cket.github.io/developer-guides</flowPara></flowRoot>    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:italic;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;font-family:Sans;-inkscape-font-specification:Sans Italic"
+       x="399.8418"
+       y="248.81824"
+       id="text3001-7-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3003-3-0"
+         x="399.8418"
+         y="248.81824"
+         style="font-style:normal;fill:#800000;stroke:#800000">Joined</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="502.58484"
+       y="247.68918"
+       id="text3021-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3023-2"
+         x="502.58484"
+         y="247.68918">View over several sub reports</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="23.330614"
+       y="523.21118"
+       id="text3005-2-6-7-9-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3007-69-3-5-9-5"
+         x="23.330614"
+         y="523.21118"
+         style="font-size:18px;font-weight:500;-inkscape-font-specification:Ubuntu Medium">Buckets</tspan></text>
   </g>
 </svg>
