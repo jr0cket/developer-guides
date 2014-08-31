@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,13 +110,13 @@
     <text
        xml:space="preserve"
        style="font-size:16.84732437px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="441.21973"
+       x="437.21973"
        y="676.05505"
        id="text3846-8-5-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3848-6-6-2"
-         x="441.21973"
+         x="437.21973"
          y="676.05505"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">git push <tspan
    style="font-style:italic;font-weight:normal;-inkscape-font-specification:Courier 10 Pitch Italic"
@@ -145,10 +145,8 @@
            x="69.700523"
            y="388.52078"
            style="fill:#f05033" /></flowRegion><flowPara
-         id="flowPara3856-6-1-7-3-6"
-         style="font-size:16px;fill:#f05033">git-and-github-workshop</flowPara><flowPara
          style="font-size:16px;fill:#f05033"
-         id="flowPara5200">      .            herokuapp.com</flowPara></flowRoot>    <text
+         id="flowPara3238">jr0cket.co.uk/git-workshop</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f05033;fill-opacity:1;stroke:#f05033;font-family:Sans"
        x="888.3551"
@@ -429,14 +427,14 @@
        xml:space="preserve"
        id="flowRoot3850-2-1"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       transform="matrix(0.93596247,0,0,0.93596247,-5.843105,-105.72643)"><flowRegion
+       transform="matrix(0.93596247,0,0,0.93596247,-11.843105,-105.72643)"><flowRegion
          id="flowRegion3852-2-5"><rect
            id="rect3854-6-5"
            width="377.39291"
            height="28.42251"
            x="69.700523"
            y="388.52078" /></flowRegion><flowPara
-         id="flowPara3856-6-2">Add everything, a specific file or lines</flowPara></flowRoot>    <flowRoot
+         id="flowPara3856-6-2">Stage everything, a specific file or hunks</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3850-2-1-6"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -447,7 +445,7 @@
            height="28.42251"
            x="69.700523"
            y="388.52078" /></flowRegion><flowPara
-         id="flowPara3856-6-2-9">Commit all changes staged</flowPara></flowRoot>    <text
+         id="flowPara3856-6-2-9">Commit all staged changes</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:16.84732437px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f05033;fill-opacity:1;stroke:#f05033;display:inline;font-family:Sans"
        x="51.047325"
@@ -629,7 +627,7 @@
            height="42.933739"
            x="69.700523"
            y="388.52078" /></flowRegion><flowPara
-         id="flowPara3856-6-2-9-1-0-7">Remove a file from staging</flowPara></flowRoot>    <flowRoot
+         id="flowPara3856-6-2-9-1-0-7">Remove a tracked file from staging</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3850-2-1-6-1-9-9-8"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -640,9 +638,7 @@
            height="28.42251"
            x="69.700523"
            y="388.52078" /></flowRegion><flowPara
-         id="flowPara3856-6-2-9-1-0-7-4">Remove staged files (<flowSpan
-   style="font-size:17.09470177px"
-   id="flowSpan3501">if no commits yet</flowSpan>)</flowPara></flowRoot>    <flowRoot
+         id="flowPara3856-6-2-9-1-0-7-4">Remove untracked file from staging</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3850-2-1-6-1-9-9-8-2"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -668,13 +664,13 @@
     <text
        xml:space="preserve"
        style="font-size:16.84732437px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="441.21973"
+       x="437.21973"
        y="622.3407"
        id="text3846-8-5-8-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3848-6-6-2-5"
-         x="441.21973"
+         x="437.21973"
          y="622.3407"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">git pull <tspan
    style="font-style:italic;font-weight:normal;-inkscape-font-specification:Courier 10 Pitch Italic"
@@ -774,7 +770,7 @@
        xml:space="preserve"
        id="flowRoot3850-2-1-6-1"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       transform="matrix(0.93596247,0,0,0.93596247,-13.308822,282.66121)"><flowRegion
+       transform="matrix(0.93596247,0,0,0.93596247,-15.308822,282.66121)"><flowRegion
          id="flowRegion3852-2-5-3-2"><rect
            id="rect3854-6-5-3-1"
            width="377.39291"
@@ -851,7 +847,7 @@
            height="28.42251"
            x="69.700523"
            y="388.52078" /></flowRegion><flowPara
-         id="flowPara3856-6-2-9-7">Update last commit with staged</flowPara></flowRoot>    <text
+         id="flowPara3856-6-2-9-7">Modify the change last committed *</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:16.84732437px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
        x="60.277184"
@@ -866,17 +862,17 @@
     <text
        xml:space="preserve"
        style="font-size:16.84732437px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="441.21973"
+       x="439.21973"
        y="570.74292"
        id="text3846-8-5-8-1-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3848-6-6-2-5-7"
-         x="441.21973"
+         x="439.21973"
          y="570.74292"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">git clone<tspan
    style="font-style:italic;font-weight:normal"
-   id="tspan5288"> repo-url</tspan></tspan></text>
+   id="tspan5288"> remote-name repo-url</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3850-2-1-6-1-9-1-2"
@@ -892,7 +888,7 @@
        xml:space="preserve"
        id="flowRoot3850-2-23-9-7-7"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       transform="matrix(0.94153338,0,0,0.94153338,715.98291,68.465173)"><flowRegion
+       transform="matrix(0.94153338,0,0,0.94153338,715.98291,66.465173)"><flowRegion
          id="flowRegion3852-2-5-2-8-9"><rect
            id="rect3854-6-1-5-7-1"
            width="231.99013"
@@ -938,7 +934,7 @@
            x="69.700523"
            y="388.52078" /></flowRegion><flowPara
          style="font-size:16px"
-         id="flowPara5319-2-5-9">source code &amp; configs</flowPara></flowRoot>    <flowRoot
+         id="flowPara5319-2-5-9">source code &amp; config files</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3850-2-23-9-7-7-4-7-7-3"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -1039,8 +1035,33 @@
          id="tspan3848-2-4-6"
          x="59.15147"
          y="317.83954"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">git add -p<tspan
+   style="font-style:italic;font-weight:normal"
+   id="tspan3557-6" /></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.84732437px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="201.29105"
+       y="318.73486"
+       id="text3846-3-0-6-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3848-2-4-6-5"
+         x="201.29105"
+         y="318.73486"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">git add -p <tspan
    style="font-style:italic;font-weight:normal"
-   id="tspan3557-6">file</tspan></tspan></text>
+   id="tspan3557-6-3">file</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="38.656349"
+       y="718.15442"
+       id="text3232"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3234"
+         x="38.656349"
+         y="718.15442">* Be wary of any git commands that change the history, eg  git commit --amend, git rebase, especially once changes are shared with other repositories</tspan></text>
   </g>
 </svg>
