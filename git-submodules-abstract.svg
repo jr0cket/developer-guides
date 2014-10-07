@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="343.49634"
+   height="250.22426"
+   id="svg5368"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="git-submodules-abstract.svg"
+   inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/git-submodules-abstract.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs5370" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="208.22376"
+     inkscape:cy="129.72396"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="8"
+     fit-margin-left="8"
+     fit-margin-right="8"
+     fit-margin-bottom="8"
+     inkscape:window-width="1502"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5373">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-32.909099,-36.54996)">
+    <path
+       style="fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 114.55785,224.88768 c -16.97841,0 -30.746681,3.9278 -30.746681,8.7788 0,0.1662 0.0309,0.3168 0.0627,0.4807 -0.38198,1.0036 -0.62705,2.3114 -0.62705,3.7624 l 0,23.9117 c 0,3.155 1.08714,5.7062 2.44552,5.7062 0.15494,0 0.31302,-0.041 0.45984,-0.1044 4.62257,3.1806 15.600791,5.4136 28.405651,5.4136 13.68109,0 25.25456,-2.5527 29.24173,-6.0825 0.14115,0.058 0.29037,0.084 0.43894,0.084 1.35837,0 2.44552,-2.5304 2.44552,-5.6853 l 0,-23.9118 c 0,-3.0393 -1.01036,-5.5085 -2.2992,-5.6853 -3.31319,-3.8293 -15.40059,-6.6677 -29.82699,-6.6677 z m 27.23514,12.8546 0,22.2396 c -5.14005,-2.7989 -15.4048,-4.7029 -27.23514,-4.7029 -11.23251,0 -21.05608,1.7153 -26.419981,4.2849 l 0,-21.4035 c 5.363901,2.5696 15.187471,4.2849 26.419981,4.2849 11.83034,0 22.09509,-1.904 27.23514,-4.703 z"
+       id="path5296-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-submodules-theme-devguides.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="151.22237"
+       y="245.72021"
+       id="text5344-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-submodules-theme-devguides.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="151.22237"
+         y="245.72021"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan5433">Sub-</tspan><tspan
+         sodipodi:role="line"
+         x="151.22237"
+         y="265.72021"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan5470">Submodule</tspan></text>
+    <path
+       style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 88.632539,166.92279 c -16.97841,0 -30.74668,3.9278 -30.74668,8.7788 0,0.1662 0.0309,0.3168 0.0627,0.4807 -0.38198,1.0036 -0.62705,2.3114 -0.62705,3.7624 l 0,23.9117 c 0,3.155 1.08714,5.7062 2.44552,5.7062 0.15494,0 0.31302,-0.041 0.45984,-0.1044 4.62257,3.1806 15.60079,5.4136 28.40565,5.4136 13.681091,0 25.254561,-2.5527 29.241731,-6.0825 0.14115,0.058 0.29037,0.084 0.43894,0.084 1.35837,0 2.44552,-2.5304 2.44552,-5.6853 l 0,-23.9118 c 0,-3.0393 -1.01036,-5.5085 -2.2992,-5.6853 -3.31319,-3.8293 -15.40059,-6.6677 -29.826991,-6.6677 z m 27.235141,12.8546 0,22.2396 c -5.14005,-2.7989 -15.4048,-4.7029 -27.235141,-4.7029 -11.23251,0 -21.05608,1.7153 -26.41998,4.2849 l 0,-21.4035 c 5.3639,2.5696 15.18747,4.2849 26.41998,4.2849 11.830341,0 22.095091,-1.904 27.235141,-4.703 z"
+       id="path5296-0-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-submodules-theme-devguides.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="125.92708"
+       y="193.75531"
+       id="text5344-0-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-submodules-theme-devguides.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="125.92708"
+         y="193.75531"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan4377">Submodule2</tspan></text>
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 73.557849,45.88768 c -16.97841,0 -30.74668,3.9278 -30.74668,8.7788 0,0.1662 0.0309,0.3168 0.0627,0.4807 -0.38198,1.0036 -0.62705,2.3114 -0.62705,3.7624 l 0,23.9117 c 0,3.155 1.08714,5.7062 2.44552,5.7062 0.15494,0 0.31302,-0.041 0.45984,-0.1044 4.62257,3.1806 15.60079,5.4136 28.40565,5.4136 13.68109,0 25.25456,-2.5527 29.241731,-6.0825 0.14115,0.058 0.29037,0.084 0.43894,0.084 1.35837,0 2.44552,-2.5304 2.44552,-5.6853 l 0,-23.9118 c 0,-3.0393 -1.01036,-5.5085 -2.2992,-5.6853 -3.31319,-3.8293 -15.400591,-6.6677 -29.826991,-6.6677 z m 27.235141,12.8546 0,22.2396 c -5.140051,-2.7989 -15.404801,-4.7029 -27.235141,-4.7029 -11.23251,0 -21.05608,1.7153 -26.41998,4.2849 l 0,-21.4035 c 5.3639,2.5696 15.18747,4.2849 26.41998,4.2849 11.83034,0 22.09509,-1.904 27.235141,-4.703 z"
+       id="path5296-02"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-submodules-theme-devguides.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="113.28169"
+       y="61.479187"
+       id="text5344-0-3-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-submodules-theme-devguides.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="113.28169"
+         y="61.479187"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan4377-5">Main</tspan><tspan
+         sodipodi:role="line"
+         x="113.28169"
+         y="83.979187"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan5493">Repository</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="249.31744"
+       y="183.11017"
+       id="text5344-9-0-4-1-0-6-9-9-3-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-submodules-theme-devguides.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="249.31744"
+         y="183.11017"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-1-7-1-3-8-7-4">my-project/</tspan><tspan
+         sodipodi:role="line"
+         x="249.31744"
+         y="203.11017"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5323">submodule2/*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="249.31744"
+       y="236.13422"
+       id="text5344-9-0-4-1-0-6-9-9-3-2-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-submodules-theme-devguides.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="249.31744"
+         y="236.13422"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-1-7-1-3-8-7-4-4">my-project/</tspan><tspan
+         sodipodi:role="line"
+         x="249.31744"
+         y="256.13422"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5327"><tspan
+           style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+           id="tspan5313">submodule2/</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="249.31744"
+         y="276.13422"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5330">sub-submodule/*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="249.31744"
+       y="65.134216"
+       id="text5344-9-0-4-1-0-6-9-9-3-2-34"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-submodules-theme-devguides.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="249.31744"
+         y="65.134216"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-1-7-1-3-8-7-4-6"><tspan
+   style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+   id="tspan5339">my-project</tspan>/*</tspan></text>
+    <path
+       style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 88.734067,104.60318 c -16.978406,0 -30.746676,3.9278 -30.746676,8.7788 0,0.1662 0.0309,0.3168 0.0627,0.4807 -0.38198,1.0036 -0.62705,2.3114 -0.62705,3.7624 l 0,23.9117 c 0,3.155 1.08714,5.7062 2.44552,5.7062 0.15494,0 0.31302,-0.041 0.45984,-0.1044 4.62257,3.1806 15.60079,5.4136 28.405646,5.4136 13.681093,0 25.254563,-2.5527 29.241733,-6.0825 0.14115,0.058 0.29037,0.084 0.43894,0.084 1.35837,0 2.44552,-2.5304 2.44552,-5.6853 l 0,-23.9118 c 0,-3.0393 -1.01036,-5.5085 -2.2992,-5.6853 -3.31319,-3.8293 -15.40059,-6.6677 -29.826993,-6.6677 z m 27.235143,12.8546 0,22.2396 c -5.14005,-2.7989 -15.4048,-4.7029 -27.235143,-4.7029 -11.232506,0 -21.056076,1.7153 -26.419976,4.2849 l 0,-21.4035 c 5.3639,2.5696 15.18747,4.2849 26.419976,4.2849 11.830343,0 22.095093,-1.904 27.235143,-4.703 z"
+       id="path5296-0-8-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-submodules-theme-devguides.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="126.02862"
+       y="131.4357"
+       id="text5344-0-3-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-submodules-theme-devguides.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="126.02862"
+         y="131.4357"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan4377-55">Submodule1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="249.31744"
+       y="120.79055"
+       id="text5344-9-0-4-1-0-6-9-9-3-2-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-submodules-theme-devguides.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="249.31744"
+         y="120.79055"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-1-7-1-3-8-7-4-60">my-project/</tspan><tspan
+         sodipodi:role="line"
+         x="249.31744"
+         y="140.79056"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5323-7">submodule1/*</tspan></text>
+  </g>
+</svg>
