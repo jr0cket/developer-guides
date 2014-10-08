@@ -1,0 +1,2762 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="hexo-workflow-content.svg"
+   inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/hexo-workflow.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7481">
+      <stop
+         style="stop-color:#9491c1;stop-opacity:1;"
+         offset="0"
+         id="stop7483" />
+      <stop
+         style="stop-color:#9491c1;stop-opacity:0;"
+         offset="1"
+         id="stop7485" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481"
+       id="linearGradient7487"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481-8"
+       id="linearGradient7500-5"
+       gradientUnits="userSpaceOnUse"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7481-8">
+      <stop
+         style="stop-color:#9491c1;stop-opacity:1;"
+         offset="0"
+         id="stop7483-4" />
+      <stop
+         style="stop-color:#9491c1;stop-opacity:0;"
+         offset="1"
+         id="stop7485-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481-8-7"
+       id="linearGradient7566-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(70.255034,52.354164)"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7481-8-7">
+      <stop
+         style="stop-color:#9491c1;stop-opacity:1;"
+         offset="0"
+         id="stop7483-4-5" />
+      <stop
+         style="stop-color:#9491c1;stop-opacity:0;"
+         offset="1"
+         id="stop7485-9-0" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8177-1"
+       id="radialGradient8595-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0513351,783.69053,-345.99547)"
+       spreadMethod="repeat"
+       cx="-21.776644"
+       cy="825.87622"
+       fx="-21.776644"
+       fy="825.87622"
+       r="19.677668" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8177-1">
+      <stop
+         style="stop-color:#a09dc8;stop-opacity:1;"
+         offset="0"
+         id="stop8179-5" />
+      <stop
+         style="stop-color:#a09dc8;stop-opacity:0;"
+         offset="1"
+         id="stop8181-3" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="659.53451"
+     inkscape:cy="387.29937"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1176"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     borderlayer="false"
+     showborder="true"
+     inkscape:showpageshadow="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5472"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layout"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)"
+     style="display:inline">
+    <path
+       style="fill:#ffffff;fill-opacity:0;stroke:#0e83cd;stroke-width:4.06986189;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 68.136253,341.8326 c -8.28264,0 -14.946355,4.38805 -14.946355,9.84486 l 0,57.31897 c 0,3.00859 2.037904,5.66573 5.244867,7.4696 -2.955875,2.22087 -4.820427,5.41666 -4.820427,8.96976 l 0,70.8205 c 0,3.92823 2.272783,7.40393 5.790576,9.62608 -3.458542,2.54693 -5.669308,6.48382 -5.669308,10.93874 l 0,81.07166 c 0,4.83834 2.597599,9.09919 6.578823,11.59505 -3.842357,3.33321 -6.336286,8.83856 -6.336286,15.12671 l 0,107.51214 c 0,5.94567 2.237941,11.18976 5.729943,14.56414 -3.630542,2.5362 -5.97248,6.5747 -5.97248,11.15752 l 0,81.07164 c 0,7.71842 6.632956,13.93908 14.885721,13.93908 l 259.757353,0 c 8.25275,0 14.88571,-6.22066 14.88571,-13.93908 l 0,-81.07164 c 0,-4.58282 -2.34194,-8.62132 -5.97248,-11.15752 3.49201,-3.37438 5.72995,-8.61847 5.72995,-14.56414 l 0,-107.51214 c 0,-6.28815 -2.49393,-11.7935 -6.33629,-15.12671 3.98122,-2.49586 6.57882,-6.75671 6.57882,-11.59505 l 0,-81.07166 c 0,-4.45492 -2.21077,-8.39181 -5.6693,-10.93874 3.51779,-2.22215 5.79058,-5.69785 5.79058,-9.62608 l 0,-70.8205 c 0,-3.5531 -1.86455,-6.74889 -4.82043,-8.96976 3.20696,-1.80387 5.24486,-4.46101 5.24486,-7.4696 l 0,-57.31897 c 0,-5.45681 -6.66372,-9.84486 -14.94635,-9.84486 l -260.727497,0 z"
+       id="rect4120-2-1-3"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0e83cd;fill-opacity:1;stroke:#0e83cd;stroke-opacity:1;font-family:Sans"
+       x="736.3551"
+       y="5.018158"
+       id="text2987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="736.3551"
+         y="5.018158"
+         id="tspan4106"
+         style="font-size:64px;font-weight:bold;text-align:center;text-anchor:middle;fill:#0e83cd;fill-opacity:1;stroke:#0e83cd;stroke-opacity:1;-inkscape-font-specification:Sans Bold" /><tspan
+         sodipodi:role="line"
+         x="736.3551"
+         y="53.122185"
+         style="font-size:32px;font-weight:normal;text-align:center;text-anchor:middle;fill:#0e83cd;fill-opacity:1;stroke:#0e83cd;stroke-opacity:1;-inkscape-font-specification:Sans Bold"
+         id="tspan4344">Hexo.io Workflow - Managing Content</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1107.1428"
+       y="251.23734"
+       id="text4164"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4166"
+         x="1107.1428"
+         y="251.23734" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="937.14288"
+       y="364.09448"
+       id="text4172"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4174"
+         x="937.14288"
+         y="364.09448" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3850-2-23-9-8-2-1-0-9"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0e83cd;fill-opacity:1;font-family:Sans"
+       transform="matrix(0.94153338,0,0,0.94153338,813.30449,335.34447)"><flowRegion
+         id="flowRegion3852-2-5-2-27-6-0-3-2"><rect
+           id="rect3854-6-1-5-0-3-1-1-5"
+           width="348.50266"
+           height="25.253834"
+           x="69.700523"
+           y="388.52078"
+           style="fill:#0e83cd;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3856-6-1-7-7-2-5-8-9"
+         style="font-size:16px;fill:#0e83cd;fill-opacity:1">jr0cket.github.io</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3850-2-23-9-7"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.94153338,0,0,0.94153338,664.39876,335.34447)"><flowRegion
+         id="flowRegion3852-2-5-2-8"><rect
+           id="rect3854-6-1-5-7"
+           width="348.50266"
+           height="25.253834"
+           x="69.700523"
+           y="388.52078" /></flowRegion><flowPara
+         id="flowPara3856-6-1-7-86"
+         style="font-size:16px">Developer Guides:</flowPara></flowRoot>    <path
+       style="fill:#0e83cd;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 371.21683,592.98792 c -16.9784,0 -30.74667,3.92782 -30.74667,8.77878 0,0.16618 0.0309,0.31685 0.0627,0.48074 -0.38199,1.00357 -0.62705,2.31135 -0.62705,3.76234 l 0,23.91175 c 0,3.15496 1.08714,5.70621 2.44552,5.70621 0.15494,0 0.31302,-0.0413 0.45984,-0.10445 4.62256,3.18062 15.60078,5.41359 28.40564,5.41359 13.68109,0 25.25457,-2.55264 29.24174,-6.08246 0.14115,0.0583 0.29037,0.0836 0.43894,0.0836 1.35837,0 2.44552,-2.53036 2.44552,-5.68531 l 0,-23.91175 c 0,-3.03936 -1.01036,-5.50851 -2.2992,-5.68531 -3.31319,-3.82935 -15.4006,-6.6677 -29.827,-6.6677 z m 27.23515,12.85465 0,22.2396 c -5.14005,-2.79892 -15.40481,-4.70293 -27.23515,-4.70293 -11.2325,0 -21.05608,1.71526 -26.41997,4.28489 l 0,-21.40352 c 5.36389,2.56963 15.18747,4.28488 26.41997,4.28488 11.83034,0 22.0951,-1.904 27.23515,-4.70292 z"
+       id="path5296-1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="370.56287"
+       y="664.35461"
+       id="text5344-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="370.56287"
+         y="664.35461"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan9886">Local Git</tspan><tspan
+         sodipodi:role="line"
+         x="370.56287"
+         y="684.35461"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan8196">repository</tspan></text>
+    <g
+       id="g7725"
+       transform="matrix(0,0.50545422,-1,0,404.35064,530.14642)">
+      <g
+         style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         transform="matrix(-0.42181245,0.0041024,0.00331042,-0.45452538,214.91376,674.53635)"
+         id="g5650-08-5">
+        <g
+           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+           id="g5654-7-4">
+          <rect
+             transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="969.97491"
+             x="458.97156"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-74-4"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+          <rect
+             transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="1037.444"
+             x="-275.39764"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-7-29-1"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         ry="9.5402117"
+         rx="23.724274"
+         y="49.244915"
+         x="-315.62234"
+         height="65.916847"
+         width="2.5150728"
+         id="rect6144"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.80023313;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="74.11348"
+       y="182.67557"
+       id="text5678-5-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2"
+         x="74.11348"
+         y="182.67557"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold">hexo new page &quot;page title&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="459.27484"
+       y="71.170723"
+       id="text5344-9-0-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="459.27484"
+         y="71.170723"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan5975">Content</tspan></text>
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 921.21662,580.43537 c -16.97841,0 -30.74668,3.9278 -30.74668,8.7788 0,0.1662 0.0309,0.3168 0.0627,0.4807 -0.38198,1.0036 -0.62705,2.3114 -0.62705,3.7624 l 0,23.9117 c 0,3.155 1.08714,5.7062 2.44552,5.7062 0.15494,0 0.31302,-0.041 0.45984,-0.1044 4.62257,3.1806 15.60079,5.4136 28.40565,5.4136 13.68109,0 25.25456,-2.5527 29.24173,-6.0825 0.14115,0.058 0.29037,0.084 0.43894,0.084 1.35837,0 2.44552,-2.5304 2.44552,-5.6853 l 0,-23.9118 c 0,-3.0393 -1.01036,-5.5085 -2.2992,-5.6853 -3.31319,-3.8293 -15.40059,-6.6677 -29.82699,-6.6677 z m 27.23514,12.8546 0,22.2396 c -5.14005,-2.7989 -15.4048,-4.7029 -27.23514,-4.7029 -11.23251,0 -21.05608,1.7153 -26.41998,4.2849 l 0,-21.4035 c 5.3639,2.5696 15.18747,4.2849 26.41998,4.2849 11.83034,0 22.09509,-1.904 27.23514,-4.703 z"
+       id="path5296"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="895.52264"
+       y="650.91534"
+       id="text5344"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5346"
+         x="895.52264"
+         y="650.91534"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Github </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="89.658691"
+       y="241.0603"
+       id="text5678-5-4-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="89.658691"
+         y="241.0603"
+         id="tspan9028" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="432.56494"
+       y="307.71313"
+       id="text5344-9-6-8-5-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="432.56494"
+         y="307.71313"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         id="tspan5112">http://localhost:4000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1020.8707"
+       y="79.094482"
+       id="text9590"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9592"
+         x="1020.8707"
+         y="79.094482">Creating static websites &amp; blogs</tspan><tspan
+         sodipodi:role="line"
+         x="1020.8707"
+         y="101.59448"
+         id="tspan5021"> and deploying to Github pages</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="726.2243"
+       y="627.46368"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="726.2243"
+         y="627.46368"
+         id="tspan8228">Push the commit to the</tspan><tspan
+         sodipodi:role="line"
+         x="726.2243"
+         y="644.96368"
+         id="tspan8289">Github repository **</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="78"
+       y="708.09448"
+       id="text3328"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3330" /></text>
+    <a
+       id="a3359"
+       xlink:href="http://jr0cket.github.io/developer-guides"
+       transform="translate(31.855916,2)"
+       style="fill:#0e83cd;fill-opacity:1">
+      <flowRoot
+         transform="matrix(0.94153338,0,0,0.94153338,658.05827,-259.58023)"
+         style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0e83cd;fill-opacity:1;display:inline;font-family:Sans"
+         id="flowRoot3850-2-23-9-8-2-1-0-9-9"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3852-2-5-2-27-6-0-3-2-4"><rect
+             style="fill:#0e83cd;fill-opacity:1"
+             y="388.52078"
+             x="69.700523"
+             height="25.253834"
+             width="348.50266"
+             id="rect3854-6-1-5-0-3-1-1-5-9" /></flowRegion><flowPara
+           style="font-size:16px;fill:#0e83cd;fill-opacity:1"
+           id="flowPara3856-6-1-7-7-2-5-8-9-1">jr0cket.github.io/developer-guides</flowPara></flowRoot>    </a>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="73.850693"
+       y="157.37848"
+       id="text5678-5-4-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-9"
+         x="73.850693"
+         y="157.37848"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold">hexo new &quot;<tspan
+   style="font-size:20px;font-style:italic;font-weight:normal;-inkscape-font-specification:Ubuntu Mono Italic"
+   id="tspan5911">blog post title</tspan>&quot;</tspan></text>
+    <path
+       sodipodi:type="spiral"
+       style="fill:#0e83cd;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path5369-8"
+       sodipodi:cx="408.10162"
+       sodipodi:cy="204.67302"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="22.154375"
+       sodipodi:argument="-18.096405"
+       sodipodi:t0="0"
+       d="m 408.10162,204.67302 c 0.81036,0.75971 -0.62427,1.46716 -1.26269,1.34687 -1.73007,-0.32599 -2.07719,-2.51732 -1.43105,-3.87225 1.15579,-2.42365 4.34782,-2.80618 6.48181,-1.51523 3.13173,1.89451 3.55582,6.20279 1.59942,9.09137 -2.60758,3.85003 -8.06642,4.31419 -11.70094,1.68359 -4.57367,-3.31033 -5.07707,-9.93414 -1.76777,-14.31049 4.008,-5.30035 11.80419,-5.84256 16.92005,-1.85195 6.02888,4.70279 6.6097,13.67567 1.93614,19.52961 -5.39581,6.75861 -15.54812,7.37792 -22.13918,2.02031 -7.48917,-6.08764 -8.1469,-17.42124 -2.10449,-24.74873 6.77866,-8.22034 19.29486,-8.91644 27.3583,-2.18868 8.95194,7.4691 9.68639,21.16885 2.27285,29.96786"
+       transform="matrix(0.87117444,0,0,0.87117444,73.711314,85.662394)" />
+    <g
+       style="display:inline"
+       id="g9502"
+       transform="matrix(0.37065112,0,0,0.27983062,411.37513,5.271084)">
+      <rect
+         ry="1.7547607"
+         rx="9.1621542"
+         y="793.22345"
+         x="60.781616"
+         height="157.27754"
+         width="108.43678"
+         id="rect5348-1-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.08296967;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         transform="scale(1.812316,0.55178015)"
+         sodipodi:linespacing="125%"
+         id="text5378-98-0"
+         y="1491.8646"
+         x="39.199814"
+         style="font-size:2.82325649px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1491.8646"
+           x="39.199814"
+           id="tspan5380-1-7"
+           sodipodi:role="line">This is my source code</tspan><tspan
+           id="tspan5382-10-3"
+           y="1495.3937"
+           x="39.199814"
+           sodipodi:role="line">It defines what my compter does</tspan><tspan
+           id="tspan5384-74-6"
+           y="1498.9227"
+           x="39.199814"
+           sodipodi:role="line">It executes predictably</tspan><tspan
+           id="tspan5386-9-1"
+           y="1502.4518"
+           x="39.199814"
+           sodipodi:role="line">Except when there are bugs</tspan><tspan
+           id="tspan5388-418-6"
+           y="1505.981"
+           x="39.199814"
+           sodipodi:role="line">Or I dont know what I am doing</tspan></text>
+      <text
+         transform="scale(0.72428705,-1.3806681)"
+         sodipodi:linespacing="125%"
+         id="text5378-9-6-5"
+         y="-626.29999"
+         x="99.078522"
+         style="font-size:2.7810173px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-626.29999"
+           x="99.078522"
+           id="tspan5380-8-6-1"
+           sodipodi:role="line">This is my source code</tspan><tspan
+           id="tspan5382-1-4-4"
+           y="-622.82373"
+           x="99.078522"
+           sodipodi:role="line">It defines what my compter does</tspan><tspan
+           id="tspan5384-6-2-5"
+           y="-619.34747"
+           x="99.078522"
+           sodipodi:role="line">It executes predictably</tspan><tspan
+           id="tspan5386-3-4-82"
+           y="-615.87115"
+           x="99.078522"
+           sodipodi:role="line">Except when there are bugs</tspan><tspan
+           id="tspan5388-4-3-3"
+           y="-612.3949"
+           x="99.078522"
+           sodipodi:role="line">Or I dont know what I am doing</tspan></text>
+      <text
+         transform="scale(0.72428704,-1.3806681)"
+         sodipodi:linespacing="125%"
+         id="text5378-9-6-5-5"
+         y="-650.33881"
+         x="159.33398"
+         style="font-size:2.7810173px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-650.33881"
+           x="159.33398"
+           id="tspan5380-8-6-1-0"
+           sodipodi:role="line">This is my source code</tspan><tspan
+           id="tspan5382-1-4-4-3"
+           y="-646.86255"
+           x="159.33398"
+           sodipodi:role="line">It defines what my compter does</tspan><tspan
+           id="tspan5384-6-2-5-2"
+           y="-643.38629"
+           x="159.33398"
+           sodipodi:role="line">It executes predictably</tspan><tspan
+           id="tspan5386-3-4-82-8"
+           y="-639.90997"
+           x="159.33398"
+           sodipodi:role="line">Except when there are bugs</tspan><tspan
+           id="tspan5388-4-3-3-2"
+           y="-636.43372"
+           x="159.33398"
+           sodipodi:role="line">Or I dont know what I am doing</tspan></text>
+      <text
+         transform="scale(2.4608436,-0.40636471)"
+         sodipodi:linespacing="125%"
+         id="text5378-9-6-5-3"
+         y="-2303.8262"
+         x="29.832148"
+         style="font-size:2.0264101px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-2303.8262"
+           x="29.832148"
+           id="tspan5380-8-6-1-9"
+           sodipodi:role="line">This is my source code</tspan><tspan
+           id="tspan5382-1-4-4-2"
+           y="-2301.2932"
+           x="29.832148"
+           sodipodi:role="line">It defines what my compter does</tspan><tspan
+           id="tspan5384-6-2-5-3"
+           y="-2298.7603"
+           x="29.832148"
+           sodipodi:role="line">It executes predictably</tspan><tspan
+           id="tspan5386-3-4-82-4"
+           y="-2296.2271"
+           x="29.832148"
+           sodipodi:role="line">Except when there are bugs</tspan><tspan
+           id="tspan5388-4-3-3-6"
+           y="-2293.6941"
+           x="29.832148"
+           sodipodi:role="line">Or I dont know what I am doing</tspan></text>
+      <rect
+         ry="19.362007"
+         rx="10.046913"
+         y="877.70892"
+         x="70.346718"
+         height="51.306572"
+         width="36.306572"
+         id="rect9496"
+         style="opacity:0.23999999;fill:#00ff00;fill-opacity:1;stroke:#ffffff;stroke-width:4.69342852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="0.47253418"
+         rx="2.131897"
+         y="844.36218"
+         x="115"
+         height="26"
+         width="40"
+         id="rect9498"
+         style="opacity:0.23999999;fill:#00ffff;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="0.47253418"
+         rx="2.131897"
+         y="803.36218"
+         x="69"
+         height="13"
+         width="88"
+         id="rect9500"
+         style="opacity:0.23999999;fill:#8080ff;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="426.38916"
+       y="293.21942"
+       id="text5344-9-6-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="426.38916"
+         y="293.21942"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan5106-1">Hexo Server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="76.829407"
+       y="411.47702"
+       id="text5678-5-4-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-7"
+         x="76.829407"
+         y="411.47702"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold">hexo generate</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="72.56662"
+       y="88.179932"
+       id="text5678-5-4-3-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-9-1"
+         x="72.56662"
+         y="88.179932"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold">hexo init <tspan
+   style="font-style:italic;font-weight:normal;-inkscape-font-specification:Ubuntu Mono Italic"
+   id="tspan6835">new-project-name</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="75.747993"
+       y="492.82849"
+       id="text5678-5-4-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-7-8"
+         x="75.747993"
+         y="492.82849"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold">hexo deploy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="76.747993"
+       y="348.82849"
+       id="text5678-5-4-6-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-7-1"
+         x="76.747993"
+         y="348.82849"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold">hexo clean</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:0;stroke:#0e83cd;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 1298.8125,136.40625 c -6.3654,0 -11.4687,5.30939 -11.4687,11.90625 l 0,68.5625 c 0,4.10678 1.9649,7.73606 5,9.875 -1.9184,2.25883 -3.0938,5.28274 -3.0938,8.65625 l 0,98.8125 c -1.6229,-0.63859 -3.4895,-1 -5.5,-1 l -193.5,0 c -6.1472,0 -11.0937,3.42396 -11.0937,7.65625 l 0,114.46875 c 0,4.23229 4.9465,7.625 11.0937,7.625 l 193.5,0 c 2.0105,0 3.8771,-0.36141 5.5,-1 l 0,163.8125 c 0,6.98785 5.0247,12.59375 11.2813,12.59375 l 196.9375,0 c 6.2564,0 11.2812,-5.6059 11.2812,-12.59375 l 0,-390.375 c 0,-3.37351 -1.1754,-6.39742 -3.0938,-8.65625 3.0351,-2.13894 5,-5.76822 5,-9.875 l 0,-68.5625 c 0,-6.59686 -5.1033,-11.90625 -11.4687,-11.90625 l -200.375,0 z"
+       id="rect4120-8-1"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0e83cd;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="1400.7646"
+       y="158.80981"
+       id="text5344-9-0-4-1-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1400.7646"
+         y="158.80981"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0e83cd;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan5975-1-7">Hexo Configuration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="1369.8857"
+       y="271.42285"
+       id="text5344-9-0-4-1-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1369.8857"
+         y="271.42285"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         id="tspan5975-1-5"><tspan
+   style="font-style:italic;font-weight:bold;-inkscape-font-specification:Ubuntu Mono Bold"
+   id="tspan8559">theme</tspan>/_config.yml</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="1361.7646"
+       y="402.11615"
+       id="text5344-9-0-4-1-4-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1361.7646"
+         y="402.11615"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         id="tspan5975-1-5-2">_variables.styl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="1341.7646"
+       y="385.11615"
+       id="text5344-9-0-4-1-4-9-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1341.7646"
+         y="385.11615"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         id="tspan5975-1-5-2-5">style.styl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="1372.6045"
+       y="367.80493"
+       id="text5344-9-0-4-1-0-6-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1372.6045"
+         y="367.80493"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-1-7-1-3"><tspan
+   style="font-style:italic;-inkscape-font-specification:Ubuntu Mono Italic"
+   id="tspan7858">theme</tspan>/source/css/*</tspan></text>
+    <g
+       style="display:inline"
+       id="g9502-2"
+       transform="matrix(0.44936745,0,0,0.4224262,913.32274,215.00168)">
+      <rect
+         ry="1.7547607"
+         rx="9.1621542"
+         y="793.22345"
+         x="60.781616"
+         height="157.27754"
+         width="108.43678"
+         id="rect5348-1-3-8"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:6.08296967;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         transform="scale(1.812316,0.55178015)"
+         sodipodi:linespacing="125%"
+         id="text5378-98-0-2"
+         y="1491.8646"
+         x="39.199814"
+         style="font-size:2.82325649px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1491.8646"
+           x="39.199814"
+           id="tspan5380-1-7-3"
+           sodipodi:role="line">This is my source code</tspan><tspan
+           id="tspan5382-10-3-7"
+           y="1495.3937"
+           x="39.199814"
+           sodipodi:role="line">It defines what my compter does</tspan><tspan
+           id="tspan5384-74-6-3"
+           y="1498.9227"
+           x="39.199814"
+           sodipodi:role="line">It executes predictably</tspan><tspan
+           id="tspan5386-9-1-8"
+           y="1502.4518"
+           x="39.199814"
+           sodipodi:role="line">Except when there are bugs</tspan><tspan
+           id="tspan5388-418-6-0"
+           y="1505.981"
+           x="39.199814"
+           sodipodi:role="line">Or I dont know what I am doing</tspan></text>
+      <text
+         transform="scale(0.72428705,-1.3806681)"
+         sodipodi:linespacing="125%"
+         id="text5378-9-6-5-1"
+         y="-626.29999"
+         x="99.078522"
+         style="font-size:2.7810173px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-626.29999"
+           x="99.078522"
+           id="tspan5380-8-6-1-99"
+           sodipodi:role="line">This is my source code</tspan><tspan
+           id="tspan5382-1-4-4-6"
+           y="-622.82373"
+           x="99.078522"
+           sodipodi:role="line">It defines what my compter does</tspan><tspan
+           id="tspan5384-6-2-5-4"
+           y="-619.34747"
+           x="99.078522"
+           sodipodi:role="line">It executes predictably</tspan><tspan
+           id="tspan5386-3-4-82-9"
+           y="-615.87115"
+           x="99.078522"
+           sodipodi:role="line">Except when there are bugs</tspan><tspan
+           id="tspan5388-4-3-3-8"
+           y="-612.3949"
+           x="99.078522"
+           sodipodi:role="line">Or I dont know what I am doing</tspan></text>
+      <text
+         transform="scale(0.72428704,-1.3806681)"
+         sodipodi:linespacing="125%"
+         id="text5378-9-6-5-5-5"
+         y="-650.33881"
+         x="159.33398"
+         style="font-size:2.7810173px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-650.33881"
+           x="159.33398"
+           id="tspan5380-8-6-1-0-1"
+           sodipodi:role="line">This is my source code</tspan><tspan
+           id="tspan5382-1-4-4-3-4"
+           y="-646.86255"
+           x="159.33398"
+           sodipodi:role="line">It defines what my compter does</tspan><tspan
+           id="tspan5384-6-2-5-2-0"
+           y="-643.38629"
+           x="159.33398"
+           sodipodi:role="line">It executes predictably</tspan><tspan
+           id="tspan5386-3-4-82-8-2"
+           y="-639.90997"
+           x="159.33398"
+           sodipodi:role="line">Except when there are bugs</tspan><tspan
+           id="tspan5388-4-3-3-2-6"
+           y="-636.43372"
+           x="159.33398"
+           sodipodi:role="line">Or I dont know what I am doing</tspan></text>
+      <text
+         transform="scale(2.4608436,-0.40636471)"
+         sodipodi:linespacing="125%"
+         id="text5378-9-6-5-3-8"
+         y="-2303.8262"
+         x="29.832148"
+         style="font-size:2.0264101px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="-2303.8262"
+           x="29.832148"
+           id="tspan5380-8-6-1-9-3"
+           sodipodi:role="line">This is my source code</tspan><tspan
+           id="tspan5382-1-4-4-2-5"
+           y="-2301.2932"
+           x="29.832148"
+           sodipodi:role="line">It defines what my compter does</tspan><tspan
+           id="tspan5384-6-2-5-3-0"
+           y="-2298.7603"
+           x="29.832148"
+           sodipodi:role="line">It executes predictably</tspan><tspan
+           id="tspan5386-3-4-82-4-3"
+           y="-2296.2271"
+           x="29.832148"
+           sodipodi:role="line">Except when there are bugs</tspan><tspan
+           id="tspan5388-4-3-3-6-6"
+           y="-2293.6941"
+           x="29.832148"
+           sodipodi:role="line">Or I dont know what I am doing</tspan></text>
+      <rect
+         ry="19.362007"
+         rx="10.046913"
+         y="877.70892"
+         x="70.346718"
+         height="51.306572"
+         width="36.306572"
+         id="rect9496-3"
+         style="opacity:0.23999999;fill:#00ff00;fill-opacity:1;stroke:#ffffff;stroke-width:4.69342852;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="0.47253418"
+         rx="2.131897"
+         y="844.36218"
+         x="115"
+         height="26"
+         width="40"
+         id="rect9498-8"
+         style="opacity:0.23999999;fill:#00ffff;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="0.47253418"
+         rx="2.131897"
+         y="803.36218"
+         x="69"
+         height="13"
+         width="88"
+         id="rect9500-8"
+         style="opacity:0.23999999;fill:#8080ff;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0e83cd;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="156.44678"
+       y="60.145481"
+       id="text5344-9-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="156.44678"
+         y="60.145481"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium;fill:#0e83cd;fill-opacity:1"
+         id="tspan9886-3">Create a Hexo Website</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0e83cd;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="124.37218"
+       y="132.94348"
+       id="text5344-9-0-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="124.37218"
+         y="132.94348"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0e83cd;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan9886-3-4">Create content</tspan></text>
+    <g
+       style="display:inline"
+       id="g9063-8-5"
+       transform="matrix(0.52475538,0,0,1,48.97018,-147.09438)">
+      <g
+         style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         transform="matrix(-0.42182048,0.00317097,0.00431407,-0.45451697,777.57101,665.1975)"
+         id="g5650-08-5-3-0-75-2-7-08-8">
+        <g
+           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+           id="g5654-7-4-7-2-7-4-9-0-1">
+          <rect
+             transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="969.97491"
+             x="458.97156"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-74-4-7-9-8-2-9-5-8"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+          <rect
+             transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="1037.444"
+             x="-275.39764"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-7-29-1-9-7-9-1-2-8-27"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <rect
+         transform="matrix(0.00971442,-0.99995281,0.99999987,5.0190083e-4,0,0)"
+         ry="14.80295"
+         rx="19.09923"
+         y="583.03998"
+         x="-305.47522"
+         height="102.27905"
+         width="2.0247595"
+         id="rect6144-3-7-3-2-42-3-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.62694287;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="459.07141"
+       y="90.702477"
+       id="text5344-9-0-4-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="459.07141"
+         y="90.702477"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-7">source/_posts/<tspan
+   style="font-style:italic"
+   id="tspan8634">title</tspan>.md</tspan></text>
+    <g
+       style="display:inline"
+       id="g7725-6"
+       transform="matrix(0,0.63675861,-1,0,748.77965,146.19175)">
+      <g
+         style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         transform="matrix(-0.42181245,0.0041024,0.00331042,-0.45452538,214.91376,674.53635)"
+         id="g5650-08-5-8">
+        <g
+           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+           id="g5654-7-4-1">
+          <rect
+             transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="969.97491"
+             x="458.97156"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-74-4-0"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+          <rect
+             transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="1037.444"
+             x="-275.39764"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-7-29-1-0"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         ry="9.5402117"
+         rx="23.724274"
+         y="49.244915"
+         x="-315.62234"
+         height="65.916847"
+         width="2.5150728"
+         id="rect6144-7"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.80023313;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="73.850693"
+       y="248.87848"
+       id="text5678-5-4-3-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-9-0"
+         x="73.850693"
+         y="248.87848"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold">hexo server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0e83cd;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="170.88528"
+       y="224.44348"
+       id="text5344-9-0-6-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="170.88528"
+         y="224.44348"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0e83cd;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan9886-3-4-5">Run an Hexo server locally</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="73.541855"
+       y="270.20679"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="73.541855"
+         y="270.20679"
+         id="tspan6833-4">Server detects and loads  any changes </tspan><tspan
+         sodipodi:role="line"
+         x="73.541855"
+         y="287.70679"
+         id="tspan7070">made to the content or theme styles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0e83cd;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="152.95337"
+       y="323.39548"
+       id="text5344-9-0-6-5-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="152.95337"
+         y="323.39548"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0e83cd;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan9886-3-4-5-5">Generate the Website</tspan></text>
+    <g
+       style="display:inline"
+       id="g9063-8-5-1"
+       transform="matrix(0.41321877,0,0,0.63955138,112.37368,215.91052)">
+      <g
+         style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         transform="matrix(-0.42182048,0.00317097,0.00431407,-0.45451697,777.57101,665.1975)"
+         id="g5650-08-5-3-0-75-2-7-08-8-2">
+        <g
+           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+           id="g5654-7-4-7-2-7-4-9-0-1-5">
+          <rect
+             transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="969.97491"
+             x="458.97156"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-74-4-7-9-8-2-9-5-8-9"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+          <rect
+             transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="1037.444"
+             x="-275.39764"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-7-29-1-9-7-9-1-2-8-27-8"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <rect
+         transform="matrix(0.00971442,-0.99995281,0.99999987,5.0190083e-4,0,0)"
+         ry="14.80295"
+         rx="19.09923"
+         y="583.03998"
+         x="-305.47522"
+         height="102.27905"
+         width="2.0247595"
+         id="rect6144-3-7-3-2-42-3-5-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.62694287;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    </g>
+    <g
+       style="display:inline"
+       id="g8875-4"
+       transform="matrix(0.69229062,0,0,0.73459425,-212.54644,266.67587)">
+      <g
+         transform="matrix(0.49981029,0,0,0.49981029,756.88262,-179.7638)"
+         id="g5423-5-8"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-8-3"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-6-3"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-78-1"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-3-3">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-63-3">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-72-0">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-0-5">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-5-1"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-1-0"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-9-7">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-3-4">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-42-1">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-0-59">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.49981029,0,0,0.49981029,749.24556,-173.13539)"
+         id="g5423-6-2-4"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-4-4-3"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-8-7-5"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-7-4-6"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-4-4-09">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-7-5-0">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-7-1-0">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-43-2-4">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-9-4-1"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-54-1-4"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-0-2-2">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-1-0-2">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-7-3-4">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-7-9-9">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.49981029,0,0,0.49981029,742.13388,-165.9831)"
+         id="g5423-8-0-7"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-1-9-2"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-98-7-2"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-1-1-2"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-10-5-3">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-74-5-7">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-9-4-5">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-418-2-6">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-6-9-3"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-6-6-9"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-4-9-6">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-2-0-2">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-4-8-3">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-3-2-7">Or I dont know what I am doing</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="495.59473"
+       y="395.52634"
+       id="text5344-9-0-4-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="497.68652"
+         y="395.52634"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan5975-4">Generated </tspan><tspan
+         sodipodi:role="line"
+         x="495.59473"
+         y="418.02634"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan7529">content</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="495.3913"
+       y="437.05811"
+       id="text5344-9-0-4-4-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="495.3913"
+         y="437.05811"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-7-1">public/*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="113.0028"
+       y="567.52637"
+       id="text5344-9-0-4-7-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="113.0028"
+         y="567.52637"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan7456">Copy generated content </tspan><tspan
+         sodipodi:role="line"
+         x="113.0028"
+         y="585.02637"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan8132">to deployment folder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="84.47229"
+       y="676.05811"
+       id="text5344-9-0-4-4-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="84.47229"
+         y="676.05811"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-7-1-0">.deploy/*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="949.80402"
+       y="518.53632"
+       id="text5344-9-6-8-5-4-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="949.80402"
+         y="518.53632"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan5110-7">Live Website</tspan><tspan
+         sodipodi:role="line"
+         x="949.80402"
+         y="537.31067"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         id="tspan5112-7">https://*.github.io/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="78.738403"
+       y="365.20679"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4-3-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="78.738403"
+         y="365.20679"
+         id="tspan7070-6">Cleans the cache file and removes</tspan><tspan
+         sodipodi:role="line"
+         x="78.738403"
+         y="382.70679"
+         id="tspan8565">the contents of the public folder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="77.196693"
+       y="430.95679"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4-3-5-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="77.196693"
+         y="430.95679"
+         id="tspan7070-6-5">Generate the static website content</tspan></text>
+    <g
+       style="display:inline"
+       id="g8875-4-8"
+       transform="matrix(0.69229062,0,0,0.73459425,-542.92046,482.79048)">
+      <g
+         transform="matrix(0.49981029,0,0,0.49981029,756.88262,-179.7638)"
+         id="g5423-5-8-5"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-8-3-1"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-6-3-0"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-78-1-2"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-3-3-3">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-63-3-2">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-72-0-1">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-0-5-7">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-5-1-0"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-1-0-4"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-9-7-4">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-3-4-2">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-42-1-6">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-0-59-7">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.49981029,0,0,0.49981029,749.24556,-173.13539)"
+         id="g5423-6-2-4-3"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-4-4-3-1"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-8-7-5-4"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-7-4-6-9"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-4-4-09-6">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-7-5-0-0">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-7-1-0-4">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-43-2-4-9">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-9-4-1-7"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-54-1-4-4"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-0-2-2-6">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-1-0-2-5">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-7-3-4-2">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-7-9-9-4">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.49981029,0,0,0.49981029,742.13388,-165.9831)"
+         id="g5423-8-0-7-8"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-1-9-2-9"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-98-7-2-3"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-1-1-2-5"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-10-5-3-2">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-74-5-7-3">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-9-4-5-8">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-418-2-6-6">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-6-9-3-7"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-6-6-9-1"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-4-9-6-5">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-2-0-2-8">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-4-8-3-7">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-3-2-7-9">Or I dont know what I am doing</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0e83cd;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="189.43938"
+       y="467.44348"
+       id="text5344-9-0-6-5-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="191.53117"
+         y="467.44348"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;fill:#0e83cd;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan9886-3-4-5-7">Deploy your Website to Github </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="75.541855"
+       y="513.20679"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="75.541855"
+         y="513.20679"
+         id="tspan6833-4-7">Server detects any changes made to</tspan><tspan
+         sodipodi:role="line"
+         x="75.541855"
+         y="530.70679"
+         id="tspan7070-5">the content or theme styles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="1356.3359"
+       y="204.29448"
+       id="text5344-9-0-4-1-4-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1356.3359"
+         y="204.29448"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         id="tspan5975-1-5-1">_config.yml</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1376.3359"
+       y="182.29449"
+       id="text5344-9-0-4-1-4-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1376.3359"
+         y="182.29449"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan5975-1-5-3">Project wide settings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0e83cd;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1300.0217"
+       y="251.79846"
+       id="text5344-9-0-4-1-4-6-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1300.0217"
+         y="251.79846"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#0e83cd;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan5975-1-5-3-4">Theme settings</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0e83cd;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1298.1472"
+       y="349.79849"
+       id="text5344-9-0-4-1-4-6-5-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1298.1472"
+         y="349.79849"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#0e83cd;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan5975-1-5-3-4-9">Theme Styles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="1387.3521"
+       y="605.36646"
+       id="text5344-9-0-4-1-0-6-9-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1387.3521"
+         y="605.36646"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-1-7-1-3-8"><tspan
+   style="font-style:italic;-inkscape-font-specification:Ubuntu Mono Italic"
+   id="tspan7858-8">theme</tspan>/source/layout/*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0e83cd;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1298.7722"
+       y="585.79846"
+       id="text5344-9-0-4-1-4-6-5-8-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1298.7722"
+         y="585.79846"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#0e83cd;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan5975-1-5-3-4-9-4">Theme Layout</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="1349.8721"
+       y="624.25446"
+       id="text5344-9-0-4-1-4-9-6-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1349.8721"
+         y="624.25446"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         id="tspan5975-1-5-2-5-4">layouts.ejs</tspan></text>
+    <g
+       style="display:inline"
+       id="g8875-4-3"
+       transform="matrix(0.69229062,0,0,0.73459425,-190.92046,-1.20952)">
+      <g
+         transform="matrix(0.49981029,0,0,0.49981029,756.88262,-179.7638)"
+         id="g5423-5-8-4"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-8-3-4"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-6-3-08"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-78-1-1"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-3-3-7">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-63-3-4">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-72-0-2">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-0-5-4">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-5-1-7"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-1-0-0"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-9-7-8">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-3-4-8">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-42-1-9">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-0-59-9">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.49981029,0,0,0.49981029,749.24556,-173.13539)"
+         id="g5423-6-2-4-8"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-4-4-3-0"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-8-7-5-1"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-7-4-6-2"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-4-4-09-3">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-7-5-0-08">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-7-1-0-2">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-43-2-4-7">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-9-4-1-8"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-54-1-4-8"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-0-2-2-1">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-1-0-2-53">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-7-3-4-0">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-7-9-9-8">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.49981029,0,0,0.49981029,742.13388,-165.9831)"
+         id="g5423-8-0-7-0"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-1-9-2-4"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-98-7-2-0"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-1-1-2-0"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-10-5-3-7">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-74-5-7-9">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-9-4-5-4">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-418-2-6-9">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-6-9-3-3"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-6-6-9-3"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-4-9-6-1">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-2-0-2-4">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-4-8-3-1">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-3-2-7-3">Or I dont know what I am doing</tspan></text>
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="g9063-8-5-1-3"
+       transform="matrix(1.6513146,0,0,0.94259737,-811.82068,327.92423)">
+      <g
+         style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         transform="matrix(-0.42182048,0.00317097,0.00431407,-0.45451697,777.57101,665.1975)"
+         id="g5650-08-5-3-0-75-2-7-08-8-2-2">
+        <g
+           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+           id="g5654-7-4-7-2-7-4-9-0-1-5-3">
+          <rect
+             transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="969.97491"
+             x="458.97156"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-74-4-7-9-8-2-9-5-8-9-7"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+          <rect
+             transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="1037.444"
+             x="-275.39764"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-7-29-1-9-7-9-1-2-8-27-8-6"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <rect
+         transform="matrix(0.00971442,-0.99995281,0.99999987,5.0190083e-4,0,0)"
+         ry="14.80295"
+         rx="19.09923"
+         y="583.03998"
+         x="-305.47522"
+         height="102.27905"
+         width="2.0247595"
+         id="rect6144-3-7-3-2-42-3-5-5-6"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.62694287;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="144.67249"
+       y="640.46051"
+       id="text5344-9-0-4-7-5-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="144.67249"
+         y="640.46051"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan8132-5">Commit files in deployment</tspan><tspan
+         sodipodi:role="line"
+         x="144.67249"
+         y="657.96051"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan8224">folder to version control **</tspan></text>
+    <g
+       style="display:inline"
+       id="g9063-8-5-1-3-0"
+       transform="matrix(1.3495638,0,0,1.0130737,-51.58624,293.91569)">
+      <g
+         style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         transform="matrix(-0.42182048,0.00317097,0.00431407,-0.45451697,777.57101,665.1975)"
+         id="g5650-08-5-3-0-75-2-7-08-8-2-2-9">
+        <g
+           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+           id="g5654-7-4-7-2-7-4-9-0-1-5-3-9">
+          <rect
+             transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="969.97491"
+             x="458.97156"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-74-4-7-9-8-2-9-5-8-9-7-7"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+          <rect
+             transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="1037.444"
+             x="-275.39764"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-7-29-1-9-7-9-1-2-8-27-8-6-1"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <rect
+         transform="matrix(0.00971442,-0.99995281,0.99999987,5.0190083e-4,0,0)"
+         ry="14.80295"
+         rx="19.09923"
+         y="583.03998"
+         x="-305.47522"
+         height="102.27905"
+         width="2.0247595"
+         id="rect6144-3-7-3-2-42-3-5-5-6-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.62694287;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Italic"
+       x="50.275009"
+       y="715.68549"
+       id="text5344-9-0-4-7-5-0-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="50.275009"
+         y="715.68549"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Italic"
+         id="tspan8224-3">** For user &amp; org repositories, the master branch is used, for project repositories the gh-pages branch is used</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Italic"
+       x="444.66571"
+       y="186.61649"
+       id="text5344-9-0-4-7-5-0-0-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="444.66571"
+         y="186.61649"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Italic"
+         id="tspan8224-3-1">hexo server detects </tspan><tspan
+         sodipodi:role="line"
+         x="444.66571"
+         y="201.61649"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Italic"
+         id="tspan8333">content &amp; sytle </tspan><tspan
+         sodipodi:role="line"
+         x="444.66571"
+         y="216.61649"
+         style="font-size:12px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Italic"
+         id="tspan8642">changes instantly</tspan></text>
+    <g
+       style="display:inline"
+       id="g8875-4-4"
+       transform="matrix(0.35565481,0,0,0.37738772,95.31832,274.02846)">
+      <g
+         transform="matrix(0.49981029,0,0,0.49981029,756.88262,-179.7638)"
+         id="g5423-5-8-9"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-8-3-7"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-6-3-4"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-78-1-8"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-3-3-8">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-63-3-5">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-72-0-4">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-0-5-3">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-5-1-1"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-1-0-9"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-9-7-3">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-3-4-0">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-42-1-4">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-0-59-4">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.49981029,0,0,0.49981029,749.24556,-173.13539)"
+         id="g5423-6-2-4-9"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-4-4-3-6"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-8-7-5-6"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-7-4-6-7"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-4-4-09-38">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-7-5-0-6">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-7-1-0-25">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-43-2-4-8">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-9-4-1-4"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-54-1-4-80"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-0-2-2-7">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-1-0-2-9">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-7-3-4-1">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-7-9-9-3">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.49981029,0,0,0.49981029,742.13388,-165.9831)"
+         id="g5423-8-0-7-00"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-1-9-2-7"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-98-7-2-8"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-1-1-2-8"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-10-5-3-24">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-74-5-7-4">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-9-4-5-6">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-418-2-6-69">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-6-9-3-6"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-6-6-9-2"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-4-9-6-55">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-2-0-2-81">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-4-8-3-3">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-3-2-7-1">Or I dont know what I am doing</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="496.505"
+       y="344.70248"
+       id="text5344-9-0-4-7-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="496.505"
+         y="344.70248"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan7529-5">Hexo Cache</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="485.888"
+       y="361.36649"
+       id="text5344-9-0-4-4-3-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="485.888"
+         y="361.36649"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-7-1-1">db.json</tspan></text>
+    <g
+       style="display:inline"
+       id="g9063-8-5-1-0"
+       transform="matrix(0.42163552,0,0,0.63955138,107.62293,156.91053)">
+      <g
+         style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+         transform="matrix(-0.42182048,0.00317097,0.00431407,-0.45451697,777.57101,665.1975)"
+         id="g5650-08-5-3-0-75-2-7-08-8-2-5">
+        <g
+           style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+           id="g5654-7-4-7-2-7-4-9-0-1-5-2">
+          <rect
+             transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="969.97491"
+             x="458.97156"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-74-4-7-9-8-2-9-5-8-9-9"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+          <rect
+             transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)"
+             ry="2.511035"
+             rx="21.40765"
+             y="1037.444"
+             x="-275.39764"
+             height="2.511035"
+             width="120.52968"
+             id="rect5609-7-29-1-9-7-9-1-2-8-27-8-4"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none" />
+        </g>
+      </g>
+      <rect
+         transform="matrix(0.00971442,-0.99995281,0.99999987,5.0190083e-4,0,0)"
+         ry="14.80295"
+         rx="19.09923"
+         y="583.03998"
+         x="-305.47522"
+         height="102.27905"
+         width="2.0247595"
+         id="rect6144-3-7-3-2-42-3-5-5-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.62694287;stroke-miterlimit:4;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+       x="459.04001"
+       y="104.36649"
+       id="text5344-9-0-4-4-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="459.04001"
+         y="104.36649"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-7-10">source/<tspan
+   style="font-style:italic"
+   id="tspan8632">page-name</tspan>/index.md</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="1170.3519"
+       y="373.86642"
+       id="text5344-9-0-4-1-0-6-9-9-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1170.3519"
+         y="373.86642"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-1-7-1-3-8-7"><tspan
+   style="font-style:italic;-inkscape-font-specification:Ubuntu Mono Italic"
+   id="tspan7858-8-0">theme</tspan>/source/layout/*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#0e83cd;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1085.7722"
+       y="352.29843"
+       id="text5344-9-0-4-1-4-6-5-8-2-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1085.7722"
+         y="352.29843"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#0e83cd;fill-opacity:1;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan5975-1-5-3-4-9-4-9">Sidebar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="1150.8719"
+       y="394.75443"
+       id="text5344-9-0-4-1-4-9-6-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1150.8719"
+         y="394.75443"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         id="tspan5975-1-5-2-5-4-9">recent_posts.ejs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1087.0891"
+       y="410.01401"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4-3-5-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1087.0891"
+         y="410.01401"
+         id="tspan8565-9">- number of recent posts to list</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1302.3314"
+       y="289.23148"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4-3-5-8-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1302.3314"
+         y="289.23148"
+         id="tspan8565-9-8">- top navigation items</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1303.3025"
+       y="305.93048"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4-3-5-8-4-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1303.3025"
+         y="305.93048"
+         id="tspan8565-9-8-0">- sidebar location &amp; widgets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1302.5315"
+       y="320.21048"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4-3-5-8-4-9-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1302.5315"
+         y="320.21048"
+         id="tspan8565-9-8-0-4">- excerpt link name (Read more)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="1344.2"
+       y="479.30249"
+       id="text5344-9-0-4-1-4-9-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1344.2"
+         y="479.30249"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         id="tspan5975-1-5-2-2">header.styl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="1399.3521"
+       y="458.36649"
+       id="text5344-9-0-4-1-0-6-9-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1399.3521"
+         y="458.36649"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-1-7-1-3-1"><tspan
+   style="font-style:italic;-inkscape-font-specification:Ubuntu Mono Italic"
+   id="tspan7858-83">theme</tspan>/source/css/partial/*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+       x="1372.832"
+       y="519.30249"
+       id="text5344-9-0-4-1-4-9-7-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1372.832"
+         y="519.30249"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Bold"
+         id="tspan5975-1-5-2-2-9">sidebar-aside.styl</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1298.5315"
+       y="496.21048"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4-3-5-8-4-9-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1298.5315"
+         y="496.21048"
+         id="tspan8565-9-8-0-1">- navigation bar styles (opacity) </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1300.1265"
+       y="419.23148"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4-3-5-8-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1300.1265"
+         y="419.23148"
+         id="tspan8565-9-7">- base fonts to use  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1300.1699"
+       y="435.43549"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4-3-5-8-1-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1300.1699"
+         y="435.43549"
+         id="tspan8565-9-7-8">- header font size &amp; banner img </tspan></text>
+    <path
+       style="fill:#ff6600;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 775.59243,326.11998 c -16.97841,0 -30.74668,3.9278 -30.74668,8.7788 0,0.1662 0.0309,0.3168 0.0627,0.4807 -0.38198,1.0036 -0.62705,2.3114 -0.62705,3.7624 l 0,23.9117 c 0,3.155 1.08714,5.7062 2.44552,5.7062 0.15494,0 0.31302,-0.041 0.45984,-0.1044 4.62257,3.1806 15.60079,5.4136 28.40565,5.4136 13.68109,0 25.25456,-2.5527 29.24173,-6.0825 0.14115,0.058 0.29037,0.084 0.43894,0.084 1.35837,0 2.44552,-2.5304 2.44552,-5.6853 l 0,-23.9118 c 0,-3.0393 -1.01036,-5.5085 -2.2992,-5.6853 -3.31319,-3.8293 -15.40059,-6.6677 -29.82699,-6.6677 z m 27.23514,12.8546 0,22.2396 c -5.14005,-2.7989 -15.4048,-4.7029 -27.23514,-4.7029 -11.23251,0 -21.05608,1.7153 -26.41998,4.2849 l 0,-21.4035 c 5.3639,2.5696 15.18747,4.2849 26.41998,4.2849 11.83034,0 22.09509,-1.904 27.23514,-4.703 z"
+       id="path5296-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="812.25696"
+       y="342.95248"
+       id="text5344-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="812.25696"
+         y="342.95248"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan4379">Developer</tspan><tspan
+         sodipodi:role="line"
+         x="812.25696"
+         y="365.45248"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan5321">Guides</tspan></text>
+    <path
+       style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 775.66712,264.15509 c -16.97841,0 -30.74668,3.9278 -30.74668,8.7788 0,0.1662 0.0309,0.3168 0.0627,0.4807 -0.38198,1.0036 -0.62705,2.3114 -0.62705,3.7624 l 0,23.9117 c 0,3.155 1.08714,5.7062 2.44552,5.7062 0.15494,0 0.31302,-0.041 0.45984,-0.1044 4.62257,3.1806 15.60079,5.4136 28.40565,5.4136 13.68109,0 25.25456,-2.5527 29.24173,-6.0825 0.14115,0.058 0.29037,0.084 0.43894,0.084 1.35837,0 2.44552,-2.5304 2.44552,-5.6853 l 0,-23.9118 c 0,-3.0393 -1.01036,-5.5085 -2.2992,-5.6853 -3.31319,-3.8293 -15.40059,-6.6677 -29.82699,-6.6677 z m 27.23514,12.8546 0,22.2396 c -5.14005,-2.7989 -15.4048,-4.7029 -27.23514,-4.7029 -11.23251,0 -21.05608,1.7153 -26.41998,4.2849 l 0,-21.4035 c 5.3639,2.5696 15.18747,4.2849 26.41998,4.2849 11.83034,0 22.09509,-1.904 27.23514,-4.703 z"
+       id="path5296-0-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="812.96167"
+       y="282.98761"
+       id="text5344-0-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5346-4-9"
+         x="812.96167"
+         y="282.98761"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Personal</tspan><tspan
+         sodipodi:role="line"
+         x="812.96167"
+         y="305.48761"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan4377">Theme</tspan></text>
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 760.59243,201.11998 c -16.97841,0 -30.74668,3.9278 -30.74668,8.7788 0,0.1662 0.0309,0.3168 0.0627,0.4807 -0.38198,1.0036 -0.62705,2.3114 -0.62705,3.7624 l 0,23.9117 c 0,3.155 1.08714,5.7062 2.44552,5.7062 0.15494,0 0.31302,-0.041 0.45984,-0.1044 4.62257,3.1806 15.60079,5.4136 28.40565,5.4136 13.68109,0 25.25456,-2.5527 29.24173,-6.0825 0.14115,0.058 0.29037,0.084 0.43894,0.084 1.35837,0 2.44552,-2.5304 2.44552,-5.6853 l 0,-23.9118 c 0,-3.0393 -1.01036,-5.5085 -2.2992,-5.6853 -3.31319,-3.8293 -15.40059,-6.6677 -29.82699,-6.6677 z m 27.23514,12.8546 0,22.2396 c -5.14005,-2.7989 -15.4048,-4.7029 -27.23514,-4.7029 -11.23251,0 -21.05608,1.7153 -26.41998,4.2849 l 0,-21.4035 c 5.3639,2.5696 15.18747,4.2849 26.41998,4.2849 11.83034,0 22.09509,-1.904 27.23514,-4.703 z"
+       id="path5296-02"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="800.31628"
+       y="216.71149"
+       id="text5344-0-3-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5346-4-9-4"
+         x="829.44086"
+         y="216.71149"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Hexo</tspan><tspan
+         sodipodi:role="line"
+         x="829.44086"
+         y="239.21149"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan4377-5">project</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="956.35205"
+       y="286.34247"
+       id="text5344-9-0-4-1-0-6-9-9-3-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="956.35205"
+         y="286.34247"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-1-7-1-3-8-7-4"><tspan
+           style="font-style:italic;-inkscape-font-specification:Ubuntu Mono Italic"
+           id="tspan7858-8-0-1">my-project/</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="956.35205"
+         y="306.34247"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5323"><tspan
+   style="font-style:italic;-inkscape-font-specification:Ubuntu Mono Italic"
+   id="tspan5325">theme</tspan>/*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="957.35205"
+       y="339.36649"
+       id="text5344-9-0-4-1-0-6-9-9-3-2-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="957.35205"
+         y="339.36649"
+         style="font-size:16px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Italic"
+         id="tspan5975-1-7-1-3-8-7-4-4">my-project/</tspan><tspan
+         sodipodi:role="line"
+         x="957.35205"
+         y="359.36649"
+         style="font-size:16px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Italic"
+         id="tspan5327">source<tspan
+   style="font-style:normal;-inkscape-font-specification:Ubuntu Mono"
+   id="tspan5313">/</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="957.35205"
+         y="379.36649"
+         style="font-size:16px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono Italic"
+         id="tspan5330"><tspan
+           style="font-style:normal;-inkscape-font-specification:Ubuntu Mono"
+           id="tspan5332">dev-guides*</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="952.35205"
+       y="222.36649"
+       id="text5344-9-0-4-1-0-6-9-9-3-2-34"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="952.35205"
+         y="222.36649"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-1-7-1-3-8-7-4-6"><tspan
+   style="font-style:italic"
+   id="tspan5339">my-project</tspan>/*</tspan></text>
+    <path
+       style="fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 667.97525,469.65509 c -16.97841,0 -30.74668,3.9278 -30.74668,8.7788 0,0.1662 0.0309,0.3168 0.0627,0.4807 -0.38198,1.0036 -0.62705,2.3114 -0.62705,3.7624 l 0,23.9117 c 0,3.155 1.08714,5.7062 2.44552,5.7062 0.15494,0 0.31302,-0.041 0.45984,-0.1044 4.62257,3.1806 15.60079,5.4136 28.40565,5.4136 13.68109,0 25.25456,-2.5527 29.24173,-6.0825 0.14115,0.058 0.29037,0.084 0.43894,0.084 1.35837,0 2.44552,-2.5304 2.44552,-5.6853 l 0,-23.9118 c 0,-3.0393 -1.01036,-5.5085 -2.2992,-5.6853 -3.31319,-3.8293 -15.40059,-6.6677 -29.82699,-6.6677 z m 27.23514,12.8546 0,22.2396 c -5.14005,-2.7989 -15.4048,-4.7029 -27.23514,-4.7029 -11.23251,0 -21.05608,1.7153 -26.41998,4.2849 l 0,-21.4035 c 5.3639,2.5696 15.18747,4.2849 26.41998,4.2849 11.83034,0 22.09509,-1.904 27.23514,-4.703 z"
+       id="path5296-0-8-4"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="705.26978"
+       y="488.48761"
+       id="text5344-0-3-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5346-4-9-5"
+         x="705.26978"
+         y="488.48761"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Personal</tspan><tspan
+         sodipodi:role="line"
+         x="705.26978"
+         y="510.98761"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan4377-7">Theme</tspan></text>
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 648.90056,410.61998 c -16.97841,0 -30.74668,3.9278 -30.74668,8.7788 0,0.1662 0.0309,0.3168 0.0627,0.4807 -0.38198,1.0036 -0.62705,2.3114 -0.62705,3.7624 l 0,23.9117 c 0,3.155 1.08714,5.7062 2.44552,5.7062 0.15494,0 0.31302,-0.041 0.45984,-0.1044 4.62257,3.1806 15.60079,5.4136 28.40565,5.4136 13.68109,0 25.25456,-2.5527 29.24173,-6.0825 0.14115,0.058 0.29037,0.084 0.43894,0.084 1.35837,0 2.44552,-2.5304 2.44552,-5.6853 l 0,-23.9118 c 0,-3.0393 -1.01036,-5.5085 -2.2992,-5.6853 -3.31319,-3.8293 -15.40059,-6.6677 -29.82699,-6.6677 z m 27.23514,12.8546 0,22.2396 c -5.14005,-2.7989 -15.4048,-4.7029 -27.23514,-4.7029 -11.23251,0 -21.05608,1.7153 -26.41998,4.2849 l 0,-21.4035 c 5.3639,2.5696 15.18747,4.2849 26.41998,4.2849 11.83034,0 22.09509,-1.904 27.23514,-4.703 z"
+       id="path5296-02-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="686.62439"
+       y="426.21149"
+       id="text5344-0-3-1-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5346-4-9-4-9"
+         x="686.62439"
+         y="426.21149"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Hexo</tspan><tspan
+         sodipodi:role="line"
+         x="686.62439"
+         y="448.71149"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         id="tspan4377-5-2">project</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="830.66016"
+       y="499.84247"
+       id="text5344-9-0-4-1-0-6-9-9-3-2-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="830.66016"
+         y="499.84247"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-1-7-1-3-8-7-4-1"><tspan
+   style="font-style:italic;-inkscape-font-specification:Ubuntu Mono Italic"
+   id="tspan7858-8-0-1-5">theme</tspan>/*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="810.66016"
+       y="435.86649"
+       id="text5344-9-0-4-1-0-6-9-9-3-2-34-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="810.66016"
+         y="435.86649"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+         id="tspan5975-1-7-1-3-8-7-4-6-2"><tspan
+   style="font-style:italic"
+   id="tspan5339-8">my-project</tspan>/*</tspan></text>
+  </g>
+</svg>
