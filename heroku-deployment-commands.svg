@@ -541,9 +541,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="479.36673"
-     inkscape:cy="377.13129"
+     inkscape:cy="431.36109"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="a3359"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="876"
@@ -569,7 +569,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -580,29 +580,24 @@
      transform="translate(0,-308.2677)"
      style="display:inline">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.12110794;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
-       d="m 53.790082,374.49964 c -2.928935,0 -5.30568,2.32533 -5.30568,5.19548 0,2.51139 1.813577,4.60516 4.230206,5.08975 -0.226281,0.50758 -0.367449,1.2021 -0.367449,1.96681 l 0,1.69893 -5.144356,0 c -0.931291,0 -1.77961,0.0965 -2.446712,0.26083 -0.152902,-0.027 -0.369999,0.048 -0.6184,0.19034 -0.436226,0.17038 -0.717184,0.37894 -0.788681,0.60626 -0.230184,0.21597 -0.468104,0.4649 -0.699055,0.74724 l -4.992002,6.09782 c -0.912325,1.11535 -1.372528,2.25045 -1.039625,2.54488 0.332896,0.29441 1.337214,-0.36506 2.249532,-1.4804 l 4.983038,-6.09782 c 0.240539,-0.29407 0.446324,-0.58606 0.6184,-0.86709 0.700301,0.21072 1.663211,0.33838 2.733505,0.33838 l 5.144356,0 0,12.41417 c 0,0.71271 0.123045,1.35807 0.322636,1.85402 -0.752196,0.38405 -1.715578,1.41107 -2.482549,2.7352 l -5.852381,10.11604 c -1.072044,1.85079 -1.348665,3.55208 -0.6184,3.81378 0.730259,0.26171 2.181278,-1.01836 3.253315,-2.86914 l 5.852375,-10.11604 c 0.370729,-0.64004 0.644064,-1.2609 0.815567,-1.81173 0.208309,0.60457 0.574103,1.30562 1.066523,2.03026 l 6.658987,9.80586 c 1.218871,1.79369 2.769644,2.99751 3.477374,2.69996 0.707729,-0.29755 0.295757,-1.97779 -0.923114,-3.77149 l -6.659,-9.80585 c -0.87803,-1.2921 -1.932222,-2.27599 -2.715571,-2.61536 0.25576,-0.51507 0.412262,-1.2458 0.412262,-2.06551 l 0,-12.41417 3.988219,0 c 1.26167,0 2.375766,-0.17759 3.083036,-0.45823 0.172636,0.31139 0.404179,0.65865 0.708025,1.02219 l 5.0637,6.05552 c 0.926237,1.10822 2.059196,1.90349 2.536332,1.78352 0.477143,-0.11997 0.110664,-1.11237 -0.815566,-2.22059 l -5.0637,-6.05552 c -0.561444,-0.67176 -1.191464,-1.22907 -1.711802,-1.5368 -0.360405,-0.53558 -1.920289,-0.93053 -3.800025,-0.93053 l -3.988219,0 0,-1.69893 c 0,-0.74035 -0.126936,-1.41479 -0.340564,-1.91747 2.537226,-0.38824 4.472186,-2.54384 4.472186,-5.13909 0,-2.87015 -2.367781,-5.19548 -5.296723,-5.19548 z"
-       id="path3761"
-       inkscape:connector-curvature="0" />
-    <path
        style="fill:#ffffff;fill-opacity:1;stroke:#a09dc8;stroke-width:3.91162992;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
        d="m 317.30052,446.12976 c -4.17006,0 -7.53218,4.51509 -7.53218,10.09971 l 0,101.59465 c 0,3.66921 1.44864,6.87261 3.62545,8.63554 -2.34708,2.14547 -3.81298,5.28903 -3.81298,8.81483 l 0,402.79288 c 0,6.49438 4.99343,11.71327 11.22014,11.71327 l 693.39805,0 c 6.2268,0 11.2202,-5.21889 11.2202,-11.71327 l 0,-402.79288 c 0,-6.49439 -4.9934,-11.71327 -11.2202,-11.71327 l -226.34039,0 c 0.84035,-1.62711 1.34391,-3.60045 1.34391,-5.7371 l 0,-101.59465 c 0,-5.58462 -3.36212,-10.09971 -7.53218,-10.09971 l -464.36982,0 z"
        id="rect12178"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:11.33072281px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="74.23246"
-       y="398.08603"
+       style="font-size:11.33072281px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="274.38699"
+       y="413.08603"
        id="text12689"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="74.23246"
-         y="398.08603"
-         id="tspan12697">Commands are be run from</tspan><tspan
+         x="274.38699"
+         y="413.08603"
+         id="tspan12697">Commands should be run from</tspan><tspan
          sodipodi:role="line"
-         x="74.23246"
-         y="412.24942"
+         x="274.38699"
+         y="427.24942"
          id="tspan12856">a project managed with Git.</tspan></text>
     <g
        style="display:inline"
@@ -780,6 +775,14 @@
          x="718"
          y="863.36218"
          id="tspan14470">Archive</tspan></text>
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:1.82985985;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 70.273692,400.96489 c -11.612328,0 -21.029097,2.68641 -21.029097,6.00423 0,0.11368 0.02113,0.21668 0.04288,0.32878 -0.261261,0.68641 -0.428869,1.58087 -0.428869,2.57328 l 0,16.35434 c 0,2.15785 0.743539,3.90274 1.672599,3.90274 0.105971,0 0.214096,-0.028 0.314513,-0.0714 3.161587,2.17537 10.670109,3.70262 19.427956,3.70262 9.357142,0 17.272791,-1.74591 19.999804,-4.16011 0.09654,0.0397 0.198598,0.0575 0.300212,0.0575 0.929053,0 1.67261,-1.73066 1.67261,-3.88844 l 0,-16.35441 c 0,-2.07872 -0.691037,-3.76752 -1.572535,-3.88844 -2.266047,-2.61904 -10.533196,-4.56036 -20.400091,-4.56036 z m 18.627402,8.79187 0,15.21071 c -3.515522,-1.9143 -10.536075,-3.21654 -18.627402,-3.21654 -7.682443,0 -14.401246,1.17318 -18.06987,2.93065 l 0,-14.63887 c 3.668624,1.75748 10.387427,2.93065 18.06987,2.93065 8.091327,0 15.11188,-1.30224 18.627402,-3.2166 z"
+       id="path5296-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1449,7 +1452,7 @@
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="128.0002"
+       x="74.000198"
        y="185.0603"
        id="text5678-5-4-3"
        sodipodi:linespacing="125%"
@@ -1458,9 +1461,11 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5680-3-2-8"
-         x="128.0002"
+         x="74.000198"
          y="185.0603"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">heroku create</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">heroku create <tspan
+   style="font-style:italic;font-weight:normal"
+   id="tspan20796">name</tspan></tspan></text>
     <g
        style="display:inline"
        id="g9063-3-4"
@@ -1517,7 +1522,9 @@
          id="tspan5680-3-2-8-5"
          x="41.375198"
          y="598.05298"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">heroku addon:add name</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">heroku addon:add <tspan
+   style="font-style:italic;font-weight:normal"
+   id="tspan20790">name</tspan></tspan></text>
     <g
        style="display:inline"
        id="g9063-3-4-0"
@@ -1806,16 +1813,25 @@
          id="tspan11986-6">Release</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
-       x="37.575157"
-       y="445.85718"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="268.93329"
+       y="431.85718"
        id="text5678-5-4-3-6-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5680-3-2-8-5-0"
-         x="37.575157"
-         y="445.85718"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">heroku config:set name</tspan></text>
+         x="279.76141"
+         y="431.85718"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">heroku config:set </tspan><tspan
+         sodipodi:role="line"
+         x="268.93329"
+         y="454.35718"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold"
+         id="tspan20784"><tspan
+   style="font-style:italic;font-weight:normal"
+   id="tspan20786">variable-name</tspan>=<tspan
+   style="font-style:italic;font-weight:normal"
+   id="tspan20788">value</tspan></tspan></text>
     <g
        transform="translate(-3.47279,114.78808)"
        style="display:inline"
@@ -2220,7 +2236,7 @@
        xlink:href="http://jr0cket.github.io/developer-guides"
        transform="translate(29.182223,-9.000003)">
       <flowRoot
-         transform="matrix(0.94153338,0,0,0.94153338,622.05827,-259.58023)"
+         transform="matrix(0.94153338,0,0,0.94153338,646.05827,-259.58023)"
          style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6762a6;fill-opacity:1;display:inline;font-family:Sans"
          id="flowRoot3850-2-23-9-8-2-1-0-9-9"
          xml:space="preserve"><flowRegion
@@ -2232,6 +2248,6 @@
              width="348.50266"
              id="rect3854-6-1-5-0-3-1-1-5-9" /></flowRegion><flowPara
            style="font-size:16.99355507px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-           id="flowPara3856-6-1-7-7-2-5-8-9-1">http://jr0cket.github.io/developer-guides</flowPara></flowRoot>    </a>
+           id="flowPara3856-6-1-7-7-2-5-8-9-1">http://jr0cket.co.uk/developer-guides</flowPara></flowRoot>    </a>
   </g>
 </svg>
