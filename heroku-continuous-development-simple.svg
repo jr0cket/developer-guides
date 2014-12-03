@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="912.37469"
+   height="189.52393"
+   id="svg3794"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="heroku-continuous-development-simple.svg"
+   inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/heroku-continuous-development-simple.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3796">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481"
+       id="linearGradient7556"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,308.2677)"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7481">
+      <stop
+         style="stop-color:#9491c1;stop-opacity:1;"
+         offset="0"
+         id="stop7483" />
+      <stop
+         style="stop-color:#9491c1;stop-opacity:0;"
+         offset="1"
+         id="stop7485" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481"
+       id="linearGradient7558"
+       gradientUnits="userSpaceOnUse"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481"
+       id="linearGradient7560"
+       gradientUnits="userSpaceOnUse"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481"
+       id="linearGradient7562"
+       gradientUnits="userSpaceOnUse"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481"
+       id="linearGradient7564"
+       gradientUnits="userSpaceOnUse"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7481-8"
+       id="linearGradient7566"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(70.255034,52.354164)"
+       x1="-114.22591"
+       y1="1167.1135"
+       x2="37.355339"
+       y2="1167.1135" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7481-8">
+      <stop
+         style="stop-color:#9491c1;stop-opacity:1;"
+         offset="0"
+         id="stop7483-4" />
+      <stop
+         style="stop-color:#9491c1;stop-opacity:0;"
+         offset="1"
+         id="stop7485-9" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="461.33326"
+     inkscape:cy="-77.719758"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="876"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="32"
+     fit-margin-left="32"
+     fit-margin-right="32"
+     fit-margin-bottom="32" />
+  <metadata
+     id="metadata3799">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.495346,-346.95154)">
+    <path
+       style="fill:#c83737;fill-opacity:1;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 314.16925,401.32498 c -16.97841,0 -30.74668,3.92782 -30.74668,8.77878 0,0.16618 0.0309,0.31685 0.0627,0.48074 -0.38199,1.00357 -0.62705,2.31135 -0.62705,3.76234 l 0,23.91175 c 0,3.15496 1.08714,5.70621 2.44552,5.70621 0.15494,0 0.31302,-0.0413 0.45984,-0.10445 4.62257,3.18062 15.60079,5.41359 28.40565,5.41359 13.68109,0 25.25456,-2.55264 29.24173,-6.08246 0.14115,0.0583 0.29037,0.0836 0.43894,0.0836 1.35837,0 2.44552,-2.53036 2.44552,-5.68531 l 0,-23.91175 c 0,-3.03936 -1.01036,-5.50851 -2.2992,-5.68531 -3.31319,-3.82935 -15.40059,-6.6677 -29.82699,-6.6677 z m 27.23514,12.85465 0,22.2396 c -5.14005,-2.79892 -15.4048,-4.70293 -27.23514,-4.70293 -11.23251,0 -21.05609,1.71526 -26.41998,4.28489 l 0,-21.40352 c 5.36389,2.56963 15.18747,4.28488 26.41998,4.28488 11.83034,0 22.09509,-1.904 27.23514,-4.70292 z"
+       id="path5296"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="312.87839"
+       y="478.0907"
+       id="text5344"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5346"
+         x="312.87839"
+         y="478.0907"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Commit</tspan><tspan
+         sodipodi:role="line"
+         x="312.87839"
+         y="500.5907"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan4093">locally</tspan></text>
+    <g
+       id="g4043"
+       transform="matrix(0.76779711,0,0,0.76779711,-88.94686,65.128292)">
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+         transform="matrix(0.49981029,0,0,0.49981029,118.56192,78.174689)"
+         id="g5423"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+         transform="matrix(0.49981029,0,0,0.49981029,104.92486,92.803099)"
+         id="g5423-6"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-4"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-8"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-7"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-4">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-7">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-7">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-43">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-9"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-54"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-0">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-1">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-7">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-7">Or I dont know what I am doing</tspan></text>
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+         transform="matrix(0.49981029,0,0,0.49981029,93.813184,107.95539)"
+         id="g5423-8"
+         style="display:inline">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.11019707;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5348-1"
+           width="101.92536"
+           height="118.0878"
+           x="284.40796"
+           y="677.14056"
+           rx="8.6119843"
+           ry="10.327389" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="254.3006"
+           y="805.5434"
+           id="text5378-98"
+           sodipodi:linespacing="125%"
+           transform="scale(1.1557809,0.86521589)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-1"
+             x="254.3006"
+             y="805.5434">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="810.76208"
+             id="tspan5382-10">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="815.98077"
+             id="tspan5384-74">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="821.19946"
+             id="tspan5386-9">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="254.3006"
+             y="826.41809"
+             id="tspan5388-418">Or I dont know what I am doing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="314.4848"
+           y="-705.06384"
+           id="text5378-9-6"
+           sodipodi:linespacing="125%"
+           transform="scale(0.9367763,-1.0674907)"><tspan
+             sodipodi:role="line"
+             id="tspan5380-8-6"
+             x="314.4848"
+             y="-705.06384">This is my source code</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-698.78864"
+             id="tspan5382-1-4">It defines what my compter does</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-692.51343"
+             id="tspan5384-6-2">It executes predictably</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-686.23828"
+             id="tspan5386-3-4">Except when there are bugs</tspan><tspan
+             sodipodi:role="line"
+             x="314.4848"
+             y="-679.96307"
+             id="tspan5388-4-3">Or I dont know what I am doing</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="114.11644"
+       y="476.52942"
+       id="text5344-9-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="114.11644"
+         y="476.52942"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan5784">Develop</tspan><tspan
+         sodipodi:role="line"
+         x="114.11644"
+         y="499.02942"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan4091">code</tspan><tspan
+         sodipodi:role="line"
+         x="114.11644"
+         y="521.52942"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan4089" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="94.781586"
+       y="428.50827"
+       id="text5658-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5660-1"
+         x="94.781586"
+         y="428.50827"
+         style="font-weight:bold;-inkscape-font-specification:Sans Bold" /></text>
+    <g
+       id="g5650-08-5-3-0-75"
+       transform="matrix(-0.42182048,0.00317097,0.00431407,-0.45451697,647.55176,788.27229)"
+       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+      <g
+         id="g5654-7-4-7-2-7"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4-7-9-8"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1-9-7-9"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.84773874;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect6144-3-7-3"
+       width="1.498534"
+       height="180.02727"
+       x="-428.60706"
+       y="377.93179"
+       rx="14.135428"
+       ry="26.055529"
+       transform="matrix(0.02310337,-0.99973308,0.99999998,2.1099101e-4,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="360.23871"
+       y="407.39639"
+       id="text5678-5-4-5-1-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-5-3-3"
+         x="360.23871"
+         y="407.39639">git push heroku master<tspan
+   style="font-style:italic"
+   id="tspan6174-3-0-2" /></tspan></text>
+    <g
+       id="g5650-08-5-3-0-75-1"
+       transform="matrix(-0.32525389,0.00244504,0.00332645,-0.35046523,346.18553,709.72105)"
+       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+      <g
+         id="g5654-7-4-7-2-7-3"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4-7-9-8-5"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1-9-7-9-9"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.51679158;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect6144-3-7-3-8"
+       width="1.3722484"
+       height="103.46346"
+       x="-432.45972"
+       y="172.38853"
+       rx="12.944198"
+       ry="14.974369"
+       transform="matrix(0.01449966,-0.99989487,0.99999994,3.3624208e-4,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="168.47093"
+       y="392.62732"
+       id="text5678-5-4-5-1-5-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-5-3-3-5"
+         x="168.47093"
+         y="392.62732">git add</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="168.47093"
+       y="413.86084"
+       id="text5678-5-4-5-1-5-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-5-3-3-8"
+         x="168.47093"
+         y="413.86084">git commit</tspan></text>
+    <path
+       style="fill:#6762a7;fill-opacity:0.70196078;stroke:#000000;stroke-width:3.25677776;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       d="m 625.38743,396.95377 c -20.66758,0 -37.42751,4.78128 -37.42751,10.68629 0,0.20229 0.0376,0.3857 0.0763,0.5852 -0.46499,1.22163 -0.7633,2.81357 -0.7633,4.57984 l 0,29.10745 c 0,3.84049 1.32336,6.9461 2.9769,6.9461 0.1886,0 0.38103,-0.0503 0.55975,-0.12715 5.62698,3.87173 18.99062,6.58989 34.57781,6.58989 16.6538,0 30.74204,-3.10729 35.59557,-7.4041 0.17182,0.071 0.35347,0.10177 0.53432,0.10177 1.65352,0 2.9769,-3.08017 2.9769,-6.92065 l 0,-29.10745 c 0,-3.69977 -1.2299,-6.70544 -2.79879,-6.92065 -4.0331,-4.66142 -18.74694,-8.1165 -36.308,-8.1165 z m 33.15298,15.64779 0,27.07197 c -6.25691,-3.40709 -18.75207,-5.72482 -33.15298,-5.72482 -13.67317,0 -25.63128,2.08797 -32.16067,5.21594 l 0,-26.05421 c 6.52939,3.12797 18.4875,5.21592 32.16067,5.21592 14.40091,0 26.89607,-2.31771 33.15298,-5.7248 z"
+       id="path5296-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="625.63934"
+       y="475.02982"
+       id="text5344-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5346-4"
+         x="625.63934"
+         y="475.02982"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Heroku</tspan><tspan
+         sodipodi:role="line"
+         x="625.63934"
+         y="497.52982"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan9886">repo</tspan></text>
+    <path
+       sodipodi:type="spiral"
+       style="fill:#a09dc8;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       id="path5369"
+       sodipodi:cx="408.10162"
+       sodipodi:cy="204.67302"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="22.154375"
+       sodipodi:argument="-18.096405"
+       sodipodi:t0="0"
+       d="m 408.10162,204.67302 c 0.81036,0.75971 -0.62427,1.46716 -1.26269,1.34687 -1.73007,-0.32599 -2.07719,-2.51732 -1.43105,-3.87225 1.15579,-2.42365 4.34782,-2.80618 6.48181,-1.51523 3.13173,1.89451 3.55582,6.20279 1.59942,9.09137 -2.60758,3.85003 -8.06642,4.31419 -11.70094,1.68359 -4.57367,-3.31033 -5.07707,-9.93414 -1.76777,-14.31049 4.008,-5.30035 11.80419,-5.84256 16.92005,-1.85195 6.02888,4.70279 6.6097,13.67567 1.93614,19.52961 -5.39581,6.75861 -15.54812,7.37792 -22.13918,2.02031 -7.48917,-6.08764 -8.1469,-17.42124 -2.10449,-24.74873 6.77866,-8.22034 19.29486,-8.91644 27.3583,-2.18868 8.95194,7.4691 9.68639,21.16885 2.27285,29.96786"
+       transform="matrix(0.97902552,0,0,0.97902552,334.87111,203.66247)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="display:inline"
+       id="g7548"
+       transform="matrix(0.50816222,0,0,0.56111723,886.89851,-232.50348)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0"
+         rx="0"
+         y="1106.9104"
+         x="-74.751289"
+         height="90.913727"
+         width="110.10663"
+         id="rect5914"
+         style="fill:url(#linearGradient7556);fill-opacity:1;stroke:#9491c1;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         ry="0"
+         rx="0"
+         y="1136.4028"
+         x="-112.22591"
+         height="90.913727"
+         width="110.10663"
+         id="rect5914-0"
+         style="fill:url(#linearGradient7558);fill-opacity:1;stroke:#9491c1;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <rect
+         transform="matrix(0.58674821,0.80976944,-0.78940013,0.61387901,0,0)"
+         ry="0"
+         rx="0"
+         y="675.0575"
+         x="967.61285"
+         height="45.114525"
+         width="0.42472386"
+         id="rect5914-0-5"
+         style="fill:url(#linearGradient7560);fill-opacity:1;stroke:#9491c1;stroke-width:4.00115156;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <rect
+         transform="matrix(0.58674821,0.80976944,-0.78940013,0.61387901,0,0)"
+         ry="0"
+         rx="0"
+         y="623.02069"
+         x="895.91785"
+         height="45.114525"
+         width="0.42472386"
+         id="rect5914-0-5-7"
+         style="fill:url(#linearGradient7562);fill-opacity:1;stroke:#9491c1;stroke-width:4.00115156;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <rect
+         transform="matrix(0.58674821,0.80976944,-0.78940013,0.61387901,0,0)"
+         ry="0"
+         rx="0"
+         y="710.76959"
+         x="828.2196"
+         height="45.114525"
+         width="0.42472386"
+         id="rect5914-0-5-7-2"
+         style="fill:url(#linearGradient7564);fill-opacity:1;stroke:#9491c1;stroke-width:4.00115156;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+      <rect
+         transform="matrix(0.58674821,0.80976944,-0.78940013,0.61387901,0,0)"
+         ry="0"
+         rx="0"
+         y="763.12482"
+         x="898.47479"
+         height="45.114525"
+         width="0.42472386"
+         id="rect5914-0-5-7-2-3"
+         style="fill:url(#linearGradient7566);fill-opacity:1;stroke:#9491c1;stroke-width:4.00115156;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="737.11804"
+       y="461.13889"
+       id="text5678-5-4-5-1-5-1-7-7-8-5-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5680-3-2-5-3-3-1-2-3-0-1-2"
+         x="737.11804"
+         y="461.13889">Heroku</tspan><tspan
+         sodipodi:role="line"
+         x="739.98328"
+         y="483.63889"
+         id="tspan7768">deployment </tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.21169901;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect6144-3-7-3-2-4-3-6-6-3"
+       width="2.1224263"
+       height="95.941917"
+       x="-432.24634"
+       y="695.23303"
+       rx="20.020502"
+       ry="13.885772"
+       transform="matrix(0.00869319,-0.99996221,0.99999984,5.6086628e-4,0,0)"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5650-08-5-3-0-75-2-2-8-5-6-0"
+       transform="matrix(-0.42182048,0.00317097,0.00431407,-0.45451697,888.30568,792.01489)"
+       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5654-7-4-7-2-7-4-6-5-3-5-5"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4-7-9-8-2-8-9-7-8-4"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1-9-7-9-1-6-3-9-1-4"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       x="867.69232"
+       y="476.4855"
+       id="text5344-9-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="867.69232"
+         y="476.4855"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan16117">New</tspan><tspan
+         sodipodi:role="line"
+         x="867.69232"
+         y="498.9855"
+         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         id="tspan16797">application</tspan></text>
+  </g>
+</svg>
