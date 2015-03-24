@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="617.41351"
+   height="352.42856"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="clojure-leiningen-configuration-precedence.svg"
+   inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/clojure-leiningen-configuration-precedence.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="248.4801"
+     inkscape:cy="196.42855"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="876"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="32"
+     fit-margin-left="64"
+     fit-margin-right="64"
+     fit-margin-bottom="32" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(19.270645,-376.36218)">
+    <g
+       id="g3812">
+      <rect
+         ry="10.936209"
+         rx="20.028961"
+         y="636.60229"
+         x="132.09727"
+         height="57.519733"
+         width="399.37689"
+         id="rect2985"
+         style="fill:#e3f4d7;fill-opacity:1;stroke:#000000;stroke-width:5.3374114;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2987"
+         y="675.89734"
+         x="152.92049"
+         style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-size:36px"
+           y="675.89734"
+           x="152.92049"
+           id="tspan2989"
+           sodipodi:role="line">~/.lein/profiles.clj</tspan></text>
+    </g>
+    <g
+       id="g3802"
+       transform="translate(2.056366,0.38093567)">
+      <rect
+         ry="10.936209"
+         rx="20.028961"
+         y="561.03088"
+         x="130.04091"
+         height="57.519733"
+         width="399.37689"
+         id="rect2985-2"
+         style="fill:#7fff2a;fill-opacity:1;stroke:#000000;stroke-width:5.3374114;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2987-7"
+         y="599.58179"
+         x="227.96959"
+         style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-size:36px"
+           y="599.58179"
+           x="227.96959"
+           id="tspan2989-0"
+           sodipodi:role="line">project.clj</tspan></text>
+    </g>
+    <g
+       id="g3807"
+       transform="translate(-0.94364929,-0.80952454)">
+      <rect
+         ry="10.936209"
+         rx="20.028961"
+         y="487.03088"
+         x="133.04092"
+         height="57.519733"
+         width="399.37689"
+         id="rect2985-1"
+         style="fill:#55d400;fill-opacity:1;stroke:#000000;stroke-width:5.3374114;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text2987-8"
+         y="525.58179"
+         x="226.18835"
+         style="font-size:36px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="525.58179"
+           x="226.18835"
+           id="tspan2989-4"
+           sodipodi:role="line">profiles.clj</tspan></text>
+    </g>
+    <g
+       id="g5650-08-5-3-0-9-3"
+       transform="matrix(-0.02151874,0.42128318,-0.45348562,-0.03090431,469.9021,401.36848)"
+       style="stroke-width:9.80934143;stroke-miterlimit:4;stroke-dasharray:none;display:inline">
+      <g
+         id="g5654-7-4-7-2-5-6"
+         transform="matrix(0.40019564,0.04095051,-0.04095051,0.40019564,183.38257,365.5704)"
+         style="stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-74-4-7-9-6-5"
+           width="120.52968"
+           height="2.511035"
+           x="458.97156"
+           y="969.97491"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.97437172,0.22494389,-0.22494389,0.97437172,0,0)" />
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:24.38403893;stroke-miterlimit:4;stroke-dasharray:none"
+           id="rect5609-7-29-1-9-7-2-3"
+           width="120.52968"
+           height="2.511035"
+           x="-275.39764"
+           y="1037.444"
+           rx="21.40765"
+           ry="2.511035"
+           transform="matrix(0.88918786,-0.4575423,0.4575423,0.88918786,0,0)" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.89580059;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="rect6144-3-7-8-1"
+       width="0.67499191"
+       height="190.58966"
+       x="-144.35208"
+       y="-770.99011"
+       rx="6.3670888"
+       ry="27.584236"
+       transform="matrix(-0.70808887,0.70612333,-0.00352044,-0.9999938,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-574.76007"
+       y="59.924667"
+       id="text3742"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3744"
+         x="-574.76007"
+         y="59.924667"
+         style="font-size:20px;text-align:center;text-anchor:middle">Order of</tspan><tspan
+         sodipodi:role="line"
+         x="-574.76007"
+         y="84.924667"
+         style="font-size:20px;text-align:center;text-anchor:middle"
+         id="tspan3817">preceedence</tspan></text>
+    <rect
+       style="fill:#225500;fill-opacity:1;stroke:#000000;stroke-width:5.3374114;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985-6"
+       width="399.37689"
+       height="57.519733"
+       x="132.09727"
+       y="411.03088"
+       rx="20.028961"
+       ry="10.936209" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e3e2db;fill-opacity:1;stroke:#e3e2db;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="165.3033"
+       y="449.58176"
+       id="text2987-8-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2989-4-2"
+         x="165.3033"
+         y="449.58176">configuration {}</tspan></text>
+  </g>
+</svg>
