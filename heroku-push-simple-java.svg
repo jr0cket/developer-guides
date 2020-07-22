@@ -14,8 +14,8 @@
    height="348.83502"
    id="svg5826"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="heroku-push-java.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="heroku-push-simple-java.svg"
    inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/heroku-push-java.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -143,11 +143,11 @@
      fit-margin-left="16"
      fit-margin-right="16"
      fit-margin-bottom="16"
-     inkscape:window-width="1600"
-     inkscape:window-height="876"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1712"
+     inkscape:window-height="1409"
+     inkscape:window-x="1722"
+     inkscape:window-y="4"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata5831">
     <rdf:RDF>
@@ -156,7 +156,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -175,11 +175,10 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="29.057404"
        y="611.76385"
        id="text5344-0"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
@@ -187,7 +186,7 @@
          id="tspan5346-9"
          x="29.057404"
          y="611.76385"
-         style="font-weight:bold;-inkscape-font-specification:Sans Bold">Local repo</tspan></text>
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold'">Local repo</tspan></text>
     <g
        style="display:inline"
        id="g9063-3-3-5"
@@ -238,11 +237,10 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="141.56018"
        y="551.07013"
        id="text5678-5-4-3-7-5"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/heroku-developer-workflow--create.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
@@ -250,7 +248,7 @@
          id="tspan5680-3-2-8-5-9"
          x="141.56018"
          y="551.07013"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Courier 10 Pitch;-inkscape-font-specification:Courier 10 Pitch Bold">git push heroku master</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch Bold'">git push heroku master</tspan></text>
     <path
        style="fill:#6762a7;fill-opacity:0.70196078;stroke:#000000;stroke-width:2.67544055;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
        d="m 450.14705,520.79271 c -16.9784,0 -30.74667,3.9278 -30.74667,8.7787 0,0.1662 0.0309,0.3169 0.0627,0.4808 -0.38199,1.0036 -0.62705,2.3113 -0.62705,3.7623 l 0,23.9118 c 0,3.1549 1.08714,5.7062 2.44552,5.7062 0.15494,0 0.31302,-0.041 0.45984,-0.1045 4.62256,3.1807 15.60078,5.4136 28.40564,5.4136 13.68109,0 25.25457,-2.5526 29.24174,-6.0824 0.14115,0.058 0.29037,0.084 0.43894,0.084 1.35837,0 2.44552,-2.5304 2.44552,-5.6853 l 0,-23.9118 c 0,-3.0394 -1.01036,-5.5085 -2.2992,-5.6853 -3.31319,-3.8294 -15.4006,-6.6677 -29.827,-6.6677 z m 27.23515,12.8546 0,22.2396 c -5.14005,-2.7989 -15.40481,-4.7029 -27.23515,-4.7029 -11.2325,0 -21.05608,1.7152 -26.41997,4.2849 l 0,-21.4035 c 5.36389,2.5696 15.18747,4.2848 26.41997,4.2848 11.83034,0 22.0951,-1.904 27.23515,-4.7029 z"
@@ -277,23 +275,22 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="490.51547"
        y="615.09332"
        id="text5344-9-6-3"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/heroku-developer-workflow--push.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5346-4-0-7"
-         x="493.64438"
+         x="493.64877"
          y="615.09332"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Heroku </tspan><tspan
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">Heroku </tspan><tspan
          sodipodi:role="line"
          x="490.51547"
          y="637.59332"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan5392-8">manager</tspan></text>
     <rect
        style="opacity:0.23999999;fill:#a09dc8;fill-opacity:1;stroke:#000000;stroke-width:4.25071001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -403,63 +400,60 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="607.07611"
        y="616.98199"
        id="text5344-9-6-85-3-0-0"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/heroku-developer-workflow--push.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="607.07611"
          y="616.98199"
-         style="font-size:14px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:14px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan11786-1-4">Language</tspan><tspan
          sodipodi:role="line"
          x="607.07611"
          y="634.48199"
-         style="font-size:14px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:14px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan11825-1">Environment</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="890.71613"
        y="614.92719"
        id="text5344-9-4-7-2"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/heroku-developer-workflow--push.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="890.71613"
          y="614.92719"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan9886-7-5">New</tspan><tspan
          sodipodi:role="line"
          x="890.71613"
          y="637.42719"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan11986-6">Release</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="735.63373"
        y="616.25208"
        id="text5344-9-6-85-5-2-7"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/heroku-developer-workflow--push.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="735.63373"
          y="616.25208"
-         style="font-size:14px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:14px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan11797-4-7">Assemble</tspan><tspan
          sodipodi:role="line"
          x="735.63373"
          y="633.75208"
-         style="font-size:14px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:14px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan6241-0">application</tspan></text>
     <image
        y="782.86218"
@@ -486,18 +480,17 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="719.25293"
        y="709.47449"
        id="text5344-9-6-85-5-2-7-3"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/heroku-developer-workflow--push.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="719.25293"
          y="709.47449"
-         style="font-size:14px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:14px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan20167">Heroku cache</tspan></text>
     <path
        sodipodi:type="spiral"
@@ -517,18 +510,17 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="803.56921"
        y="507.70294"
        id="text5344-9-6-3-6"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/heroku-developer-workflow--push.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="803.56921"
          y="507.70294"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan5392-8-3">mvn</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:2.82654905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -563,23 +555,22 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="669.2312"
        y="665.11609"
        id="text5344-9-6-85-3-0-0-1"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/heroku-developer-workflow--push.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
-         x="671.31714"
+         x="671.32007"
          y="665.11609"
-         style="font-size:12px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan11825-1-2">dependencies </tspan><tspan
          sodipodi:role="line"
          x="669.2312"
          y="680.11609"
-         style="font-size:12px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:12px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan20453">- pom.xml</tspan></text>
     <rect
        style="opacity:0.23999999;fill:#a09dc8;fill-opacity:1;stroke:#000000;stroke-width:4.25071001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"

@@ -14,7 +14,7 @@
    height="486.25696"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="heroku-multiple-environments-concept.svg"
    inkscape:export-filename="/home/jr0cket/projects/dev-docs/developer-guides/heroku-multiple-environments-concept.png"
    inkscape:export-xdpi="90"
@@ -275,11 +275,11 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1600"
-     inkscape:window-height="876"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1712"
+     inkscape:window-height="1409"
+     inkscape:window-x="1722"
+     inkscape:window-y="4"
+     inkscape:window-maximized="0"
      fit-margin-top="32"
      fit-margin-left="32"
      fit-margin-right="32"
@@ -292,7 +292,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -311,23 +311,22 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="298.95419"
        y="618.7619"
        id="text5344"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="298.95419"
          y="618.7619"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan4093">Local</tspan><tspan
          sodipodi:role="line"
          x="298.95419"
          y="641.2619"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan3799">repository</tspan></text>
     <g
        id="g4043"
@@ -350,60 +349,68 @@
            ry="10.327389" />
         <text
            xml:space="preserve"
-           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="254.3006"
            y="805.5434"
            id="text5378"
-           sodipodi:linespacing="125%"
            transform="scale(1.1557809,0.86521589)"><tspan
              sodipodi:role="line"
              id="tspan5380"
              x="254.3006"
-             y="805.5434">This is my source code</tspan><tspan
+             y="805.5434"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">This is my source code</tspan><tspan
              sodipodi:role="line"
              x="254.3006"
              y="810.76208"
-             id="tspan5382">It defines what my compter does</tspan><tspan
+             id="tspan5382"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">It defines what my compter does</tspan><tspan
              sodipodi:role="line"
              x="254.3006"
              y="815.98077"
-             id="tspan5384">It executes predictably</tspan><tspan
+             id="tspan5384"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">It executes predictably</tspan><tspan
              sodipodi:role="line"
              x="254.3006"
-             y="821.19946"
-             id="tspan5386">Except when there are bugs</tspan><tspan
+             y="821.1994"
+             id="tspan5386"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">Except when there are bugs</tspan><tspan
              sodipodi:role="line"
              x="254.3006"
              y="826.41809"
-             id="tspan5388">Or I dont know what I am doing</tspan></text>
+             id="tspan5388"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">Or I dont know what I am doing</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="314.4848"
            y="-705.06384"
            id="text5378-9"
-           sodipodi:linespacing="125%"
            transform="scale(0.9367763,-1.0674907)"><tspan
              sodipodi:role="line"
              id="tspan5380-8"
              x="314.4848"
-             y="-705.06384">This is my source code</tspan><tspan
+             y="-705.06384"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">This is my source code</tspan><tspan
              sodipodi:role="line"
              x="314.4848"
              y="-698.78864"
-             id="tspan5382-1">It defines what my compter does</tspan><tspan
+             id="tspan5382-1"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">It defines what my compter does</tspan><tspan
              sodipodi:role="line"
              x="314.4848"
              y="-692.51343"
-             id="tspan5384-6">It executes predictably</tspan><tspan
+             id="tspan5384-6"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">It executes predictably</tspan><tspan
              sodipodi:role="line"
              x="314.4848"
              y="-686.23828"
-             id="tspan5386-3">Except when there are bugs</tspan><tspan
+             id="tspan5386-3"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">Except when there are bugs</tspan><tspan
              sodipodi:role="line"
              x="314.4848"
              y="-679.96307"
-             id="tspan5388-4">Or I dont know what I am doing</tspan></text>
+             id="tspan5388-4"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">Or I dont know what I am doing</tspan></text>
       </g>
       <g
          inkscape:export-ydpi="90"
@@ -423,60 +430,68 @@
            ry="10.327389" />
         <text
            xml:space="preserve"
-           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="254.3006"
            y="805.5434"
            id="text5378-8"
-           sodipodi:linespacing="125%"
            transform="scale(1.1557809,0.86521589)"><tspan
              sodipodi:role="line"
              id="tspan5380-7"
              x="254.3006"
-             y="805.5434">This is my source code</tspan><tspan
+             y="805.5434"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">This is my source code</tspan><tspan
              sodipodi:role="line"
              x="254.3006"
              y="810.76208"
-             id="tspan5382-4">It defines what my compter does</tspan><tspan
+             id="tspan5382-4"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">It defines what my compter does</tspan><tspan
              sodipodi:role="line"
              x="254.3006"
              y="815.98077"
-             id="tspan5384-7">It executes predictably</tspan><tspan
+             id="tspan5384-7"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">It executes predictably</tspan><tspan
              sodipodi:role="line"
              x="254.3006"
-             y="821.19946"
-             id="tspan5386-7">Except when there are bugs</tspan><tspan
+             y="821.1994"
+             id="tspan5386-7"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">Except when there are bugs</tspan><tspan
              sodipodi:role="line"
              x="254.3006"
              y="826.41809"
-             id="tspan5388-43">Or I dont know what I am doing</tspan></text>
+             id="tspan5388-43"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">Or I dont know what I am doing</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="314.4848"
            y="-705.06384"
            id="text5378-9-9"
-           sodipodi:linespacing="125%"
            transform="scale(0.9367763,-1.0674907)"><tspan
              sodipodi:role="line"
              id="tspan5380-8-54"
              x="314.4848"
-             y="-705.06384">This is my source code</tspan><tspan
+             y="-705.06384"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">This is my source code</tspan><tspan
              sodipodi:role="line"
              x="314.4848"
              y="-698.78864"
-             id="tspan5382-1-0">It defines what my compter does</tspan><tspan
+             id="tspan5382-1-0"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">It defines what my compter does</tspan><tspan
              sodipodi:role="line"
              x="314.4848"
              y="-692.51343"
-             id="tspan5384-6-1">It executes predictably</tspan><tspan
+             id="tspan5384-6-1"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">It executes predictably</tspan><tspan
              sodipodi:role="line"
              x="314.4848"
              y="-686.23828"
-             id="tspan5386-3-7">Except when there are bugs</tspan><tspan
+             id="tspan5386-3-7"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">Except when there are bugs</tspan><tspan
              sodipodi:role="line"
              x="314.4848"
              y="-679.96307"
-             id="tspan5388-4-7">Or I dont know what I am doing</tspan></text>
+             id="tspan5388-4-7"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">Or I dont know what I am doing</tspan></text>
       </g>
       <g
          inkscape:export-ydpi="90"
@@ -496,87 +511,94 @@
            ry="10.327389" />
         <text
            xml:space="preserve"
-           style="font-size:4.17494345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="254.3006"
            y="805.5434"
            id="text5378-98"
-           sodipodi:linespacing="125%"
            transform="scale(1.1557809,0.86521589)"><tspan
              sodipodi:role="line"
              id="tspan5380-1"
              x="254.3006"
-             y="805.5434">This is my source code</tspan><tspan
+             y="805.5434"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">This is my source code</tspan><tspan
              sodipodi:role="line"
              x="254.3006"
              y="810.76208"
-             id="tspan5382-10">It defines what my compter does</tspan><tspan
+             id="tspan5382-10"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">It defines what my compter does</tspan><tspan
              sodipodi:role="line"
              x="254.3006"
              y="815.98077"
-             id="tspan5384-74">It executes predictably</tspan><tspan
+             id="tspan5384-74"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">It executes predictably</tspan><tspan
              sodipodi:role="line"
              x="254.3006"
-             y="821.19946"
-             id="tspan5386-9">Except when there are bugs</tspan><tspan
+             y="821.1994"
+             id="tspan5386-9"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">Except when there are bugs</tspan><tspan
              sodipodi:role="line"
              x="254.3006"
              y="826.41809"
-             id="tspan5388-418">Or I dont know what I am doing</tspan></text>
+             id="tspan5388-418"
+             style="font-size:4.17494297px;line-height:1.25;font-family:sans-serif">Or I dont know what I am doing</tspan></text>
         <text
            xml:space="preserve"
-           style="font-size:5.02015781px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            x="314.4848"
            y="-705.06384"
            id="text5378-9-6"
-           sodipodi:linespacing="125%"
            transform="scale(0.9367763,-1.0674907)"><tspan
              sodipodi:role="line"
              id="tspan5380-8-6"
              x="314.4848"
-             y="-705.06384">This is my source code</tspan><tspan
+             y="-705.06384"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">This is my source code</tspan><tspan
              sodipodi:role="line"
              x="314.4848"
              y="-698.78864"
-             id="tspan5382-1-4">It defines what my compter does</tspan><tspan
+             id="tspan5382-1-4"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">It defines what my compter does</tspan><tspan
              sodipodi:role="line"
              x="314.4848"
              y="-692.51343"
-             id="tspan5384-6-2">It executes predictably</tspan><tspan
+             id="tspan5384-6-2"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">It executes predictably</tspan><tspan
              sodipodi:role="line"
              x="314.4848"
              y="-686.23828"
-             id="tspan5386-3-4">Except when there are bugs</tspan><tspan
+             id="tspan5386-3-4"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">Except when there are bugs</tspan><tspan
              sodipodi:role="line"
              x="314.4848"
              y="-679.96307"
-             id="tspan5388-4-3">Or I dont know what I am doing</tspan></text>
+             id="tspan5388-4-3"
+             style="font-size:5.02015781px;line-height:1.25;font-family:sans-serif">Or I dont know what I am doing</tspan></text>
       </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="100.19228"
        y="617.20062"
        id="text5344-9-0"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/DevGuides/git-local-workflow.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="100.19228"
          y="617.20062"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan5784">Develop</tspan><tspan
          sodipodi:role="line"
          x="100.19228"
          y="639.70062"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan4091">code</tspan><tspan
          sodipodi:role="line"
-         x="100.19228"
+         x="103.32558"
          y="662.20062"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
-         id="tspan4089" /></text>
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
+         id="tspan4089"> </tspan></text>
     <g
        id="g5650-08-5-3-0-75"
        transform="matrix(-0.38095908,0.18114291,-0.1881773,-0.41375547,825.56781,722.999)"
@@ -619,16 +641,16 @@
        transform="matrix(-0.40156669,-0.91582978,0.90639694,-0.42242703,0,0)" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="155.35292"
        y="623.28394"
        id="text5678-5-4-5-1-5"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.90630779,-0.42261826,0.42261826,0.90630779,0,0)"><tspan
+       transform="rotate(-25)"><tspan
          sodipodi:role="line"
          id="tspan5680-3-2-5-3-3"
          x="155.35292"
-         y="623.28394">git push testing master</tspan></text>
+         y="623.28394"
+         style="font-size:18px;line-height:1.25;font-family:sans-serif">git push testing master</tspan></text>
     <g
        id="g5650-08-5-3-0-75-1"
        transform="matrix(-0.32525389,0.00244504,0.00332645,-0.35046523,332.26135,850.39225)"
@@ -671,26 +693,26 @@
        transform="matrix(0.01449966,-0.99989487,0.99999994,3.3624208e-4,0,0)" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="154.54672"
        y="533.29852"
-       id="text5678-5-4-5-1-5-3"
-       sodipodi:linespacing="125%"><tspan
+       id="text5678-5-4-5-1-5-3"><tspan
          sodipodi:role="line"
          id="tspan5680-3-2-5-3-3-5"
          x="154.54672"
-         y="533.29852">git add</tspan></text>
+         y="533.29852"
+         style="font-size:18px;line-height:1.25;font-family:sans-serif">git add</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="154.54672"
        y="554.53204"
-       id="text5678-5-4-5-1-5-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text5678-5-4-5-1-5-2"><tspan
          sodipodi:role="line"
          id="tspan5680-3-2-5-3-3-8"
          x="154.54672"
-         y="554.53204">git commit</tspan></text>
+         y="554.53204"
+         style="font-size:18px;line-height:1.25;font-family:sans-serif">git commit</tspan></text>
     <path
        style="fill:#6762a7;fill-opacity:0.70196078;stroke:#000000;stroke-width:3.25677776;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
        d="m 670.13331,399.03102 c -20.66758,0 -37.42751,4.78128 -37.42751,10.68629 0,0.20229 0.0376,0.3857 0.0763,0.5852 -0.46499,1.22163 -0.7633,2.81357 -0.7633,4.57984 l 0,29.10745 c 0,3.84049 1.32336,6.9461 2.9769,6.9461 0.1886,0 0.38103,-0.0503 0.55975,-0.12715 5.62698,3.87173 18.99062,6.58989 34.57781,6.58989 16.6538,0 30.74204,-3.10729 35.59557,-7.4041 0.17182,0.071 0.35347,0.10177 0.53432,0.10177 1.65352,0 2.9769,-3.08017 2.9769,-6.92065 l 0,-29.10745 c 0,-3.69977 -1.2299,-6.70544 -2.79879,-6.92065 -4.0331,-4.66142 -18.74694,-8.1165 -36.308,-8.1165 z m 33.15298,15.64779 0,27.07197 c -6.25691,-3.40709 -18.75207,-5.72482 -33.15298,-5.72482 -13.67317,0 -25.63128,2.08797 -32.16067,5.21594 l 0,-26.05421 c 6.52939,3.12797 18.4875,5.21592 32.16067,5.21592 14.40091,0 26.89607,-2.31771 33.15298,-5.7248 z"
@@ -701,11 +723,10 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="670.38519"
        y="477.10706"
        id="text5344-9"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
@@ -713,11 +734,11 @@
          id="tspan5346-4"
          x="670.38519"
          y="477.10706"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">testing</tspan><tspan
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">testing</tspan><tspan
          sodipodi:role="line"
          x="670.38519"
          y="499.60706"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan9886">repository</tspan></text>
     <path
        sodipodi:type="spiral"
@@ -849,23 +870,22 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="846.43823"
        y="478.56277"
        id="text5344-9-8"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="846.43823"
          y="478.56277"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan16117">Test</tspan><tspan
          sodipodi:role="line"
          x="846.43823"
          y="501.06277"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan16797">application</tspan></text>
     <g
        id="g5650-08-5-3-0-75-10"
@@ -909,15 +929,15 @@
        transform="matrix(0.02310337,-0.99973308,0.99999998,2.1099101e-4,0,0)" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="403.09146"
        y="563.79987"
-       id="text5678-5-4-5-1-5-1"
-       sodipodi:linespacing="125%"><tspan
+       id="text5678-5-4-5-1-5-1"><tspan
          sodipodi:role="line"
          id="tspan5680-3-2-5-3-3-1"
          x="403.09146"
-         y="563.79987">git push staging master</tspan></text>
+         y="563.79987"
+         style="font-size:18px;line-height:1.25;font-family:sans-serif">git push staging master</tspan></text>
     <path
        style="fill:#6762a7;fill-opacity:0.70196078;stroke:#000000;stroke-width:3.25677776;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
        d="m 668.24023,553.35727 c -20.66758,0 -37.42751,4.78128 -37.42751,10.68629 0,0.20229 0.0376,0.3857 0.0763,0.5852 -0.46499,1.22163 -0.7633,2.81357 -0.7633,4.57984 l 0,29.10745 c 0,3.84049 1.32336,6.9461 2.9769,6.9461 0.1886,0 0.38103,-0.0503 0.55975,-0.12715 5.62698,3.87173 18.99062,6.58989 34.57781,6.58989 16.6538,0 30.74204,-3.10729 35.59557,-7.4041 0.17182,0.071 0.35347,0.10177 0.53432,0.10177 1.65352,0 2.9769,-3.08017 2.9769,-6.92065 l 0,-29.10745 c 0,-3.69977 -1.2299,-6.70544 -2.79879,-6.92065 -4.0331,-4.66142 -18.74694,-8.1165 -36.308,-8.1165 z m 33.15298,15.64779 0,27.07197 c -6.25691,-3.40709 -18.75207,-5.72482 -33.15298,-5.72482 -13.67317,0 -25.63128,2.08797 -32.16067,5.21594 l 0,-26.05421 c 6.52939,3.12797 18.4875,5.21592 32.16067,5.21592 14.40091,0 26.89607,-2.31771 33.15298,-5.7248 z"
@@ -928,11 +948,10 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="668.49213"
        y="631.43329"
        id="text5344-9-6"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
@@ -940,11 +959,11 @@
          id="tspan5346-4-6"
          x="668.49213"
          y="631.43329"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">staging</tspan><tspan
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">staging</tspan><tspan
          sodipodi:role="line"
          x="668.49213"
          y="653.93329"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan9886-4">repository</tspan></text>
     <g
        style="display:inline"
@@ -1014,23 +1033,22 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="846.43823"
        y="632.88898"
        id="text5344-9-8-0"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="846.43823"
          y="632.88898"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan16117-1">Staging</tspan><tspan
          sodipodi:role="line"
          x="846.43823"
          y="655.38898"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan16797-4">application</tspan></text>
     <g
        id="g5650-08-5-3-0-75-12"
@@ -1074,16 +1092,16 @@
        transform="matrix(0.44344422,-0.89630197,0.9062186,0.42280948,0,0)" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="624.82379"
        y="414.18384"
        id="text5678-5-4-5-1-5-15"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.90630779,0.42261826,-0.42261826,0.90630779,0,0)"><tspan
+       transform="rotate(25)"><tspan
          sodipodi:role="line"
          id="tspan5680-3-2-5-3-3-4"
          x="624.82379"
-         y="414.18384">git push production master</tspan></text>
+         y="414.18384"
+         style="font-size:18px;line-height:1.25;font-family:sans-serif">git push production master</tspan></text>
     <path
        style="fill:#6762a7;fill-opacity:0.70196078;stroke:#000000;stroke-width:3.25677776;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
        d="m 669.3113,706.09336 c -20.66758,0 -37.42751,4.78128 -37.42751,10.68629 0,0.20229 0.0376,0.3857 0.0763,0.5852 -0.46499,1.22163 -0.7633,2.81357 -0.7633,4.57984 l 0,29.10745 c 0,3.84049 1.32336,6.9461 2.9769,6.9461 0.1886,0 0.38103,-0.0503 0.55975,-0.12715 5.62698,3.87173 18.99062,6.58989 34.57781,6.58989 16.6538,0 30.74204,-3.10729 35.59557,-7.4041 0.17182,0.071 0.35347,0.10177 0.53432,0.10177 1.65352,0 2.9769,-3.08017 2.9769,-6.92065 l 0,-29.10745 c 0,-3.69977 -1.2299,-6.70544 -2.79879,-6.92065 -4.0331,-4.66142 -18.74694,-8.1165 -36.308,-8.1165 z m 33.15298,15.64779 0,27.07197 c -6.25691,-3.40709 -18.75207,-5.72482 -33.15298,-5.72482 -13.67317,0 -25.63128,2.08797 -32.16067,5.21594 l 0,-26.05421 c 6.52939,3.12797 18.4875,5.21592 32.16067,5.21592 14.40091,0 26.89607,-2.31771 33.15298,-5.7248 z"
@@ -1094,23 +1112,22 @@
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="669.56323"
        y="784.16937"
        id="text5344-9-60"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="669.56323"
          y="784.16937"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan9886-0">producton</tspan><tspan
          sodipodi:role="line"
          x="669.56323"
          y="806.66937"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan3803">repository</tspan></text>
     <g
        style="display:inline"
@@ -1180,23 +1197,22 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="846.43823"
        y="785.62512"
        id="text5344-9-8-6"
-       sodipodi:linespacing="125%"
        inkscape:export-filename="/home/jr0cket/Dropbox/Salesforce/Developer Guides/heroku-developer-team-workflow-overview-notitle.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          x="846.43823"
          y="785.62512"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan16117-0">Production</tspan><tspan
          sodipodi:role="line"
          x="846.43823"
          y="808.12512"
-         style="font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold"
+         style="font-weight:bold;font-size:18px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle"
          id="tspan16797-43">application</tspan></text>
     <path
        sodipodi:type="spiral"
