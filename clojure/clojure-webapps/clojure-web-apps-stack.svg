@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="850.38861"
+   height="299.15894"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="clojure-web-apps-stack.svg"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/developer-guides/clojure-web-apps-stack.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="227.75578"
+     inkscape:cy="178.23112"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3440"
+     inkscape:window-height="1419"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="16"
+     fit-margin-left="16"
+     fit-margin-right="16"
+     fit-margin-bottom="16"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="475.17574,495.00114"
+       orientation="1,0"
+       id="guide1114"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="646.29558,473.78793"
+       orientation="1,0"
+       id="guide28367"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="746.70474,280.04068"
+       orientation="0,1"
+       id="guide28480"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="307.59144,19.118287"
+       orientation="0,1"
+       id="guide28482"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-107.72935,-416.79269)">
+    <rect
+       style="fill:#d7eef4;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985"
+       width="657.31134"
+       height="57.469242"
+       x="126.72935"
+       y="636.62756"
+       rx="32.964508"
+       ry="10.926609" />
+    <rect
+       style="fill:#ffd5d5;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985-2"
+       width="657.31134"
+       height="57.456703"
+       x="126.72935"
+       y="561.4433"
+       rx="32.964512"
+       ry="10.924225" />
+    <rect
+       style="fill:#b3ff80;fill-opacity:1;stroke:#000000;stroke-width:6;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985-1"
+       width="657.31134"
+       height="104.00977"
+       x="126.72935"
+       y="439.69977"
+       rx="32.964512"
+       ry="19.775347" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#338000;fill-opacity:1;stroke:#338000;"
+       x="162.1895"
+       y="501.49567"
+       id="text2987-7"><tspan
+         sodipodi:role="line"
+         x="162.1895"
+         y="501.49567"
+         style="font-size:36px;line-height:1.25;font-family:sans-serif;fill:#338000;stroke:#338000;"
+         id="tspan28369">Clojure Application</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#a02c2c;fill-opacity:1;stroke:none;"
+       x="272.77466"
+       y="599.96265"
+       id="text2987"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="272.77466"
+         y="599.96265"
+         style="font-size:36px;line-height:1.25;font-family:sans-serif;fill:#a02c2c;">Operating System</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#3771c8;fill-opacity:1;stroke:none;"
+       x="148.33032"
+       y="675.1532"
+       id="text2987-3"><tspan
+         sodipodi:role="line"
+         id="tspan2989-6"
+         x="148.33032"
+         y="675.1532"
+         style="font-size:36px;line-height:1.25;font-family:sans-serif;fill:#3771c8;">Container / Physical Hardware</tspan></text>
+    <rect
+       style="fill:#c83737;fill-opacity:0.5182482;stroke:#000000;stroke-width:6;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985-1-7"
+       width="171.11986"
+       height="100.44169"
+       x="582.90509"
+       y="442.11328"
+       rx="8.5817528"
+       ry="19.096947" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#ffeeaa;fill-opacity:1;stroke:none;"
+       x="670.87738"
+       y="450.04703"
+       id="text2987-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan2989-0-3"
+         x="670.87738"
+         y="453.16422"
+         style="font-size:36px;line-height:1.25;font-family:sans-serif;fill:#ffeeaa;" /><tspan
+         sodipodi:role="line"
+         x="670.87738"
+         y="471.2814"
+         style="font-size:24px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffeeaa;"
+         id="tspan28369-5">Embedded</tspan><tspan
+         sodipodi:role="line"
+         x="670.87738"
+         y="501.2814"
+         style="font-size:24px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffeeaa;"
+         id="tspan28409">Application</tspan><tspan
+         sodipodi:role="line"
+         x="670.87738"
+         y="531.28137"
+         style="font-size:24px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffeeaa;"
+         id="tspan28407">Server</tspan></text>
+    <rect
+       style="fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:6.23651695;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985-2-2"
+       width="260.92242"
+       height="60.01144"
+       x="-696.83337"
+       y="878.98828"
+       rx="13.0854"
+       ry="11.409956"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#e9afaf;fill-opacity:1;stroke:#e9afaf;"
+       x="-677.49231"
+       y="918.78503"
+       id="text2987-70"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan2989-93"
+         x="-677.49231"
+         y="918.78503"
+         style="font-size:36px;line-height:1.25;font-family:sans-serif;fill:#e9afaf;stroke:#e9afaf;">Monitoring</tspan></text>
+    <rect
+       style="fill:#784421;fill-opacity:1;stroke:#000000;stroke-width:6.23651695;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2985-2-2-6"
+       width="260.92242"
+       height="60.01144"
+       x="-696.83337"
+       y="804.35223"
+       rx="13.0854"
+       ry="11.409956"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#e9c6af;fill-opacity:1;stroke:#e9c6af;"
+       x="-566.9516"
+       y="841.61053"
+       id="text2987-2"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         x="-566.9516"
+         y="841.61053"
+         style="font-size:26.66666603px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#e9c6af;stroke:#e9c6af;"
+         id="tspan28432">Logging Service</tspan></text>
+  </g>
+</svg>
