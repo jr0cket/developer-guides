@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg12382"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="clojure-bank-coin.svg">
+  <defs
+     id="defs12376" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="12.388208"
+     inkscape:cy="47.651728"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="952"
+     inkscape:window-height="1049"
+     inkscape:window-x="4402"
+     inkscape:window-y="4"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata12379">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-280.06665)">
+    <g
+       id="g12361"
+       transform="matrix(0.12214329,0,0,0.12214329,-43.828528,246.2974)">
+      <circle
+         style="fill:#ffed6c;stroke-width:0.76717484"
+         r="65.900322"
+         id="ellipse920"
+         cy="351.92053"
+         cx="423.12155"
+         class="st4"
+         transform="rotate(-0.82524334)" />
+      <circle
+         style="fill:#ffd345;stroke-width:0.76717484"
+         r="49.482777"
+         id="ellipse922"
+         cy="351.92053"
+         cx="423.12155"
+         class="st5"
+         transform="rotate(-0.82524334)" />
+      <path
+         style="fill:#fbb03b;stroke-width:0.76717198"
+         inkscape:connector-curvature="0"
+         id="path924"
+         d="m 382.19127,352.07994 c -0.38359,-27.31133 21.48081,-49.86618 48.79213,-50.24977 16.57092,-0.23015 31.37734,7.74844 40.50669,20.17662 -8.51561,-15.57359 -25.16325,-26.00713 -44.11239,-25.70026 -27.31133,0.38359 -49.17573,22.86173 -48.79214,50.24977 0.15343,10.74041 3.75914,20.63693 9.66636,28.61551 -3.75914,-6.90454 -5.90722,-14.7297 -6.06065,-23.09187 z"
+         class="st6" />
+      <polygon
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         transform="matrix(0.03690163,0,0,0.03684711,391.94248,304.91324)"
+         style="fill:#f4d7d7;fill-opacity:0.64779873;stroke:#ffffff;stroke-width:92.72168732;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="st1"
+         points="990.9,146 533,146 533,439 774.5,439 872.5,744.9 168.3,1836.6 140.3,1880 500.4,1884.5 1024.9,1112.3 1368.5,1979.8 1912,1807.7 1825.5,1540.3 1576,1616.4 "
+         id="polygon4693" />
+    </g>
+  </g>
+</svg>
