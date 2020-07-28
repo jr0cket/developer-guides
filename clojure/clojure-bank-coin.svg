@@ -15,7 +15,10 @@
    version="1.1"
    id="svg12382"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="clojure-bank-coin.svg">
+   sodipodi:docname="clojure-bank-coin.svg"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/developer-guides/clojure/clojure-bank-coin.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs12376" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.9195959"
-     inkscape:cx="12.388208"
+     inkscape:cx="7.8425218"
      inkscape:cy="47.651728"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
