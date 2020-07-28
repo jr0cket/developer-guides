@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="258.54794mm"
+   height="78.985275mm"
+   viewBox="0 0 258.54794 78.985275"
+   version="1.1"
+   id="svg912"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="clojure-repl-driven-development-rebel-readline.svg"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/developer-guides/clojure/clojure-repl-read-evaluate-print.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs906">
+    <linearGradient
+       gradientTransform="matrix(0.63636,0,0,0.62142,-252.21,-311.09)"
+       gradientUnits="userSpaceOnUse"
+       y2="507.79999"
+       x2="0"
+       y1="542.79999"
+       id="0">
+      <stop
+         stop-color="#252525"
+         id="stop4039" />
+      <stop
+         offset="1"
+         stop-color="#4c4c4c"
+         id="stop4041" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4221">
+      <stop
+         id="stop4223"
+         offset="0"
+         style="stop-color:#c0c0dc;stop-opacity:1" />
+      <stop
+         style="stop-color:#c0c0dd;stop-opacity:1"
+         offset="0.11419532"
+         id="stop4225" />
+      <stop
+         id="stop4227"
+         offset="0.47871608"
+         style="stop-color:#a191bf;stop-opacity:1" />
+      <stop
+         id="stop4229"
+         offset="1"
+         style="stop-color:#625681;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(0.4887125,0,0,0.4887125,7.5674041,560.78197)"
+       xlink:href="#linearGradient4274"
+       id="linearGradient7595"
+       x1="-0.65353984"
+       y1="934.5658"
+       x2="46.893108"
+       y2="951.89844"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4274">
+      <stop
+         id="stop4276"
+         offset="0"
+         style="stop-color:#eeeeec;stop-opacity:1" />
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:1"
+         offset="0.0837483"
+         id="stop4181" />
+      <stop
+         id="stop4280"
+         offset="0.3513594"
+         style="stop-color:#eeeeec;stop-opacity:1" />
+      <stop
+         id="stop4282"
+         offset="1"
+         style="stop-color:#e0d5d5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient7589"
+       id="linearGradient4317"
+       x1="303.64438"
+       y1="608.87836"
+       x2="396.9097"
+       y2="672.25775"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19229712,0.06206447,-0.10031905,0.17023858,27.947597,914.55215)" />
+    <linearGradient
+       id="linearGradient7589">
+      <stop
+         id="stop7591"
+         offset="0"
+         style="stop-color:#351347;stop-opacity:1" />
+      <stop
+         id="stop7593"
+         offset="1"
+         style="stop-color:#5c3566;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4311"
+       id="linearGradient4301"
+       x1="306.88434"
+       y1="425.15848"
+       x2="377.03168"
+       y2="364.66345"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.07485012,0.08932098,-0.08626544,0.06221301,53.22269,961.64413)" />
+    <linearGradient
+       id="linearGradient4311">
+      <stop
+         style="stop-color:#351e47;stop-opacity:1"
+         offset="0"
+         id="stop4313" />
+      <stop
+         style="stop-color:#5c3566;stop-opacity:0;"
+         offset="1"
+         id="stop4315" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4274"
+       id="linearGradient4230"
+       x1="267.65439"
+       y1="527.33502"
+       x2="329.16669"
+       y2="429.49622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.15153279,0.0143268,-0.0143268,0.15153279,-12.641966,950.28506)" />
+    <linearGradient
+       xlink:href="#linearGradient4196"
+       id="linearGradient5577"
+       x1="308.41003"
+       y1="511.44083"
+       x2="190.84904"
+       y2="465.96136"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.13467,0.03941451,0.04093431,0.13986281,58.64004,937.70038)" />
+    <linearGradient
+       id="linearGradient4196">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4198" />
+      <stop
+         id="stop4200"
+         offset="0.11419532"
+         style="stop-color:#fffff2;stop-opacity:1" />
+      <stop
+         style="stop-color:#d2acd2;stop-opacity:1"
+         offset="0.47871608"
+         id="stop4202" />
+      <stop
+         style="stop-color:#123069;stop-opacity:1"
+         offset="1"
+         id="stop4204" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient6003"
+       id="radialGradient5136-0-6-65-3-7"
+       cx="322.17105"
+       cy="472.51749"
+       fx="322.17105"
+       fy="472.51749"
+       r="169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.35330232,0.22380216,-0.20519478,0.28121264,-702.27629,-398.30317)" />
+    <linearGradient
+       id="linearGradient6003">
+      <stop
+         id="stop6005"
+         offset="0"
+         style="stop-color:#c2c6db;stop-opacity:1" />
+      <stop
+         style="stop-color:#bab1e0;stop-opacity:1"
+         offset="0.33969504"
+         id="stop6007" />
+      <stop
+         style="stop-color:#8d77a3;stop-opacity:1"
+         offset="0.44414869"
+         id="stop6009" />
+      <stop
+         id="stop6011"
+         offset="0.55217898"
+         style="stop-color:#675a84;stop-opacity:1" />
+      <stop
+         id="stop6013"
+         offset="1"
+         style="stop-color:#050846;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient6003"
+       id="radialGradient5136-0-6-6-2-1-2"
+       cx="322.17105"
+       cy="472.51749"
+       fx="322.17105"
+       fy="472.51749"
+       r="169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.34999481,0.21378108,-0.20327385,0.26862109,-680.60673,-453.66251)" />
+    <radialGradient
+       xlink:href="#linearGradient6003"
+       id="radialGradient5136-0-6-6-8-6-9-2"
+       cx="322.17105"
+       cy="472.51749"
+       fx="322.17105"
+       fy="472.51749"
+       r="169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19223796,0.10084273,-0.11165007,0.1267112,-724.74062,-701.33347)" />
+    <radialGradient
+       xlink:href="#linearGradient6003"
+       id="radialGradient5136-0-6-6-8-3-1-9-5"
+       cx="322.17105"
+       cy="472.51749"
+       fx="322.17105"
+       fy="472.51749"
+       r="169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.19828589,0.10913228,-0.11516262,0.13712722,-658.03031,-481.71303)" />
+    <radialGradient
+       xlink:href="#linearGradient6003"
+       id="radialGradient5136-0-6-6-8-8-8-5-9"
+       cx="322.17105"
+       cy="472.51749"
+       fx="322.17105"
+       fy="472.51749"
+       r="169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.14184903,0.08187422,-0.08238465,0.10287694,-643.98232,-766.01725)" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       x1="128"
+       y1="10.271404"
+       x2="128"
+       y2="255.85777"
+       id="linearGradient-1">
+      <stop
+         stop-color="#FDFDFD"
+         offset="0%"
+         id="stop9377" />
+      <stop
+         stop-color="#CBCBCB"
+         offset="100%"
+         id="stop9379" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       x1="127.85778"
+       y1="20.497169"
+       x2="127.85778"
+       y2="245.0489"
+       id="linearGradient-2">
+      <stop
+         stop-color="#B2E198"
+         offset="0%"
+         id="stop9382" />
+      <stop
+         stop-color="#04A171"
+         offset="100%"
+         id="stop9384" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="471.87464"
+     inkscape:cy="-205.76339"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1712"
+     inkscape:window-height="1409"
+     inkscape:window-x="1722"
+     inkscape:window-y="4"
+     inkscape:window-maximized="0"
+     fit-margin-top="4"
+     fit-margin-left="4"
+     fit-margin-right="4"
+     fit-margin-bottom="4" />
+  <metadata
+     id="metadata909">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(134.47481,36.955697)">
+    <g
+       transform="translate(17.244408,-102.47434)"
+       id="g6396-2">
+      <g
+         transform="matrix(0.36501054,0,0,0.37637635,27.163251,74.617556)"
+         id="g3895-0">
+        <path
+           style="fill:#ffe680;fill-opacity:1;stroke:#d4aa00;stroke-width:0.81208915"
+           inkscape:connector-curvature="0"
+           d="m 158.30373,129.73611 c -0.64825,1.38266 -2.5497,1.19556 -3.26925,-0.047 -9.22893,-10.90804 -18.31182,-21.9414 -27.51469,-32.88056 -0.73545,-1.02221 -2.082,-2.12887 -1.42102,-3.56437 0.71948,-1.39905 2.35305,-0.89194 3.57281,-0.91438 3.77009,0.23161 7.53593,0.48103 11.29691,0.67319 -2.85082,-14.58536 -12.01122,-27.90915 -24.92736,-35.35963 -2.04952,-1.22799 -4.29271,-2.10313 -6.34766,-3.35479 -0.82544,-1.26826 0.11678,-2.67704 0.50258,-3.9325 2.95941,-7.01513 5.68641,-14.13488 8.70852,-21.1311 0.65994,-1.69369 2.46855,-0.75191 3.60599,-0.26375 14.2958,6.56604 26.38612,17.63177 34.608,31.00513 5.96944,9.60029 9.69358,20.4512 11.60068,31.55378 4.32073,-0.77838 8.62514,-1.62802 12.9568,-2.25073 1.39654,-0.41319 2.0143,1.00278 2.63418,1.885 -8.50532,12.96751 -17.32223,25.74 -26.00647,38.58193 z"
+           id="path4277-3-2" />
+        <path
+           style="fill:#b3ff80;fill-opacity:1;stroke:#55d400;stroke-width:0.81208915"
+           inkscape:connector-curvature="0"
+           d="m 48.27408,117.98764 c -0.83928,-1.27578 0.31482,-2.79846 1.7503,-2.76164 14.12432,-2.15934 28.279,-4.12866 42.41617,-6.24954 1.25594,-0.0921 2.90349,-0.66075 3.78115,0.65351 0.816,1.34505 -0.47075,2.47199 -1.08967,3.52331 -2.16959,3.09193 -4.3521,6.17095 -6.48332,9.27578 13.92186,5.20014 30.06919,4.36292 43.17554,-2.74759 2.11871,-1.10434 4.03799,-2.55834 6.17972,-3.65494 1.51268,-0.0403 2.22045,1.49993 3.08861,2.48548 4.43064,6.1919 9.07201,12.24045 13.45372,18.47591 1.09824,1.44843 -0.65054,2.49716 -1.66155,3.2112 -13.07432,8.74903 -28.82982,13.26454 -44.52843,13.27596 -11.30468,0.0655 -22.50064,-2.43683 -32.9606,-6.61936 -1.59683,4.08956 -3.1244,8.20253 -4.85965,12.21999 -0.37845,1.40634 -1.90834,1.19215 -2.98448,1.25893 -6.6025,-14.03225 -12.87578,-28.22802 -19.27765,-42.34707 z"
+           id="path4277-6-3" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:#d40000;stroke-width:0.81208915"
+           inkscape:connector-curvature="0"
+           d="m 112.20924,26.44496 c 1.52035,-0.14304 2.32404,1.59036 1.61841,2.84093 -4.71606,13.48769 -9.61421,26.91313 -14.37029,40.39411 -0.50765,1.15244 -0.77791,2.87432 -2.35028,3.0332 -1.57064,0.09 -1.9626,-1.57497 -2.60092,-2.61462 -1.71355,-3.36614 -3.40959,-6.73765 -5.15251,-10.07596 -11.12129,9.85783 -17.95374,24.51231 -17.8194,39.42264 -0.0182,2.38918 0.36608,4.76619 0.33032,7.17208 -0.67397,1.35483 -2.36601,1.25783 -3.64359,1.56245 -7.54656,1.00976 -15.06534,2.27286 -22.62744,3.21897 -1.79429,0.29081 -1.90055,-1.74555 -2.05711,-2.97339 -1.59654,-15.65034 1.80337,-31.68364 9.15479,-45.55458 5.2432,-10.01542 12.70346,-18.7307 21.30258,-26.008 -2.86326,-3.32813 -5.77965,-6.606 -8.51431,-10.02253 -1.0647,-0.9937 -0.15809,-2.24455 0.28756,-3.22636 15.48988,0.74854 30.96982,1.86453 46.44231,2.83098 z"
+           id="path4277-7-7" />
+      </g>
+      <g
+         transform="matrix(0.8171927,0,0,0.8171927,10.531774,19.512236)"
+         id="g3908-5">
+        <rect
+           style="opacity:0.47999998;fill:#eef4d7;fill-opacity:1;stroke:#ffffff;stroke-width:0.65494972;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3799-6-9"
+           width="51.283428"
+           height="19.237238"
+           x="45.52816"
+           y="99.827278"
+           ry="4.5301442" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9.54902554px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5881d8;fill-opacity:1;stroke:#0044aa;stroke-width:0.48002273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           x="46.469261"
+           y="114.92083"
+           id="text1492-5-2"
+           transform="scale(0.98478527,1.0154498)"><tspan
+             sodipodi:role="line"
+             id="tspan1490-3-2"
+             x="46.469261"
+             y="114.92083"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.37125397px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold Italic';fill:#5881d8;fill-opacity:1;stroke:#0044aa;stroke-width:0.48002273;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">REPL</tspan></text>
+      </g>
+    </g>
+    <rect
+       id="rect4046-8"
+       rx="5.3088074"
+       y="-20.352345"
+       x="-129.94565"
+       height="57.852757"
+       width="149.54387"
+       style="fill:#fdf6e3;fill-opacity:1;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       id="g5688-9"
+       transform="translate(37.449978,-92.55864)">
+      <g
+         transform="translate(-54.255714,-2.6192414)"
+         id="g5662-7">
+        <polygon
+           id="polygon4693-5-0-6-3"
+           points="168.3,1836.6 140.3,1880 500.4,1884.5 1024.9,1112.3 1368.5,1979.8 1912,1807.7 1825.5,1540.3 1576,1616.4 990.9,146 533,146 533,439 774.5,439 872.5,744.9 "
+           class="st1"
+           style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:92.72168732;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.00613633,0,0,0.00612726,-110.62689,77.126033)"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56689328;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5148-3-6-1-6"
+           width="8.7204313"
+           height="2.0635765"
+           x="-98.704765"
+           y="86.772369"
+           rx="0.010850896"
+           ry="0.021155043" />
+      </g>
+      <text
+         id="text5532-12"
+         y="84.855957"
+         x="-139.6268"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.26458332"
+           y="84.855957"
+           x="-139.6268"
+           id="tspan5530-9"
+           sodipodi:role="line">clojure -A:rebel</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-128.28554"
+       y="20.941317"
+       id="text5532-7-9-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan5530-0-3-0-1"
+         x="-128.28554"
+         y="20.941317"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.26458332">(2 3 4 5 6)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-127.8093"
+       y="32.731663"
+       id="text5532-2-6-9"><tspan
+         sodipodi:role="line"
+         id="tspan5530-9-2-4"
+         x="-127.8093"
+         y="32.731663"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#808080;stroke-width:0.26458332">user=&gt;</tspan></text>
+    <g
+       id="g5670-7"
+       transform="translate(39.937598,-92.55864)">
+      <text
+         id="text5532-1-8"
+         y="100.34552"
+         x="-128.16394"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#0000ff;stroke:#0000ff;stroke-width:0.26458332"
+           y="100.34552"
+           x="-128.16394"
+           id="tspan5530-2-4"
+           sodipodi:role="line">map inc</tspan></text>
+      <text
+         id="text5532-7-5"
+         y="100.49898"
+         x="-132.84116"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.26458332"
+           y="100.49898"
+           x="-132.84116"
+           id="tspan5530-0-0"
+           sodipodi:role="line">(</tspan></text>
+      <text
+         id="text5532-7-9-3"
+         y="100.49898"
+         x="-88.198708"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.26458332"
+           y="100.49898"
+           x="-88.198708"
+           id="tspan5530-0-3-6"
+           sodipodi:role="line">[1 2 3 4 5])</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-127.8093"
+       y="7.5699348"
+       id="text5532-2-6-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan5530-9-2-1-0"
+         x="-127.8093"
+         y="7.5699348"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#808080;stroke-width:0.26458332">user=&gt;</tspan></text>
+    <path
+       style="stroke-width:0.12531705"
+       inkscape:connector-curvature="0"
+       d="m 21.626298,17.045681 c 3.11317,-2.16853 6.23544,-4.32879 9.3562,-6.49112 0.0137,0.87651 0.002,1.75405 0.006,2.63159 7.60742,0.003 15.21333,0 22.81923,0.002 -1.82323,1.28892 -3.69204,2.54787 -5.51527,3.83783 0.14131,0.19018 0.41327,0.32042 0.62294,0.4765 1.63331,1.13284 3.27724,2.25845 4.89689,3.4006 -7.60743,0 -15.21637,-0.002 -22.82379,0.001 -0.002,0.87445 0.003,1.74992 -0.002,2.62437 -3.1314,-2.15305 -6.24,-4.32262 -9.36076,-6.48287 z"
+       id="path4143-6" />
+    <path
+       style="stroke-width:0.12531705"
+       inkscape:connector-curvature="0"
+       d="m 53.812378,3.1323415 c -3.11316,-2.16853004 -6.23544,-4.32879 -9.3562,-6.49111 -0.0137,0.87651 -0.002,1.75404 -0.006,2.63157996 -7.60742,0.003 -15.21332,0 -22.81922,0.002 1.82323,1.28892 3.69204,2.54787004 5.51527,3.83783004 -0.14131,0.19018 -0.41327,0.32042 -0.62294,0.4765 -1.63331,1.13284 -3.27724,2.25845 -4.89689,3.4006 7.60742,0 15.21636,-0.002 22.82378,0.001 0.002,0.87445 -0.003,1.74992 0.002,2.62437 3.13139,-2.15306 6.23999,-4.32263 9.36075,-6.48288 z"
+       id="path4143-8-3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-118.92693"
+       y="-24.914845"
+       id="text6368-2"><tspan
+         sodipodi:role="line"
+         id="tspan6366-0"
+         x="-118.92693"
+         y="-24.914845"
+         style="stroke-width:0.26458332">Command Line Terminal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="50.759544"
+       y="-24.524029"
+       id="text6368-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan6366-9-1"
+         x="50.759544"
+         y="-24.524029"
+         style="stroke-width:0.26458332">REPL Process</tspan></text>
+  </g>
+</svg>
