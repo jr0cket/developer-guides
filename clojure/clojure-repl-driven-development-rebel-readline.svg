@@ -17,7 +17,7 @@
    id="svg912"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="clojure-repl-driven-development-rebel-readline.svg"
-   inkscape:export-filename="/home/practicalli/projects/practicalli/developer-guides/clojure/clojure-repl-read-evaluate-print.png"
+   inkscape:export-filename="/home/practicalli/projects/practicalli/developer-guides/clojure/clojure-repl-driven-development-rebel-readline.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -276,15 +276,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="471.87464"
-     inkscape:cy="-205.76339"
+     inkscape:cy="-205.26339"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:window-width="1712"
-     inkscape:window-height="1409"
-     inkscape:window-x="1722"
-     inkscape:window-y="4"
+     inkscape:window-width="3440"
+     inkscape:window-height="1419"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      fit-margin-top="4"
      fit-margin-left="4"
@@ -298,7 +298,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -363,41 +363,37 @@
        width="149.54387"
        style="fill:#fdf6e3;fill-opacity:1;stroke:#000000;stroke-width:1.05833328;stroke-miterlimit:4;stroke-dasharray:none" />
     <g
-       id="g5688-9"
-       transform="translate(37.449978,-92.55864)">
-      <g
-         transform="translate(-54.255714,-2.6192414)"
-         id="g5662-7">
-        <polygon
-           id="polygon4693-5-0-6-3"
-           points="168.3,1836.6 140.3,1880 500.4,1884.5 1024.9,1112.3 1368.5,1979.8 1912,1807.7 1825.5,1540.3 1576,1616.4 990.9,146 533,146 533,439 774.5,439 872.5,744.9 "
-           class="st1"
-           style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:92.72168732;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           transform="matrix(0.00613633,0,0,0.00612726,-110.62689,77.126033)"
-           inkscape:export-xdpi="90"
-           inkscape:export-ydpi="90" />
-        <rect
-           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56689328;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="rect5148-3-6-1-6"
-           width="8.7204313"
-           height="2.0635765"
-           x="-98.704765"
-           y="86.772369"
-           rx="0.010850896"
-           ry="0.021155043" />
-      </g>
-      <text
-         id="text5532-12"
-         y="84.855957"
-         x="-139.6268"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.26458332"
-           y="84.855957"
-           x="-139.6268"
-           id="tspan5530-9"
-           sodipodi:role="line">clojure -A:rebel</tspan></text>
+       id="g5662-7"
+       transform="translate(-16.805736,-95.177881)">
+      <polygon
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         transform="matrix(0.00613633,0,0,0.00612726,-110.62689,77.126033)"
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:92.72168732;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         class="st1"
+         points="500.4,1884.5 1024.9,1112.3 1368.5,1979.8 1912,1807.7 1825.5,1540.3 1576,1616.4 990.9,146 533,146 533,439 774.5,439 872.5,744.9 168.3,1836.6 140.3,1880 "
+         id="polygon4693-5-0-6-3" />
+      <rect
+         ry="0.021155043"
+         rx="0.010850896"
+         y="86.772369"
+         x="-98.704765"
+         height="2.0635765"
+         width="8.7204313"
+         id="rect5148-3-6-1-6"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.56689328;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-102.17682"
+       y="-7.702683"
+       id="text5532-12"><tspan
+         sodipodi:role="line"
+         id="tspan5530-9"
+         x="-102.17682"
+         y="-7.702683"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.26458332">clojure -M:repl/rebel</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
